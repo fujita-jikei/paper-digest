@@ -2,8 +2,10 @@
 import os
 import smtplib
 from datetime import datetime, timedelta, timezone
+from email.mime.audio import MIMEAudio
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
+from pathlib import Path
 
 JST = timezone(timedelta(hours=9))
 
@@ -73,17 +75,26 @@ def build_html(papers: list[dict], cfg: dict, archive_url: str) -> str:
 </body></html>"""
 
 
-def send_email(papers: list[dict], cfg: dict, archive_url: str) -> None:
+def send_email(
+    papers: list[dict], cfg: dict, archive_url: str, attachment: str | None = None
+) -> None:
     sender = os.environ["GMAIL_ADDRESS"]
     password = os.environ["GMAIL_APP_PASSWORD"]
     to = os.environ.get("MAIL_TO") or cfg["email"]["to"] or sender
 
     today = datetime.now(JST).strftime("%-m/%-d")
-    msg = MIMEMultipart("alternative")
+    msg = MIMEMultipart("mixed")
     msg["Subject"] = f'{cfg["email"]["subject_prefix"]}{today} {cfg["specialty_name"]} 新着{len(papers)}本'
     msg["From"] = sender
     msg["To"] = to
     msg.attach(MIMEText(build_html(papers, cfg, archive_url), "html", "utf-8"))
+
+    # 音声ファイルを添付(生成に失敗していた場合はスキップ)
+    if attachment and Path(attachment).exists():
+        part = MIMEAudio(Path(attachment).read_bytes(), _subtype="mpeg")
+        fname = f"digest_{datetime.now(JST).strftime('%Y%m%d')}.mp3"
+        part.add_header("Content-Disposition", "attachment", filename=fname)
+        msg.attach(part)
 
     with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
         server.login(sender, password)

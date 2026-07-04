@@ -1,5 +1,31 @@
 [
  {
+  "date": "2026-07-05",
+  "pmid": "42385752",
+  "title": "The role of primary care in response to the global liver disease syndemic: a Lancet Gastroenterology & Hepatology Commission.",
+  "title_ja": "肝疾患シンデミックへの対応におけるプライマリケアの役割：Lancet消化器肝臓学委員会報告",
+  "journal": "Lancet Gastroenterol Hepatol",
+  "year": "2026",
+  "authors": "Jarvis H, Brennan PN, Casanovas T ほか",
+  "summary": "本論文はLancet Gastroenterology & Hepatology委員会による総説であり、肝疾患が世界的に重大な罹患率・死亡率をもたらしている現状を包括的にレビューしている。アルコール使用や代謝機能障害に起因する脂肪性肝疾患の負担増加と慢性ウイルス性肝炎の持続的課題が指摘されており、低社会経済状況にある人々や社会的に周縁化されたグループで疾患負担が特に高いことが強調されている。肝疾患は糖尿病・がん・精神疾患などの多疾患併存と双方向的な関連を持つため、統合的・人中心のケアが必要とされる。委員会は、プライマリケアが肝疾患の集団レベルでの予防・早期発見・管理において中心的役割を担うべきであるとし、不平等の是正、最低限のサービスパッケージの定義、デジタル革新の活用、スティグマ軽減を含む推奨事項を提示している。",
+  "key_points": [
+   "肝疾患の負担は国内・国家間で不平等であり、低社会経済層や周縁化されたグループでは危険因子へのさらされやすさと医療アクセス不足が重なっている。",
+   "肝疾患は糖尿病・がん・精神疾患などの多疾患併存と双方向的な関係があり、統合的・人中心のケアパスの構築が求められる。",
+   "プライマリケアは肝疾患の予防・早期発見・管理において重要な位置を占めるが、政策・教育・システム設計における肝疾患への注目は依然として不十分である。"
+  ],
+  "clinical_relevance": "消化器内科専攻医は、肝疾患管理においてプライマリケアとの多職種連携や統合的ケアパス構築の重要性を理解し、早期発見・予防戦略を日常診療に組み込む視点を養うことが求められる。",
+  "study_type": "総説",
+  "tags": [
+   "肝疾患",
+   "プライマリケア",
+   "脂肪性肝疾患",
+   "医療格差"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42385752/",
+  "doi_url": "https://doi.org/10.1016/S2468-1253(26)00015-4",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-07-04",
   "pmid": "42399086",
   "title": "Glucagon-like peptide-1 receptor agonists versus dipeptidyl peptidase-4 inhibitors after liver resection for hepatocellular carcinoma in patients with type 2 diabetes: a target trial emulation study.",

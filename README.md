@@ -1,3 +1,66 @@
-requests>=2.31
-PyYAML>=6.0
+# ============================================================
+# 論文ダイジェスト設定ファイル
+# 専門を変えたいときは、このファイルだけ編集すればOK
+# ============================================================
 
+# 専門分野の表示名(メール件名・アーカイブに使用)
+specialty_name: "消化器内科"
+
+# --- 論文の収集条件 -------------------------------------------
+search:
+  # 主要ジャーナル(PubMedの略称表記)。新着を優先的に拾う
+  journals:
+    - "Gastroenterology"
+    - "Gut"
+    - "Am J Gastroenterol"
+    - "Gastrointest Endosc"
+    - "Endoscopy"
+    - "Clin Gastroenterol Hepatol"
+    - "J Gastroenterol"
+    - "Lancet Gastroenterol Hepatol"
+    - "N Engl J Med"
+    - "Lancet"
+    - "JAMA"
+
+  # キーワード(MeSH/フリーワード)。ジャーナル指定と OR で結合
+  # NEJM/Lancet/JAMA などの総合誌はこのキーワードに合致した論文のみ拾う
+  keywords:
+    - "inflammatory bowel disease"
+    - "colorectal cancer"
+    - "endoscopy"
+    - "endoscopic submucosal dissection"
+    - "Helicobacter pylori"
+    - "hepatocellular carcinoma"
+    - "pancreatitis"
+    - "gastroesophageal reflux"
+    - "liver cirrhosis"
+
+  # 何日前まで遡って新着を探すか(PubMed登録日ベース)
+  days_back: 2
+
+  # 1日に扱う論文の上限(多すぎると読まなくなるので8前後推奨)
+  max_papers: 8
+
+  # 除外する論文タイプ
+  exclude_types:
+    - "Comment"
+    - "Editorial"
+    - "Letter"
+    - "Erratum"
+
+# --- 要約の設定 -----------------------------------------------
+summary:
+  model: "claude-sonnet-4-6"
+  language: "日本語"
+  # 読者像をプロンプトに反映(研修医向け・専門医向けなど)
+  audience: "消化器内科を志望する日本の医師"
+
+# --- メール通知 -----------------------------------------------
+email:
+  subject_prefix: "【朝の論文】"
+  # 宛先は GitHub Secrets の MAIL_TO を優先。未設定ならここを使う
+  to: ""
+
+# --- アーカイブ -----------------------------------------------
+archive:
+  site_title: "消化器論文アーカイブ"

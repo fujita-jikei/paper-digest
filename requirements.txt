@@ -1,91 +1,102 @@
-"""要約結果をHTMLメールで送信するモジュール(Gmail SMTP)."""
-import os
-import smtplib
-from datetime import datetime, timedelta, timezone
-from email.mime.multipart import MIMEMultipart
-from email.mime.text import MIMEText
+# 📚 毎朝の論文ダイジェスト自動化システム
 
-JST = timezone(timedelta(hours=9))
+毎朝6時に消化器関連の新着論文を自動収集し、日本語要約をメールでお届けして、アーカイブサイトに蓄積するシステムです。サーバー不要・GitHub だけで完結します。
 
-STYLE = """
-  body { font-family: 'Hiragino Sans', 'Noto Sans JP', sans-serif; color: #1a2421;
-         max-width: 640px; margin: 0 auto; padding: 16px; line-height: 1.7; }
-  .head { border-bottom: 3px solid #0f6b5c; padding-bottom: 8px; margin-bottom: 20px; }
-  .head h1 { font-size: 20px; margin: 0; }
-  .head p { color: #667; font-size: 13px; margin: 4px 0 0; }
-  .paper { border: 1px solid #dde3e0; border-radius: 10px; padding: 16px 18px; margin-bottom: 18px; }
-  .badge { display: inline-block; background: #0f6b5c; color: #fff; font-size: 11px;
-           border-radius: 4px; padding: 2px 8px; margin-right: 6px; }
-  .tag { display: inline-block; background: #f2ede2; color: #8a5a1e; font-size: 11px;
-         border-radius: 4px; padding: 2px 8px; margin-right: 4px; }
-  .title-ja { font-size: 16px; font-weight: 700; margin: 8px 0 2px; }
-  .title-en { font-size: 12px; color: #667; margin: 0 0 8px; }
-  .meta { font-size: 12px; color: #556; margin-bottom: 10px; }
-  .summary { font-size: 14px; margin: 0 0 10px; }
-  ul.kp { margin: 0 0 10px; padding-left: 20px; font-size: 13px; }
-  .rel { font-size: 13px; background: #f0f7f5; border-left: 3px solid #0f6b5c;
-         padding: 8px 12px; margin-bottom: 12px; }
-  .links a { font-size: 13px; color: #0f6b5c; margin-right: 14px; }
-  .foot { font-size: 12px; color: #778; border-top: 1px solid #dde3e0; padding-top: 12px; }
-"""
+## 仕組み
 
+```
+毎朝6:00 (GitHub Actions)
+  → PubMed E-utilities で新着論文を検索
+  → Claude API で日本語要約を生成
+  → Gmail でダイジェストメールを送信
+  → GitHub Pages のアーカイブサイトに蓄積
+```
 
-def build_html(papers: list[dict], cfg: dict, archive_url: str) -> str:
-    today = datetime.now(JST).strftime("%Y年%m月%d日")
-    cards = []
-    for p in papers:
-        kp = "".join(f"<li>{k}</li>" for k in p.get("key_points", []))
-        tags = "".join(f'<span class="tag">{t}</span>' for t in p.get("tags", []))
-        links = f'<a href="{p["pubmed_url"]}">PubMed</a>'
-        if p.get("doi_url"):
-            links += f'<a href="{p["doi_url"]}">本文 (DOI)</a>'
-        if p.get("pmc_url"):
-            links += f'<a href="{p["pmc_url"]}">無料全文 (PMC)</a>'
-        rel = (
-            f'<div class="rel">{p["clinical_relevance"]}</div>'
-            if p.get("clinical_relevance")
-            else ""
-        )
-        cards.append(f"""
-        <div class="paper">
-          <div><span class="badge">{p.get("study_type", "")}</span>{tags}</div>
-          <p class="title-ja">{p.get("title_ja", p["title"])}</p>
-          <p class="title-en">{p["title"]}</p>
-          <p class="meta">{p["journal"]} ({p["year"]}) — {p["authors"]}</p>
-          <p class="summary">{p.get("summary", "")}</p>
-          <ul class="kp">{kp}</ul>
-          {rel}
-          <div class="links">{links}</div>
-        </div>""")
+じっくり聴きたい論文があれば、メール内の「無料全文 (PMC)」や「本文 (DOI)」のリンクを NotebookLM に貼り付ければ、対談形式の高品質な音声概要が作れます(深掘りはNotebookLM、毎日の網羅はこのシステム、という分担です)。
 
-    return f"""<!DOCTYPE html><html><head><meta charset="utf-8"><style>{STYLE}</style></head>
-<body>
-  <div class="head">
-    <h1>{cfg["specialty_name"]} 論文ダイジェスト</h1>
-    <p>{today} / {len(papers)}本の新着</p>
-  </div>
-  {"".join(cards)}
-  <div class="foot">
-    <p>📚 過去の論文は <a href="{archive_url}">アーカイブ</a> でいつでも見返せます。</p>
-    <p>🎧 じっくり聴きたい論文は、上の「無料全文 (PMC)」や「本文 (DOI)」のリンクを
-       NotebookLM に貼り付けると対談形式の音声概要が作れます。</p>
-  </div>
-</body></html>"""
+## セットアップ手順(初回のみ・約20分)
 
+### 1. GitHub リポジトリを作成してアップロード
 
-def send_email(papers: list[dict], cfg: dict, archive_url: str) -> None:
-    sender = os.environ["GMAIL_ADDRESS"]
-    password = os.environ["GMAIL_APP_PASSWORD"]
-    to = os.environ.get("MAIL_TO") or cfg["email"]["to"] or sender
+1. GitHub で新しいリポジトリを作成(例: `paper-digest`)。**Public** にすると GitHub Pages が無料で使えます(アーカイブが誰でも閲覧可能になる点に注意。Private にしたい場合は GitHub Pro 等が必要)
+2. このフォルダの中身を丸ごとアップロード
+   - Web からなら「Add file → Upload files」でドラッグ&ドロップ
+   - コマンドなら:
+     ```bash
+     cd gi-paper-digest
+     git init && git add . && git commit -m "initial"
+     git remote add origin https://github.com/あなたのユーザー名/paper-digest.git
+     git push -u origin main
+     ```
 
-    today = datetime.now(JST).strftime("%-m/%-d")
-    msg = MIMEMultipart("alternative")
-    msg["Subject"] = f'{cfg["email"]["subject_prefix"]}{today} {cfg["specialty_name"]} 新着{len(papers)}本'
-    msg["From"] = sender
-    msg["To"] = to
-    msg.attach(MIMEText(build_html(papers, cfg, archive_url), "html", "utf-8"))
+### 2. Gmail のアプリパスワードを取得
 
-    with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
-        server.login(sender, password)
-        server.send_message(msg)
-    print(f"メール送信完了: {to}")
+通常のGoogleパスワードは使えません。専用の「アプリパスワード」を発行します。
+
+1. Google アカウントで **2段階認証** を有効化(必須)
+2. https://myaccount.google.com/apppasswords にアクセス
+3. アプリ名(例: `paper-digest`)を入力して「作成」
+4. 表示された **16桁のパスワード** を控える
+
+### 3. GitHub Secrets を設定
+
+リポジトリの **Settings → Secrets and variables → Actions → New repository secret** から、以下の4つを登録します。
+
+| Secret 名 | 値 |
+|---|---|
+| `ANTHROPIC_API_KEY` | Anthropic の API キー(https://platform.claude.com で取得) |
+| `GMAIL_ADDRESS` | 送信元の Gmail アドレス |
+| `GMAIL_APP_PASSWORD` | 手順2で取得した16桁のアプリパスワード |
+| `MAIL_TO` | 受信したいメールアドレス(Gmail 以外でも可) |
+
+### 4. GitHub Pages を有効化(アーカイブサイト)
+
+1. リポジトリの **Settings → Pages**
+2. Source: **Deploy from a branch**
+3. Branch: **main**、フォルダ: **/docs** を選択して Save
+4. 数分後、`https://あなたのユーザー名.github.io/paper-digest/` でアーカイブが公開されます
+
+### 5. 動作テスト(手動実行)
+
+1. リポジトリの **Actions** タブ → **Daily Paper Digest**
+2. **Run workflow** ボタンで手動実行
+3. 数分でメールが届き、アーカイブサイトに論文が表示されれば成功 🎉
+
+以降は毎朝6時(JST)に自動実行されます。
+
+## カスタマイズ(`config.yaml` を編集するだけ)
+
+**専門を変える(例: 消化器 → 循環器)** — `specialty_name`、`search.journals`、`search.keywords` を書き換えるだけです。コードの変更は不要です。
+
+**その他の調整** — 1日の論文数上限(`max_papers`)、遡る日数(`days_back`)、読者像(`summary.audience`: 「専門医」に変えると要約の深さが変わります)なども自由に変更できます。
+
+配信時刻を変えたい場合は `.github/workflows/daily.yml` の cron を編集します(UTC表記。JST−9時間。例: 朝5時なら `0 20 * * *`)。
+
+## 運用コスト
+
+- GitHub Actions / Pages: **無料**(Publicリポジトリの場合)
+- PubMed E-utilities: **無料**
+- Claude API: 1日8本の要約で **数円〜十数円/日** 程度が目安(従量課金。正確な料金は https://docs.claude.com を参照)
+
+## トラブルシューティング
+
+- **メールが届かない** → Actions のログを確認。`Authentication failed` なら アプリパスワードの再確認(スペースは除いて入力)
+- **論文が0本** → `days_back` を増やす、またはキーワードを広げる。週末はジャーナルの新着登録が少ないこともあります
+- **実行時刻が遅れる** → GitHub Actions の cron は仕様上、混雑時に数十分遅れることがあります
+- **要約の質を上げたい** → `config.yaml` の `summary.audience` を具体的に(例: 「消化器内視鏡を専門とする医師」)
+
+## ファイル構成
+
+```
+├── config.yaml              # 設定(専門・ジャーナル・キーワード)← ここだけ触ればOK
+├── src/
+│   ├── main.py              # パイプライン本体
+│   ├── fetch_papers.py      # PubMed 収集
+│   ├── summarize.py         # Claude API 要約
+│   ├── notify.py            # メール送信
+│   └── archive.py           # アーカイブ管理
+├── docs/
+│   ├── index.html           # アーカイブ閲覧ページ(GitHub Pages)
+│   └── data/papers.json     # 蓄積データ
+└── .github/workflows/daily.yml  # 毎朝の自動実行設定
+```

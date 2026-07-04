@@ -1,129 +1,88 @@
-"""PubMed E-utilities から新着論文を収集するモジュール."""
+"""Claude API で論文の日本語要約を生成するモジュール."""
+import json
+import os
 import time
-import xml.etree.ElementTree as ET
 
 import requests
 
-EUTILS = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
-TOOL_PARAMS = {"tool": "paper-digest", "email": "digest@example.com"}
+API_URL = "https://api.anthropic.com/v1/messages"
+
+PROMPT_TEMPLATE = """あなたは医学論文を要約する専門家です。以下の論文抄録を、{audience}向けに日本語で要約してください。
+
+# 論文情報
+タイトル: {title}
+ジャーナル: {journal} ({year})
+論文タイプ: {pub_types}
+
+# 抄録
+{abstract}
+
+# 出力形式
+以下のJSON形式のみで出力してください。前置きやMarkdownのコードブロックは不要です。
+
+{{
+  "title_ja": "タイトルの自然な日本語訳",
+  "summary": "3〜4文の要約。研究デザイン・対象・主要結果(具体的な数値を含める)・結論を含める",
+  "key_points": ["臨床的に重要なポイント(2〜3個、各1文)"],
+  "clinical_relevance": "日常臨床や専門研修にどう関わるか1〜2文",
+  "study_type": "RCT / メタ解析 / コホート / 症例対照 / ガイドライン / 総説 / その他 のいずれか",
+  "tags": ["トピックタグ2〜4個(例: IBD, 内視鏡, 肝細胞癌)"]
+}}
+
+注意: 抄録に書かれている内容のみを使い、数値や結論を創作しないこと。"""
 
 
-def build_query(cfg: dict) -> str:
-    """config.yaml の設定から PubMed 検索クエリを組み立てる."""
-    s = cfg["search"]
-    kw = " OR ".join(f'"{k}"[Title/Abstract] OR "{k}"[MeSH Terms]' for k in s["keywords"])
-
-    # 専門誌: 新着をそのまま拾う / 総合誌: キーワード合致のみ
-    general = {"N Engl J Med", "Lancet", "JAMA", "BMJ", "Ann Intern Med", "JAMA Intern Med"}
-    specialty_j = [j for j in s["journals"] if j not in general]
-    general_j = [j for j in s["journals"] if j in general]
-
-    parts = []
-    if specialty_j:
-        parts.append("(" + " OR ".join(f'"{j}"[Journal]' for j in specialty_j) + ")")
-    if general_j and kw:
-        gj = " OR ".join(f'"{j}"[Journal]' for j in general_j)
-        parts.append(f"(({gj}) AND ({kw}))")
-    if not parts and kw:
-        parts.append(f"({kw})")
-
-    query = "(" + " OR ".join(parts) + ") AND hasabstract[text]"
-    for t in s.get("exclude_types", []):
-        query += f' NOT "{t}"[Publication Type]'
-    return query
-
-
-def search_pmids(cfg: dict) -> list[str]:
-    """esearch で直近の新着 PMID を取得する."""
-    s = cfg["search"]
-    params = {
-        "db": "pubmed",
-        "term": build_query(cfg),
-        "reldate": s["days_back"],
-        "datetype": "edat",
-        "retmax": s["max_papers"] * 3,  # 除外・重複を見込んで多めに取る
-        "sort": "date",
-        "retmode": "json",
-        **TOOL_PARAMS,
+def summarize_paper(paper: dict, cfg: dict) -> dict:
+    """1本の論文を要約し、paper に要約フィールドを追加して返す."""
+    prompt = PROMPT_TEMPLATE.format(
+        audience=cfg["summary"]["audience"],
+        title=paper["title"],
+        journal=paper["journal"],
+        year=paper["year"],
+        pub_types=", ".join(paper["pub_types"]),
+        abstract=paper["abstract"][:6000],
+    )
+    body = {
+        "model": cfg["summary"]["model"],
+        "max_tokens": 1500,
+        "messages": [{"role": "user", "content": prompt}],
     }
-    r = requests.get(f"{EUTILS}/esearch.fcgi", params=params, timeout=30)
-    r.raise_for_status()
-    return r.json()["esearchresult"].get("idlist", [])
+    headers = {
+        "x-api-key": os.environ["ANTHROPIC_API_KEY"],
+        "anthropic-version": "2023-06-01",
+        "content-type": "application/json",
+    }
+
+    for attempt in range(3):
+        try:
+            r = requests.post(API_URL, headers=headers, json=body, timeout=120)
+            r.raise_for_status()
+            text = "".join(
+                b.get("text", "") for b in r.json()["content"] if b.get("type") == "text"
+            )
+            clean = text.replace("```json", "").replace("```", "").strip()
+            data = json.loads(clean)
+            return {**paper, **data}
+        except (requests.RequestException, json.JSONDecodeError, KeyError) as e:
+            print(f"  要約リトライ {attempt + 1}/3 (PMID {paper['pmid']}): {e}")
+            time.sleep(5 * (attempt + 1))
+
+    # 3回失敗したら要約なしで返す(パイプライン全体は止めない)
+    return {
+        **paper,
+        "title_ja": paper["title"],
+        "summary": "(要約の生成に失敗しました。原文をご確認ください)",
+        "key_points": [],
+        "clinical_relevance": "",
+        "study_type": "その他",
+        "tags": [],
+    }
 
 
-def _text(elem) -> str:
-    """要素配下の全テキストを結合(<i>タグ等の入れ子対策)."""
-    return "".join(elem.itertext()).strip() if elem is not None else ""
-
-
-def fetch_details(pmids: list[str]) -> list[dict]:
-    """efetch で論文詳細(タイトル・抄録・DOI等)を取得する."""
-    if not pmids:
-        return []
-    params = {"db": "pubmed", "id": ",".join(pmids), "retmode": "xml", **TOOL_PARAMS}
-    r = requests.get(f"{EUTILS}/efetch.fcgi", params=params, timeout=60)
-    r.raise_for_status()
-    root = ET.fromstring(r.content)
-
-    papers = []
-    for art in root.findall(".//PubmedArticle"):
-        pmid = _text(art.find(".//PMID"))
-        title = _text(art.find(".//ArticleTitle"))
-
-        # 抄録(ラベル付きセクションを結合)
-        abst_parts = []
-        for ab in art.findall(".//Abstract/AbstractText"):
-            label = ab.get("Label")
-            txt = _text(ab)
-            abst_parts.append(f"{label}: {txt}" if label else txt)
-        abstract = "\n".join(abst_parts)
-
-        journal = _text(art.find(".//Journal/ISOAbbreviation")) or _text(
-            art.find(".//Journal/Title")
-        )
-        year = _text(art.find(".//JournalIssue/PubDate/Year"))
-
-        authors = []
-        for au in art.findall(".//AuthorList/Author")[:3]:
-            last, init = _text(au.find("LastName")), _text(au.find("Initials"))
-            if last:
-                authors.append(f"{last} {init}".strip())
-        n_authors = len(art.findall(".//AuthorList/Author"))
-        author_str = ", ".join(authors) + (" ほか" if n_authors > 3 else "")
-
-        doi = pmc = ""
-        for aid in art.findall(".//ArticleIdList/ArticleId"):
-            if aid.get("IdType") == "doi":
-                doi = _text(aid)
-            elif aid.get("IdType") == "pmc":
-                pmc = _text(aid)
-
-        pub_types = [_text(pt) for pt in art.findall(".//PublicationType")]
-
-        if not (title and abstract):
-            continue
-        papers.append(
-            {
-                "pmid": pmid,
-                "title": title,
-                "abstract": abstract,
-                "journal": journal,
-                "year": year,
-                "authors": author_str,
-                "doi": doi,
-                "pmc": pmc,
-                "pub_types": pub_types,
-                "pubmed_url": f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/",
-                "doi_url": f"https://doi.org/{doi}" if doi else "",
-                "pmc_url": f"https://www.ncbi.nlm.nih.gov/pmc/articles/{pmc}/" if pmc else "",
-            }
-        )
-    return papers
-
-
-def collect(cfg: dict, seen_pmids: set[str]) -> list[dict]:
-    """新着論文を収集し、既読(アーカイブ済み)を除外して返す."""
-    pmids = [p for p in search_pmids(cfg) if p not in seen_pmids]
-    time.sleep(0.4)  # E-utilities のレート制限(3req/s)への配慮
-    papers = fetch_details(pmids)
-    return papers[: cfg["search"]["max_papers"]]
+def summarize_all(papers: list[dict], cfg: dict) -> list[dict]:
+    out = []
+    for i, p in enumerate(papers, 1):
+        print(f"要約中 {i}/{len(papers)}: {p['title'][:60]}...")
+        out.append(summarize_paper(p, cfg))
+        time.sleep(1)
+    return out

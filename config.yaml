@@ -1,54 +1,66 @@
-"""アーカイブ(docs/data/papers.json)の読み書きモジュール.
+# ============================================================
+# 論文ダイジェスト設定ファイル
+# 専門を変えたいときは、このファイルだけ編集すればOK
+# ============================================================
 
-GitHub Pages で docs/ フォルダを公開する前提。
-docs/index.html が papers.json を読み込んで一覧表示する。
-"""
-import json
-from datetime import datetime, timedelta, timezone
-from pathlib import Path
+# 専門分野の表示名(メール件名・アーカイブに使用)
+specialty_name: "消化器内科"
 
-JST = timezone(timedelta(hours=9))
-DATA_PATH = Path(__file__).parent.parent / "docs" / "data" / "papers.json"
+# --- 論文の収集条件 -------------------------------------------
+search:
+  # 主要ジャーナル(PubMedの略称表記)。新着を優先的に拾う
+  journals:
+    - "Gastroenterology"
+    - "Gut"
+    - "Am J Gastroenterol"
+    - "Gastrointest Endosc"
+    - "Endoscopy"
+    - "Clin Gastroenterol Hepatol"
+    - "J Gastroenterol"
+    - "Lancet Gastroenterol Hepatol"
+    - "N Engl J Med"
+    - "Lancet"
+    - "JAMA"
 
+  # キーワード(MeSH/フリーワード)。ジャーナル指定と OR で結合
+  # NEJM/Lancet/JAMA などの総合誌はこのキーワードに合致した論文のみ拾う
+  keywords:
+    - "inflammatory bowel disease"
+    - "colorectal cancer"
+    - "endoscopy"
+    - "endoscopic submucosal dissection"
+    - "Helicobacter pylori"
+    - "hepatocellular carcinoma"
+    - "pancreatitis"
+    - "gastroesophageal reflux"
+    - "liver cirrhosis"
 
-def load_archive() -> list[dict]:
-    if DATA_PATH.exists():
-        return json.loads(DATA_PATH.read_text(encoding="utf-8"))
-    return []
+  # 何日前まで遡って新着を探すか(PubMed登録日ベース)
+  days_back: 2
 
+  # 1日に扱う論文の上限(多すぎると読まなくなるので8前後推奨)
+  max_papers: 8
 
-def seen_pmids() -> set[str]:
-    return {p["pmid"] for p in load_archive()}
+  # 除外する論文タイプ
+  exclude_types:
+    - "Comment"
+    - "Editorial"
+    - "Letter"
+    - "Erratum"
 
+# --- 要約の設定 -----------------------------------------------
+summary:
+  model: "claude-sonnet-4-6"
+  language: "日本語"
+  # 読者像をプロンプトに反映(研修医向け・専門医向けなど)
+  audience: "消化器内科を志望する日本の医師"
 
-def append(papers: list[dict]) -> None:
-    """今日の論文をアーカイブ先頭に追加して保存する."""
-    archive = load_archive()
-    today = datetime.now(JST).strftime("%Y-%m-%d")
-    new_entries = []
-    for p in papers:
-        entry = {
-            "date": today,
-            "pmid": p["pmid"],
-            "title": p["title"],
-            "title_ja": p.get("title_ja", ""),
-            "journal": p["journal"],
-            "year": p["year"],
-            "authors": p["authors"],
-            "summary": p.get("summary", ""),
-            "key_points": p.get("key_points", []),
-            "clinical_relevance": p.get("clinical_relevance", ""),
-            "study_type": p.get("study_type", ""),
-            "tags": p.get("tags", []),
-            "pubmed_url": p["pubmed_url"],
-            "doi_url": p.get("doi_url", ""),
-            "pmc_url": p.get("pmc_url", ""),
-        }
-        new_entries.append(entry)
+# --- メール通知 -----------------------------------------------
+email:
+  subject_prefix: "【朝の論文】"
+  # 宛先は GitHub Secrets の MAIL_TO を優先。未設定ならここを使う
+  to: ""
 
-    DATA_PATH.parent.mkdir(parents=True, exist_ok=True)
-    DATA_PATH.write_text(
-        json.dumps(new_entries + archive, ensure_ascii=False, indent=1),
-        encoding="utf-8",
-    )
-    print(f"アーカイブ更新: +{len(new_entries)}本 (累計 {len(new_entries) + len(archive)}本)")
+# --- アーカイブ -----------------------------------------------
+archive:
+  site_title: "消化器論文アーカイブ"

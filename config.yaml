@@ -39,7 +39,7 @@ search:
   days_back: 2
 
   # 1日に扱う論文の上限(多すぎると読まなくなるので8前後推奨)
-  max_papers: 8
+  max_papers: 3
 
   # 除外する論文タイプ
   exclude_types:

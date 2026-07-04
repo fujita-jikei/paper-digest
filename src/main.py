@@ -1,4 +1,8 @@
-"""毎朝の論文ダイジェスト・パイプライン本体."""
+"""毎朝の論文ダイジェスト・パイプライン本体.
+
+流れ: PubMed収集 → Claude要約 → メール送信 → アーカイブ保存
+GitHub Actions から毎朝実行される。
+"""
 import os
 import sys
 from pathlib import Path
@@ -29,8 +33,17 @@ def main() -> None:
     print("=== 要約生成 ===")
     papers = summarize.summarize_all(papers, cfg)
 
+    print("=== 音声生成 ===")
+    attachment = None
+    try:
+        import audio
+
+        attachment = audio.generate_mp3(papers, cfg)
+    except Exception as e:  # 音声化に失敗してもメール配信は止めない
+        print(f"音声生成をスキップ: {e}")
+
     print("=== メール送信 ===")
-    notify.send_email(papers, cfg, archive_url)
+    notify.send_email(papers, cfg, archive_url, attachment)
 
     print("=== アーカイブ更新 ===")
     archive.append(papers)

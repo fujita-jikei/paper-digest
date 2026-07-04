@@ -1,0 +1,41 @@
+name: Daily Paper Digest
+
+on:
+  schedule:
+    # 21:00 UTC = 翌朝 6:00 JST(GitHub Actionsの仕様上、数分〜数十分遅れることがあります)
+    - cron: "0 21 * * *"
+  workflow_dispatch: {} # 手動実行ボタン(テスト用)
+
+permissions:
+  contents: write # アーカイブ(papers.json)をコミットするために必要
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run digest pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+          # GitHub Pages のURL(リポジトリ名に合わせて自動生成)
+          ARCHIVE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+        run: python src/main.py
+
+      - name: Commit archive updates
+        run: |
+          git config user.name "digest-bot"
+          git config user.email "actions@github.com"
+          git add docs/data/papers.json
+          git diff --cached --quiet || git commit -m "archive: $(date +%Y-%m-%d) の論文を追加"
+          git push

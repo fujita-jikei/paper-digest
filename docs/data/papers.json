@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-07-06",
+  "pmid": "42401250",
+  "title": "Association of metabolic dysfunction-associated steatotic liver disease onset age with risk of incident type 2 diabetes.",
+  "title_ja": "MASLD発症年齢と2型糖尿病発症リスクとの関連",
+  "journal": "Clin Gastroenterol Hepatol",
+  "year": "2026",
+  "authors": "Huo Z, Li Y, Liu T ほか",
+  "summary": "本研究は、中国のKailuan Studyにおける大規模前向きコホートを用いて、代謝機能障害関連脂肪性肝疾患（MASLD）の発症年齢が2型糖尿病（T2D）リスクに与える影響を検討した。MASLD既往なし・T2D既往なしの58,814名を対象とし、新規MASLD発症例19,378例と年齢・性別マッチドコントロール19,483例を中央値11.8年間追跡したところ、2,301例のT2D発症が確認された。非MASLD群と比較したT2D発症ハザード比は、40歳未満発症で最も高く（HR=6.18, 95%CI: 4.28–8.93）、発症年齢が上がるにつれて段階的に低下し、70歳以上でもHR=2.17（95%CI: 1.56–3.01）と有意に高かった。いずれの発症年齢においてもMASLDはT2D発症リスクを増加させるが、若年発症ほどそのリスクが顕著に高いことが示された。",
+  "key_points": [
+   "MASLDはあらゆる発症年齢においてT2D発症リスクを有意に増大させ、特に40歳未満での発症ではHR=6.18と最もリスクが高い。",
+   "MASLD発症年齢が高くなるほどT2D相対リスクは段階的に減衰するが、70歳以上の発症でもHR=2.17と依然として高リスクを維持している。",
+   "若年成人におけるMASLDの予防または発症遅延が、T2D一次予防の観点から特に重要である。"
+  ],
+  "clinical_relevance": "若年者にMASLDを認めた場合、T2D発症リスクが特に高いことを念頭に置き、早期からの積極的な生活習慣介入と定期的な血糖モニタリングが臨床的に重要となる。消化器内科医がMASLD患者を診療する際には、発症年齢を考慮したリスク層別化と糖尿病内科との連携が望ましい。",
+  "study_type": "コホート",
+  "tags": [
+   "MASLD",
+   "2型糖尿病",
+   "脂肪性肝疾患",
+   "代謝疾患"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42401250/",
+  "doi_url": "https://doi.org/10.1016/j.cgh.2026.06.028",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-07-06",
+  "pmid": "42401249",
+  "title": "Randomized trial comparing 5-year follow-up of first-line infliximab to conventional therapy in paediatric Crohn's disease.",
+  "title_ja": "小児クローン病における一次治療としてのインフリキシマブと従来療法の5年間追跡ランダム化比較試験",
+  "journal": "Clin Gastroenterol Hepatol",
+  "year": "2026",
+  "authors": "Vuijk SA, Jongsma MME, Cozijnsen MA ほか",
+  "summary": "TISKids試験は、中等度〜重症の新規診断小児クローン病患者（3〜17歳、wPCDAI>40）を対象に、一次治療としてのインフリキシマブ5回投与（FL-IFX）と従来療法（経腸栄養または副腎皮質ステロイド）を比較した多施設オープンラベルRCTの5年追跡結果である。5年時点での追加治療なしの持続的臨床寛解率はFL-IFX群3/48例（6%）対従来療法群1/46例（2%）と両群ともきわめて低く有意差はなく（p=0.617）、FL-IFX群88%・従来療法群95%の患者が追加のCD関連治療を必要とした。一方、生物学的製剤治療の（再）開始までの期間中央値はFL-IFX群65週対従来療法群31週と、FL-IFX群で有意に延長していた（p=0.037）。以上より、中等度〜重症の小児CDでは誘導療法の種類にかかわらず長期的にはほぼ全例で追加治療が必要となるが、FL-IFXは生物学的製剤の追加使用を遅延させる可能性が示された。",
+  "key_points": [
+   "5年後には誘導療法の種類（FL-IFX vs 従来療法）にかかわらず、約88〜95%の小児CD患者が追加のCD関連治療を必要とし、治療なし持続寛解の達成はきわめて困難である。",
+   "FL-IFXは生物学的製剤治療の（再）開始までの期間を中央値で約34週延長させ（65週 vs 31週、p=0.037）、生物学的製剤の必要性を遅らせる効果がある。",
+   "中等度〜重症の小児CDには早期からの持続的なインフリキシマブ治療が必要であることが示唆される。"
+  ],
+  "clinical_relevance": "中等度〜重症の小児クローン病において、一次治療としてインフリキシマブを導入することで生物学的製剤の再導入を遅延できる可能性があり、診断早期からの積極的な治療戦略の根拠となる。長期的にはほぼ全例で維持治療が必要となることを念頭に置いた治療計画が重要である。",
+  "study_type": "RCT",
+  "tags": [
+   "IBD",
+   "クローン病",
+   "小児IBD",
+   "インフリキシマブ"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42401249/",
+  "doi_url": "https://doi.org/10.1016/j.cgh.2026.06.029",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-07-06",
+  "pmid": "42400660",
+  "title": "Enhanced COMP expression induced by Helicobacter pylori drives gastric cancer progression by NOTCH2/SMAD3 pathway.",
+  "title_ja": "HelicobacterピロリによるCOMP発現亢進がNOTCH2/SMAD3経路を介して胃癌進展を促進する",
+  "journal": "J Gastroenterol",
+  "year": "2026",
+  "authors": "Feng Z, Luan M, Zhu W ほか",
+  "summary": "本研究は、H. pylori感染が胃癌（GC）進展に関与するCOMP（軟骨オリゴマー基質タンパク質）の発現をどのように制御するかを解明することを目的とした基礎研究である。GC細胞株およびマウスモデルを用いたRNA-seq・ChIP・Co-IP等の手法により、H. pyloriおよびその毒性因子CagAがKLF5を活性化することでCOMPの転写・翻訳レベルでの発現を亢進させることが示された。COMPはNOTCH2およびJAG1と結合してNOTCH2-JAG1の相互作用を促進し、下流のSMAD3を活性化することで上皮間葉転換（EMT）を誘導し、GCの増殖・転移能を高めることが明らかになった。COMPの発現はH. pylori関連GC組織で著明に上昇しており、不良な予後と関連していたため、COMP/NOTCH2/SMAD3/EMT軸がGC治療の新たな標的となりうると結論づけられた。",
+  "key_points": [
+   "H. pyloriの毒性因子CagAはKLF5を介してCOMPの発現を転写・翻訳レベルで亢進させ、胃癌細胞の増殖・転移・EMTを促進する。",
+   "COMPはNOTCH2およびJAG1と結合してその相互作用を増強し、下流のSMAD3シグナルを活性化することでEMTを誘導する新たな分子機序が同定された。",
+   "COMP高発現はH. pylori関連胃癌において臨床的に不良な予後と関連しており、予後バイオマーカーおよび治療標的としての可能性が示唆される。"
+  ],
+  "clinical_relevance": "H. pylori関連胃癌の発癌・進展メカニズムとしてCOMP/NOTCH2/SMAD3/EMT軸が新たに提唱されており、将来的にCOMPを標的とした分子標的治療や予後予測バイオマーカーの開発につながる可能性がある。消化器内科専攻医にとって、H. pylori除菌以降の胃癌管理戦略を考えるうえで重要な基礎知識となりうる。",
+  "study_type": "その他",
+  "tags": [
+   "胃癌",
+   "Helicobacter pylori",
+   "分子標的",
+   "上皮間葉転換"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42400660/",
+  "doi_url": "https://doi.org/10.1158/0008-5472.Can-14-0816",
+  "pmc_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/4233182/"
+ },
+ {
   "date": "2026-07-05",
   "pmid": "42385752",
   "title": "The role of primary care in response to the global liver disease syndemic: a Lancet Gastroenterology & Hepatology Commission.",

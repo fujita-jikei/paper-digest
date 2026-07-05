@@ -2,8 +2,8 @@ name: Daily Paper Digest
 
 on:
   schedule:
-    # 21:00 UTC = 翌朝 6:00 JST
-    - cron: "0 21 * * *"
+    # 21:17 UTC = 朝 6:17 JST(00分ちょうどは混雑でスキップされやすいため回避)
+    - cron: "17 21 * * *"
   workflow_dispatch: {} # 手動実行ボタン(テスト用)
 
 permissions:

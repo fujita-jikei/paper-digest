@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-07-08",
+  "pmid": "42412125",
+  "title": "Immediate prediction of post-ERCP pancreatitis: a novel approach using serum trypsin.",
+  "title_ja": "ERCP後膵炎の即時予測：血清トリプシンを用いた新たなアプローチ",
+  "journal": "J Gastroenterol",
+  "year": "2026",
+  "authors": "Tamura T, Fujigaki S, Sanuki T ほか",
+  "summary": "本研究は日本国内12施設で実施した多施設前向き観察研究であり、ERCP後膵炎（PEP）の早期予測における血清トリプシン（TRY）の診断能を評価した。463例中48例（10.3%）にPEPが発症し、ERCP直後（0時間）のTRYのAUCは0.83（感度68.7%、特異度84.6%、最適カットオフ値2043 ng/mL）と、同時点のAMY（AUC 0.74）、P-AMY（0.78）、リパーゼ（0.80）よりも有意に高かった。術後2時間ではTRYのAUCは0.89に向上し、PEP発症例においてTRYは他の酵素と比較して最も早く急峻な上昇を示した。以上より、ERCP直後の血清TRY測定は従来の膵酵素よりも優れたPEPの早期予測能を有し、迅速なリスク層別化に貢献しうると結論された。",
+  "key_points": [
+   "ERCP直後（0時間）の血清トリプシンのAUCは0.83であり、同時点のアミラーゼ（0.74）、膵型アミラーゼ（0.78）、リパーゼ（0.80）と比較して有意に高いPEP予測能を示した。",
+   "上限基準値の2倍・2.5倍・3倍をカットオフとした場合でも、TRYは一貫してAMYやP-AMYより高い感度を示した。",
+   "PEP発症例においてTRYは術後最も早期かつ急峻に上昇するため、即時のリスク評価に適した生化学マーカーである。"
+  ],
+  "clinical_relevance": "ERCPを日常的に施行する消化器内科医にとって、手技直後の血清トリプシン測定はPEP発症を従来の膵酵素より早期に予測できる可能性があり、術後早期の入院継続・補液強化などの判断に役立つ臨床ツールとなりうる。専門研修においても膵炎バイオマーカーの動態理解と術後モニタリング戦略の一環として習得すべき知識である。",
+  "study_type": "コホート",
+  "tags": [
+   "ERCP",
+   "ERCP後膵炎",
+   "膵酵素",
+   "内視鏡"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42412125/",
+  "doi_url": "https://doi.org/10.1016/j.gie.2022.10.005",
+  "pmc_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/7168821/"
+ },
+ {
+  "date": "2026-07-08",
+  "pmid": "42409295",
+  "title": "LOCAL RECURRENCE AFTER COLORECTAL ENDOSCOPIC SUBMUCOSAL DISSECTION: A LARGE INTERNATIONAL WESTERN MULTICENTER STUDY.",
+  "title_ja": "大腸ESD後の局所再発：大規模な国際的西洋多施設共同研究",
+  "journal": "Gastrointest Endosc",
+  "year": "2026",
+  "authors": "Bani Fawwaz BA, Stavropoulos SN, Zhang Y ほか",
+  "summary": "本研究は、2015年1月から2025年9月にかけて13施設で実施された大腸ESD 2182例を対象とした後ろ向き多施設共同研究である。一括切除率93.6%、R0切除率81.1%であり、サーベイランス大腸内視鏡が実施された1478例における局所再発率は1.5%（22/1478）で、中央値14ヶ月で発見された。カテゴリー別の再発率は低異型度異形成のR0切除で1.5%、高異型度異形成のR0切除で0.9%、非浸潤性腫瘍のR1/Rx切除で2.2%、T1a癌の根治的切除で1.1%であり、40mm未満かつ低異型度異形成のみの「超低リスク病変」では0.8%（4/478）と最も低かった。多変量解析では高度線維化（OR 2.40）が再発リスク因子であり、R0切除（OR 0.30）が再発リスクの低下と関連していた。",
+  "key_points": [
+   "非アジア系多施設研究において大腸ESD後の局所再発率は全体で1.5%と低く、40mm未満かつ低異型度異形成の超低リスク病変では0.8%とさらに低かった。",
+   "高度粘膜下線維化とR1/Rx切除は局所再発の独立したリスク因子であり、術中の線維化評価と切除断端の確認が重要である。",
+   "現行のESD後12ヶ月でのサーベイランス大腸内視鏡推奨を支持しつつ、超低リスク病変ではより長い間隔の可能性が示唆された。"
+  ],
+  "clinical_relevance": "大腸ESD後のサーベイランス戦略を立案する際に、病変サイズや組織診断・切除断端・線維化の程度によってリスク層別化を行うことの重要性を示しており、特に超低リスク病変に対するサーベイランス間隔の延長を検討する根拠となりうる。",
+  "study_type": "コホート",
+  "tags": [
+   "大腸ESD",
+   "内視鏡",
+   "局所再発",
+   "サーベイランス"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42409295/",
+  "doi_url": "https://doi.org/10.1016/j.gie.2026.06.064",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-07-08",
+  "pmid": "42409294",
+  "title": "SINGLE-BLINDED RANDOMIZED CONTROLLED TRIAL COMPARING THE EFFECT OF UNDERWATER VERSUS CARBON DIOXIDE INSUFFLATION DURING PERORAL ENDOSCOPIC MYOTOMY ON POST-PROCEDURAL PAIN (U-POEM TRIAL).",
+  "title_ja": "経口内視鏡的筋層切開術（POEM）における水中法対二酸化炭素送気法の術後疼痛への影響を比較したシングルブラインド無作為化対照試験（U-POEM試験）",
+  "journal": "Gastrointest Endosc",
+  "year": "2026",
+  "authors": "Yang D, Draganov PV, Hayat M ほか",
+  "summary": "本研究は、食道アカラシアI型・II型患者を対象に、生理食塩水浸水下POEM（U-POEM）と二酸化炭素送気下POEM（CO2-POEM）の術後疼痛を比較した多施設無作為化対照試験である。2025年2月から11月の間に計36例が各群18例に無作為割付され、両群で技術的・臨床的成功率は100%、即時および遅発性有害事象はいずれも認められなかった。術直後の平均NRS疼痛スコアはU-POEM群で有意に低く（1.6±1.6 vs. 3.3±2.6、p=0.02）、中等度〜重度疼痛の割合（16.7% vs. 55.5%、p=0.04）およびオピオイド使用率（5.5% vs. 50%、p=0.007）もU-POEM群で有意に少なく、72時間後においても疼痛スコアの有意な低下が持続した（1.13±1.36 vs. 2.26±1.78、p=0.04）。U-POEMはCO2-POEMと比較して安全かつ有効であり、術後疼痛軽減に優れることが示された。",
+  "key_points": [
+   "U-POEMはCO2-POEMと比較して術直後の疼痛スコアを有意に低下させ（NRS: 1.6 vs. 3.3、p=0.02）、オピオイド鎮痛薬の使用率も大幅に減少した（5.5% vs. 50%、p=0.007）。",
+   "疼痛軽減効果は術直後のみならず術後72時間まで持続しており、U-POEMの鎮痛上の優位性は短期的にも有意に認められた。",
+   "両群間で剥離速度・手技時間・有害事象に差はなく、U-POEMはCO2-POEMと同等の安全性と技術的有効性を維持している。"
+  ],
+  "clinical_relevance": "POEMを施行する消化器内科医にとって、水中法の導入が術後疼痛管理の改善およびオピオイド使用削減につながる可能性があり、患者の回復経験を向上させる新たな選択肢として注目される。今後の症例数を増やした検証および長期成績の評価が期待される。",
+  "study_type": "RCT",
+  "tags": [
+   "POEM",
+   "アカラシア",
+   "内視鏡",
+   "術後疼痛"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42409294/",
+  "doi_url": "https://doi.org/10.1016/j.gie.2026.06.066",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-07-06",
   "pmid": "42401250",
   "title": "Association of metabolic dysfunction-associated steatotic liver disease onset age with risk of incident type 2 diabetes.",

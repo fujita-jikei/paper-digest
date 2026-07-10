@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-07-11",
+  "pmid": "42425734",
+  "title": "Cross-definition GWAS of IBS in 2.8 million individuals reveals cardiometabolic and triglyceride-linked mechanisms.",
+  "title_ja": "280万人を対象とした過敏性腸症候群の複数定義横断GWASにより、心代謝・トリグリセリド関連メカニズムが明らかに",
+  "journal": "Gut",
+  "year": "2026",
+  "authors": "Di Lorenzo B, Camargo Tavares L, Díaz-Muñoz C ほか",
+  "summary": "本研究は22のバイオバンクから275万5,539人を対象に、過敏性腸症候群（IBS）のゲノムワイド関連解析（GWAS）メタ解析を実施した。ヨーロッパ系祖先においてのみ有意な遺伝率が検出され、複数のケース定義間でほぼ同一の遺伝的構造が確認された。IBSリスクはGI・精神・心代謝形質と遺伝的相関を示し、特にトリグリセリド（TG）値との因果関係がメンデルランダム化法により示された。また、TG代謝の調節因子であるGCKRを含む心代謝メカニズムへの収束が薬剤標的解析で示され、IBSのポリジェニックリスクスコアは独立した症例対照データセットで症例との有意な関連を示した。",
+  "key_points": [
+   "有意な遺伝率はヨーロッパ系祖先においてのみ検出され、複数のケース定義間で遺伝的構造はほぼ同一であった。",
+   "メンデルランダム化解析により、IBSリスクとトリグリセリド値との因果関係が示され、TG代謝調節因子GCKRが創薬標的候補として浮上した。",
+   "IBSのポリジェニックリスクスコアが独立データセットで症例と有意に関連し、バイオマーカーとしての将来的な臨床応用が示唆された。"
+  ],
+  "clinical_relevance": "IBSが脳腸相関のみならず心代謝メカニズムとも関連することが遺伝学的に示され、消化器内科医がIBS患者の心代謝リスクも念頭に置いた包括的管理を行う重要性を支持する。また、ポリジェニックリスクスコアの有用性が示されたことで、将来的な遺伝的バイオマーカーを用いたIBS診断・層別化への道が開かれる可能性がある。",
+  "study_type": "メタ解析",
+  "tags": [
+   "IBS",
+   "GWAS",
+   "腸脳相関",
+   "トリグリセリド"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42425734/",
+  "doi_url": "https://doi.org/10.1136/gutjnl-2026-338800",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-07-11",
+  "pmid": "42425732",
+  "title": "Outcome scoring systems for locoregional therapy in hepatocellular carcinoma: a systematic review.",
+  "title_ja": "肝細胞癌に対するlocoregional therapyにおけるアウトカムスコアリングシステムの系統的レビュー",
+  "journal": "Gut",
+  "year": "2026",
+  "authors": "Daruwalla C, Calderon E, Mathew C ほか",
+  "summary": "本研究は、肝細胞癌（HCC）に対するlocoregional therapy（LRT）施行患者の予後を予測する臨床リスクスコアの方法論的質と性能を系統的に評価したものである。PubMedおよびEMBASEを対象に検索を行い、計130研究・179種類のスコアリングシステムが対象となり、総患者数は70,061例（女性21%、大多数がBCLC-B）であった。AUROCは0.56〜0.94と幅広く、姑息的LRTにおける全生存予測ではY-scoring system・Cheng et alノモグラム・Li et alノモグラムが高い識別能（AUROC >0.87）を示し、プール解析ではHAP・mHAP-IIスコアが最も高い性能（プールAUROC >0.72）を示した一方、Six-and-TwelveスコアやALBIスコアは比較的低い性能（各0.68、0.60）であった。しかし、対象研究の大多数がバイアスリスクが高く、さらなるモデル開発と外的妥当性検証の必要性が示された。",
+  "key_points": [
+   "姑息的LRTにおける全生存予測では、Y-scoring system・Cheng et alノモグラム・Li et alノモグラムがAUROC >0.87と高い識別能を示した。",
+   "プール解析ではHAPスコアおよびmHAP-IIスコアが最も優れた性能（プールAUROC >0.72）を示し、ALBIスコア（0.60）やSix-and-Twelveスコア（0.68）は相対的に性能が低かった。",
+   "対象研究の87.7%はバイアスリスクが高く、既存スコアの外的妥当性検証や新規モデルの開発が今後の課題である。"
+  ],
+  "clinical_relevance": "LRTを受けるHCC患者の予後予測において、どのスコアリングシステムを選択すべきかの指針となり、特にTACE等を施行する際にHAPやmHAP-IIスコアの活用が実臨床で有用と考えられる。ただし多くのモデルはバイアスリスクが高いため、スコア解釈には慎重さが求められる。",
+  "study_type": "メタ解析",
+  "tags": [
+   "肝細胞癌",
+   "locoregional therapy",
+   "予後スコア",
+   "TACE"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42425732/",
+  "doi_url": "https://doi.org/10.1136/gutjnl-2025-337557",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-07-11",
+  "pmid": "42425135",
+  "title": "Evaluating human-AI interaction in optical diagnosis of early colorectal carcinoma through endoscopist responses to simulated artificial intelligence: a multinational online study.",
+  "title_ja": "模擬AIを用いた早期大腸癌の光学的診断における人間とAIのインタラクションの評価：多国籍オンライン研究",
+  "journal": "Endoscopy",
+  "year": "2026",
+  "authors": "Thijssen A, Schreuder RM, Dehghani N ほか",
+  "summary": "本研究は、大腸癌（CRC）の光学的診断における内視鏡医とAIのインタラクションを評価することを目的とした多国籍オンライン研究である。78名の内視鏡医が参加し、事前テスト15動画の後、模擬AIの診断を提示された35動画で自身の診断を修正できる設計とした。AIなしでの診断精度は71.4%、AI提示後は73.7%（p<0.001）と有意に改善したが、参加者の28.2%では「不適切なAI反応」（AI提示後に診断パフォーマンスが低下）が観察された。また、AI提示後に最も多くの内視鏡医（41.0%）がより保守的な態度（病変をCRCではないと診断する傾向）へシフトした。",
+  "key_points": [
+   "AI提示後に全体の診断精度は有意に改善したが、参加者の約28%ではAI提示によって診断パフォーマンスが低下する「不適切なAI反応」が認められた。",
+   "AI使用前は内視鏡医のCRC見逃し率は低い（平均ヒット率0.86）一方で偽陽性率が高く（平均false alarm rate 0.35）、AI提示後は過剰な保守化（非CRC診断への傾倒）が懸念された。",
+   "AI導入前に内視鏡医が自身およびAIの光学的診断能を把握することが、人間とAIの適切なインタラクションに寄与する可能性がある。"
+  ],
+  "clinical_relevance": "大腸内視鏡診療にAIを導入する際、AIの診断を鵜呑みにしたり過度に依存することで診断精度が低下するリスクがあることを認識し、内視鏡医自身のAIリテラシー向上が重要である。",
+  "study_type": "その他",
+  "tags": [
+   "大腸癌",
+   "内視鏡",
+   "AI診断支援",
+   "光学的診断"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42425135/",
+  "doi_url": "https://doi.org/10.1055/a-2912-9478",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-07-10",
   "pmid": "42419823",
   "title": "IL-10-neutralising autoantibodies in paediatric-onset inflammatory bowel disease.",

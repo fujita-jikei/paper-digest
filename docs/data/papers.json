@@ -1,5 +1,57 @@
 [
  {
+  "date": "2026-07-14",
+  "pmid": "42439590",
+  "title": "Dose May Matter: CYP2C19 Genotype and PPI Response in Pediatric Eosinophilic Esophagitis.",
+  "title_ja": "投与量が重要かもしれない：小児好酸球性食道炎におけるCYP2C19遺伝子型とPPI治療反応性",
+  "journal": "Am J Gastroenterol",
+  "year": "2026",
+  "authors": "Bose P, Umeweni CN, Perkins A ほか",
+  "summary": "本研究は、組織学的に活動性の好酸球性食道炎（EoE）と診断された小児患者を対象に、CYP2C19遺伝子型がPPI治療反応性に与える影響を検討したコホート研究である。全血検体を用いてCYP2C19遺伝子型を解析し、PPI高用量（1mg/kg/日超）投与群を中心に解析した。その結果、高用量PPI投与を受けた患者において、中間代謝型・低代謝型は通常代謝型・高速代謝型と比較して組織学的治療反応率が有意に高く、超高速代謝型ではPPI治療に反応した症例は認められなかった。これらの知見から、CYP2C19遺伝子型の把握が小児EoEにおける個別化PPI投与量の最適化に寄与する可能性が示唆された。",
+  "key_points": [
+   "高用量PPI（1mg/kg/日超）投与において、CYP2C19中間・低代謝型は通常・高速代謝型と比較して組織学的治療反応率が有意に高かった。",
+   "超高速代謝型ではPPI療法に反応した症例が皆無であり、CYP2C19遺伝子型が治療効果に大きく影響することが示された。",
+   "CYP2C19遺伝子型検査を活用することで、小児EoE患者への個別化PPI用量設定が可能となる可能性がある。"
+  ],
+  "clinical_relevance": "小児好酸球性食道炎においてPPI治療を計画する際、CYP2C19遺伝子型に基づいた用量調整という薬理ゲノミクスの視点が今後の診療に応用される可能性があり、消化器内科専攻医にとってPPIの薬物代謝と個別化医療の概念を理解する上で重要な知見である。",
+  "study_type": "コホート",
+  "tags": [
+   "好酸球性食道炎",
+   "PPI",
+   "薬理ゲノミクス",
+   "小児消化器"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42439590/",
+  "doi_url": "https://doi.org/10.14309/ajg.0000000000004117",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-07-14",
+  "pmid": "42437688",
+  "title": "The 2026 British Society of Gastroenterology guidelines on the diagnosis and management of adult coeliac disease.",
+  "title_ja": "成人セリアック病の診断と管理に関する英国消化器病学会2026年ガイドライン",
+  "journal": "Gut",
+  "year": "2026",
+  "authors": "Penny HA, Shiha MG, Raju SA ほか",
+  "summary": "本論文は、英国消化器病学会（BSG）による成人セリアック病（CD）の診断および管理に関する最新ガイドラインである。英国、スウェーデン、イタリア、オーストラリアの多職種パネルによって作成された。近年の成人CDの診断・治療における進歩を背景に改訂が行われており、エビデンスに基づいた実践を強調することで患者ケアの向上を目的としている。具体的な数値データは本抄録には記載されていないが、成人CDの管理水準の標準化と改善を主要目標としている。",
+  "key_points": [
+   "本ガイドラインは英国を中心に複数国の専門家による多職種パネルが参加して作成された国際的な協力の成果である。",
+   "成人セリアック病の診断・治療における最新の進歩を反映した改訂版であり、エビデンスに基づく実践を重視している。",
+   "患者ケアの向上を主眼に置いており、日常臨床における成人CDの標準的管理指針として活用できる。"
+  ],
+  "clinical_relevance": "消化器内科を志望する医師にとって、成人セリアック病の診断基準や管理方針を最新のエビデンスに基づいて学ぶための重要な参照ガイドラインである。腹部症状や吸収不良を呈する患者においてCDを鑑別する際の実践的指針として日常臨床に直結する。",
+  "study_type": "ガイドライン",
+  "tags": [
+   "セリアック病",
+   "小腸疾患",
+   "吸収不良症候群",
+   "ガイドライン"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42437688/",
+  "doi_url": "https://doi.org/10.1136/gutjnl-2025-337747",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-07-13",
   "pmid": "42435889",
   "title": "Epidemiology of Alcohol-Associated Hepatitis: A Systematic Review of Population-Based Studies.",

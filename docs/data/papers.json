@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-07-16",
+  "pmid": "42448241",
+  "title": "SOX9-driven SPEM cell lineage plasticity is a potential therapeutic target that mitigates risk of metaplastic progression to gastric cancer.",
+  "title_ja": "SOX9が駆動するSPEM細胞の系譜可塑性は、胃癌への化生進展リスクを軽減する潜在的治療標的である",
+  "journal": "Gastroenterology",
+  "year": "2026",
+  "authors": "Guenther AA, Ruelas A, Caldwell B ほか",
+  "summary": "本研究は、胃癌の発癌過程において重要な役割を担う化生（SPEM細胞）の形成メカニズムを解明するため、主細胞特異的Sox9ノックアウトマウス（GCSおよびGCKSモデル）およびヒト組織マイクロアレイ・SPEMオルガノイドを用いて検討した。その結果、主細胞におけるSOX9の欠失により、急性・慢性いずれの粘膜傷害モデルでも主細胞がSPEM細胞へのトランスディファレンシエーションに失敗し、化生の形成が阻害された。さらに、KrasG12D変異を同時に有するGCKSマウスでは、腺底部への線維芽細胞招集や化生進展を担うTOP2A陽性SPEMサブポピュレーションの欠如により、発癌カスケードの進行が抑制され、正常な胃細胞系譜が腺内に再構成された。以上の結果から、SOX9はSPEM細胞の系譜進化と化生進展のマスターレギュレーターであり、SOX9を介した細胞可塑性が胃発癌の中心的機構であることが示された。",
+  "key_points": [
+   "SOX9はヒトおよびマウスの化生組織においてSPEM細胞に高発現しており、主細胞からSPEM細胞へのトランスディファレンシエーションに必須の転写因子である。",
+   "TOP2A陽性SPEMサブポピュレーションが化生の進展と腺底部への線維芽細胞招集に寄与する新たなサブセットとして同定された。",
+   "SOX9の欠失により発癌カスケードが阻止され、正常な胃細胞系譜が回復することから、SOX9は胃癌予防の治療標的となり得る。"
+  ],
+  "clinical_relevance": "胃炎から腸上皮化生・胃癌へと至る発癌カスケードにおけるSOX9-SPEM軸の解明は、化生性変化を早期に制御する新規治療戦略の開発につながる可能性があり、胃癌ハイリスク患者の管理や化学予防の観点から消化器内科医にとって重要な知見である。",
+  "study_type": "その他",
+  "tags": [
+   "胃癌",
+   "化生",
+   "発癌メカニズム",
+   "基礎研究"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42448241/",
+  "doi_url": "https://doi.org/10.1053/j.gastro.2026.06.024",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-07-16",
+  "pmid": "42448240",
+  "title": "Harmonized metagenomic signatures of the gut microbiome reveal robust species, functions, and strain links to inflammatory bowel disease.",
+  "title_ja": "腸内マイクロバイオームのハーモナイズされたメタゲノムシグネチャーが炎症性腸疾患と関連する強固な菌種・機能・株を明らかにする",
+  "journal": "Gastroenterology",
+  "year": "2026",
+  "authors": "Thompson KN, Ma S, Bhosle A ほか",
+  "summary": "本研究は、米国・カナダ・欧州のHuman Microbiome Bioactives Resourceに登録された7つのIBDコホートから、IBD患者542名を含む計2,371例の糞便メタゲノムを統合解析したメタ解析である。IBD腸内における口腔優勢な炎症促進性菌（VeillonellaやStreptococcus属など）の著明な増殖が系統的に同定され、高解像度の菌株遺伝学的プロファイリングによりクローン病（CD）と潰瘍性大腸炎（UC）の鑑別がAUC=0.69で可能であることが示された。また、CD特異的な炭水化物代謝の変化（小腸機能障害を反映）、ムチン利用の異常、微生物の病原性・侵入カセットの増加、IBDにおけるカルニチン分解経路の消失、および菌種・株系統特異的な遺伝子保有パターンの差異が観察された。これらの知見は、IBD関連ディスバイオーシスの責任微生物クレードとその機能的役割が均一ではなく、菌種および株系統固有のバリアントによって規定されることを示している。",
+  "key_points": [
+   "高解像度の菌株遺伝学的プロファイリングにより、臨床的に困難なCDとUCの鑑別がAUC=0.69で可能であり、腸内細菌叢の菌株情報が疾患サブタイプ分類に貢献しうる。",
+   "IBD患者の腸内ではVeillonellaやStreptococcusなど口腔由来の炎症促進性菌が著明に増殖しており、口腔-腸軸がIBD病態に関与する可能性が示唆される。",
+   "CDではUCにみられない炭水化物代謝異常が観察され、小腸機能障害がCD特異的な腸内細菌叢の変化をもたらすことが示された。"
+  ],
+  "clinical_relevance": "IBDの病態における腸内細菌叢の役割を菌種・株・機能レベルで理解することは、将来的なバイオマーカー開発や腸内細菌叢を標的とした治療戦略（糞便微生物移植など）の基盤となり、消化器内科専門医として最新のマイクロバイオーム研究の知見を診療に活かす上で重要である。",
+  "study_type": "メタ解析",
+  "tags": [
+   "IBD",
+   "腸内細菌叢",
+   "メタゲノム解析",
+   "クローン病・潰瘍性大腸炎"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42448240/",
+  "doi_url": "https://doi.org/10.1053/j.gastro.2026.06.023",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-07-16",
+  "pmid": "42447876",
+  "title": "Curriculum on management of acute upper gastrointestinal bleeding: European Society of Gastrointestinal Endoscopy (ESGE) Position Statement.",
+  "title_ja": "急性上部消化管出血の管理に関するカリキュラム：欧州消化器内視鏡学会（ESGE）ポジションステートメント",
+  "journal": "Endoscopy",
+  "year": "2026",
+  "authors": "Voiosu AM, Camus M, Ibrahim M ほか",
+  "summary": "本論文は、急性上部消化管出血（UGIB）の内視鏡的管理に関するトレーニングカリキュラムについて、ESGEがポジションステートメントとして策定したガイドラインである。トレーニング開始前には病理・解剖・デバイス操作・クリニカルパスウェイ等の知識習得が必須とされ、実技訓練は最低20例の出血所見を有する症例を直接指導のもとで経験することが推奨されている。能力認定には「止血成功」を達成した30例の管理経験が目安とされ、UGIB-CATを形成的評価ツールとして活用することが推奨される。能力認定後も少なくとも6か月間は経験豊富な指導医のもとでの実績追跡と指導を継続すべきとされている。",
+  "key_points": [
+   "UGIB管理のトレーニングには最低20例の直接指導下での経験が必要であり、能力認定には「止血成功」を達成した30例の管理が目安とされる。",
+   "能力評価は症例数のみの数値基準ではなくコンピテンシーフレームワークに基づいて行うべきであり、形成的評価にはUGIB-CATの活用が推奨される。",
+   "症例数が少ない施設のトレーニーは、症例数の多い高容量施設での短期集中研修を積極的に活用することが奨励される。"
+  ],
+  "clinical_relevance": "消化器内科専攻医がUGIB内視鏡管理の技術・判断力を体系的に習得するための研修体制構築に直接役立つ内容であり、指導医側にもトレーニーの関与度や評価方法について具体的な指針を提供する。",
+  "study_type": "ガイドライン",
+  "tags": [
+   "上部消化管出血",
+   "内視鏡",
+   "内視鏡トレーニング",
+   "止血"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42447876/",
+  "doi_url": "https://doi.org/10.1055/a-2893-6920",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-07-15",
   "pmid": "42442706",
   "title": "Computer-aided quality assurance versus standard colonoscopy: A systematic review and meta-analysis of randomized-controlled trials.",

@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-07-17",
+  "pmid": "42457620",
+  "title": "Multimodal C9-66 CAR-T cell immunotherapy improves outcome in preclinical models of pancreatic cancer.",
+  "title_ja": "マルチモーダルC9-66 CAR-T細胞免疫療法は膵癌の前臨床モデルにおける予後を改善する",
+  "journal": "Gut",
+  "year": "2026",
+  "authors": "Jiang K, Lai CH, Dong S ほか",
+  "summary": "本研究は、膵管腺癌（PDAC）に対し、腫瘍特異的糖鎖であるオンコフェタルコンドロイチン硫酸（ofCS）を標的とするC9ベースのCAR-T細胞療法を開発・最適化したものである。電荷最適化C9-66 CAR-T細胞は親構造体と比較して疲弊が軽減され、in vivoでより持続的な抗腫瘍活性を示した。イノシンによる代謝リプログラミングとNr5a2過剰発現によるミトコンドリア呼吸増強、さらにGLP-1R調節・CSF-1R阻害・PD-1阻害を組み合わせた腫瘍微小環境（TME）改変により、腫瘍内CAR-T細胞活性が増強され生存期間が延長された。ヒトC9-66 CAR-T細胞は患者由来PDAC細胞に対してin vitro・in vivoの両方で特異的な殺細胞活性を維持しており、臨床応用可能な治療戦略として有望であることが示された。",
+  "key_points": [
+   "ofCSは正常成人組織にはほぼ発現せず固形癌に広く発現する腫瘍特異的抗原であり、C9-66 CAR-T細胞はこれを標的として膵癌モデルで腫瘍増殖抑制と生存延長を達成した。",
+   "代謝リプログラミング（イノシン投与・Nr5a2過剰発現）によりCAR-T細胞の中枢記憶分化促進・疲弊軽減・ミトコンドリア機能増強が得られ、抗腫瘍効果が持続した。",
+   "GLP-1R調節とCSF-1R阻害・PD-1阻害を組み合わせた段階的TMEリモデリングにより、腫瘍内CAR-T細胞の機能がさらに強化された。"
+  ],
+  "clinical_relevance": "既存治療に抵抗性を示す膵癌に対する新規CAR-T細胞療法の前臨床エビデンスとして、将来的な消化器癌免疫療法の臨床試験設計や治療戦略立案に重要な知識となる。",
+  "study_type": "その他",
+  "tags": [
+   "膵癌",
+   "CAR-T細胞療法",
+   "腫瘍免疫",
+   "腫瘍微小環境"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42457620/",
+  "doi_url": "https://doi.org/10.1136/gutjnl-2025-337545",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-07-17",
+  "pmid": "42456984",
+  "title": "Incidence and risk factor of stricture after endoscopic submucosal dissection in the duodenal bulb.",
+  "title_ja": "十二指腸球部における内視鏡的粘膜下層剥離術後の狭窄発生率とリスク因子",
+  "journal": "Gastrointest Endosc",
+  "year": "2026",
+  "authors": "Masunaga T, Kubosawa Y, Sasaki M ほか",
+  "summary": "本研究は、2010年7月から2023年12月の間に単施設で十二指腸球部のESDを施行した101例を対象とした後ろ向き観察研究である。症例の82%は切除後に閉鎖処置が行われなかった。狭窄は5例（5%）に発生し、狭窄群では粘膜欠損の最大径の中央値が有意に大きく（71mm vs. 37mm、P=0.0058）、欠損の周径が7/8以上の場合に狭窄の63%が集中した。また、幽門輪を越える切除（100% vs. 42%、P=0.015）およびトリアムシノロン局注（100% vs. 8%、P<0.0001）が狭窄群で有意に多く認められた。",
+  "key_points": [
+   "十二指腸球部ESD後の狭窄発生率は5%であり、粘膜欠損径が大きいほど（中央値71mm）狭窄リスクが高い。",
+   "周径7/8以上の粘膜欠損や幽門輪を越える切除は、狭窄の独立したリスク因子として関連していた。",
+   "トリアムシノロン局注は狭窄群の全例で施行されており、狭窄予防目的での使用が逆に狭窄リスクと関連していた（交絡因子の可能性に注意が必要）。"
+  ],
+  "clinical_relevance": "十二指腸球部ESDは完全閉鎖が困難な部位であり、大きな欠損や幽門輪を越える切除を要する症例では術後狭窄の監視と予防戦略の検討が重要となる。消化器内視鏡専門医を目指す研修医にとって、ESD後の合併症リスク層別化の考え方を学ぶ上で参考となる知見である。",
+  "study_type": "コホート",
+  "tags": [
+   "内視鏡",
+   "ESD",
+   "十二指腸",
+   "狭窄"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42456984/",
+  "doi_url": "https://doi.org/10.1016/j.gie.2026.07.008",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-07-17",
+  "pmid": "42456983",
+  "title": "Advanced and Salvage Techniques for Difficult Biliary Cannulation in ERCP: A Randomized Trial of Outcomes and Efficacy.",
+  "title_ja": "ERCPにおける困難胆管カニュレーションに対する高度技術およびサルベージ技術：転帰と有効性に関するランダム化試験",
+  "journal": "Gastrointest Endosc",
+  "year": "2026",
+  "authors": "Elhoseeny MM, Alhaddad O, Elsabaawy M ほか",
+  "summary": "本研究は、困難胆管カニュレーション（DBC）に対するダブルガイドワイヤー法（DGT）、経膵管括約筋切開術（TPS）、プレカット瘻孔切開術の有効性と安全性を比較したランダム化試験である。エジプトの2施設で2019〜2022年にDBCを呈した150例（各群50例）を対象とした。初回成功率はDGT 72%、TPS 68%、プレカット 68%と群間差を認めず（p=0.882）、いずれの群も最終的な成功率は100%に達した。ERCPに関連する各種合併症や処置時間にも有意差はなく、プレカット法のみ造影剤使用量が有意に少なかった（p<0.005）。3手技はDBCに対して同等の有効性と安全性を示しており、手技の選択は患者の解剖学的特性、術者の技量、施設のリソースに基づき個別化すべきと結論付けられた。",
+  "key_points": [
+   "DGT・TPS・プレカット瘻孔切開術の初回成功率はそれぞれ72%・68%・68%で有意差なく、いずれの群も2回目の試みを含めた最終成功率は100%であった。",
+   "ERCP後膵炎の発生率はDGT 10%、TPS 22%、プレカット 24%と数値上の差はあったが、統計的有意差には至らなかった（p=0.151）。",
+   "プレカット法は造影剤使用量が他の2手技と比較して有意に少なく（p<0.005）、この点で潜在的な優位性を持つ可能性がある。"
+  ],
+  "clinical_relevance": "困難胆管カニュレーション時のサルベージ手技選択に際し、3手技は有効性・安全性において概ね同等であることが示されたため、術者は患者の解剖や自身の習熟度に応じて柔軟に手技を選択する根拠となる。消化器内科専門研修においては、複数のサルベージ手技を習得することの重要性を示す知見である。",
+  "study_type": "RCT",
+  "tags": [
+   "ERCP",
+   "胆管カニュレーション",
+   "内視鏡",
+   "胆膵疾患"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42456983/",
+  "doi_url": "https://doi.org/10.1016/j.gie.2026.07.004",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-07-16",
   "pmid": "42448241",
   "title": "SOX9-driven SPEM cell lineage plasticity is a potential therapeutic target that mitigates risk of metaplastic progression to gastric cancer.",

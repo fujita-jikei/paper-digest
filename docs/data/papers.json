@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-07-18",
+  "pmid": "42463583",
+  "title": "Neoadjuvant and adjuvant treatment for pancreatic ductal adenocarcinoma in patients over 80 years old based on a nationwide clinical database.",
+  "title_ja": "全国臨床データベースに基づく80歳以上の膵管腺癌患者における術前・術後補助療法の検討",
+  "journal": "J Gastroenterol",
+  "year": "2026",
+  "authors": "Hashimoto D, Hirakawa S, Mizuma M ほか",
+  "summary": "本研究は、2012〜2020年に膵切除を受けた80歳以上の膵管腺癌（PDAC）患者3,438例を対象に、日本消化器外科学会および日本膵臓学会の全国データベースを用いて、術前補助療法（NAT）および術後補助療法（AT）の有効性をプロペンシティスコアマッチング（PSM）で検討した後ろ向き研究である。NATに関しては、切除可能性を調整したPSM解析において274組を比較した結果、NATあり群の中央生存期間（MST）30.5ヶ月 vs. なし群29.0ヶ月と有意差は認められなかった（p=0.205）。一方、ATに関しては1,213組の比較においてAT実施群のMSTが30.7ヶ月、非実施群が23.7ヶ月と、AT実施群で有意に良好な生存期間が示された（p<0.001）。以上より、80歳以上のPDAC患者においてNATの生存利益は統計的に示されなかったが、ATは生存改善と関連していた。",
+  "key_points": [
+   "80歳以上のPDAC切除患者において、術後補助療法（AT）はMSTを約7ヶ月延長し（30.7ヶ月 vs. 23.7ヶ月）、有意な生存改善と関連していた。",
+   "術前補助療法（NAT）については、切除可能性ステータスを調整したPSM解析でも統計的に有意な生存利益は示されず、高齢者への適用は慎重な解釈が必要である。",
+   "本研究は全国規模のリアルワールドデータに基づく観察研究であり、選択バイアスの影響を完全には排除できないため、NAT非有効という結果の解釈には注意を要する。"
+  ],
+  "clinical_relevance": "高齢化が進む中で80歳以上のPDAC患者への治療方針決定に際し、術後補助療法の実施を積極的に検討する根拠となる一方、術前補助療法の有効性については慎重に個別評価する必要性を示す重要なエビデンスである。",
+  "study_type": "コホート",
+  "tags": [
+   "膵癌",
+   "高齢者腫瘍学",
+   "術後補助療法",
+   "膵切除"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42463583/",
+  "doi_url": "https://doi.org/10.1002/jhbp.320",
+  "pmc_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/3244629/"
+ },
+ {
+  "date": "2026-07-18",
+  "pmid": "42463423",
+  "title": "Neutrophil extracellular traps induced by tumour-derived NGAL reprogram CAF subtypes via ITGA5 to promote tumour progression in pancreatic cancer.",
+  "title_ja": "腫瘍由来NGALによって誘導された好中球細胞外トラップがITGA5を介してCAFサブタイプを再プログラム化し、膵癌の腫瘍進展を促進する",
+  "journal": "Gut",
+  "year": "2026",
+  "authors": "Liu W, Wang X, Chen R ほか",
+  "summary": "本研究は、膵管腺癌（PDAC）における好中球細胞外トラップ（NETs）とがん関連線維芽細胞（CAF）サブタイプの関係を解明することを目的とし、ヒトPDAC検体の空間解析、共培養実験、オルソトピックモデル、シングルセルRNAシーケンシングを含む多角的なアプローチで検討した。主要な結果として、NETs由来のDNAが線維芽細胞上のインテグリンα5β1（ITGA5）に結合し、FAK/SRC-YAP-IL-6-JAK/STAT3シグナル軸を介して炎症性CAF（iCAF）分化を誘導すること、またIL-17によって誘導される腫瘍由来NGALがERK-活性酸素種を介したNETosisを駆動することが明らかになった。NETs/ITGA5複合シグネチャーはPDAC患者の全生存期間を層別化し、シングルセルトランスクリプトミクスでは三重療法（抗IL-17＋AV3＋抗PD-1）がCAFをiCAFから筋線維芽細胞型CAF優位へシフトさせ、CD8陽性T細胞のエフェクタープログラムを回復させ、最も高い腫瘍抑制効果と生存ベネフィットをもたらすことが示された。これらの知見は、IL-17/NGAL/NETs/ITGA5軸を標的とした併用免疫療法の新たな論拠を提供する。",
+  "key_points": [
+   "腫瘍由来NGALがIL-17刺激によって誘導され、ERK-活性酸素種経路を介してNETosisを促進するという上流シグナルの存在が初めて明らかにされた。",
+   "NETs由来DNAがITGA5を介してiCAFへの分化を誘導し、iCAF豊富な領域にCD8陽性T細胞の疲弊が空間的に集積することが示された。",
+   "抗IL-17・ITGA5阻害・抗PD-1の三重併用療法が最大の腫瘍抑制効果を達成し、免疫チェックポイント阻害薬への抵抗性を克服する可能性が示唆された。"
+  ],
+  "clinical_relevance": "免疫チェックポイント阻害薬が奏効しにくい膵癌において、IL-17/NETs/ITGA5軸が新たな治療標的となり得る点は、膵癌の集学的治療を担う消化器内科医にとって重要な知見である。NETs/ITGA5複合シグネチャーが患者の予後層別化に活用できる可能性があり、今後のバイオマーカー研究の方向性を示している。",
+  "study_type": "その他",
+  "tags": [
+   "膵癌",
+   "腫瘍微小環境",
+   "免疫療法",
+   "がん関連線維芽細胞"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42463423/",
+  "doi_url": "https://doi.org/10.1136/gutjnl-2025-337720",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-07-18",
+  "pmid": "42463422",
+  "title": "International consensus on intestinal epithelial barrier assessment and therapeutic effects in inflammatory bowel diseases clinical trials.",
+  "title_ja": "炎症性腸疾患の臨床試験における腸管上皮バリア評価と治療効果に関する国際コンセンサス",
+  "journal": "Gut",
+  "year": "2026",
+  "authors": "Vieujean S, Atreya R, Buda A ほか",
+  "summary": "本研究は、炎症性腸疾患（IBD）における腸管バリア機能の回復を標的とした臨床試験デザインおよび評価ツールの選択に関する国際コンセンサスを策定することを目的とした。IBD領域の国際的専門家12名からなるパネルが、系統的文献レビューをもとに作成されたステートメントを修正デルファイ法（合意基準：参加者の75%以上の同意）を用いて検討・投票した。その結果、エンドポイントとしての腸管バリア評価の役割、再評価のタイミング、プロトコル要件、疾患特異的考慮事項、ならびに画像検査・機能的透過性アッセイ・内因性バイオマーカーを含む評価ツールの選択と標準化に関する14のステートメントが合意に達した。本コンセンサスは、IBDにおける腸管バリアの完全性・機能回復を評価する将来の臨床試験設計に向けた構造的枠組みを提供する。",
+  "key_points": [
+   "IBDにおける腸管バリア修復は症状負担の軽減だけでなく長期予後の改善とも関連しており、新たな治療標的として注目されているが、これを専門的に評価した臨床試験はこれまで存在しなかった。",
+   "修正デルファイ法により14のステートメントが75%以上の合意率で承認され、臨床試験設計・評価ツール選択・標準化に関する具体的な推奨事項が示された。",
+   "評価ツールとして画像ベースの手法、機能的透過性アッセイ、内因性バイオマーカーの3カテゴリーが取り上げられ、それぞれの実装上の考慮事項も提示された。"
+  ],
+  "clinical_relevance": "消化器内科医がIBD診療においてバリア機能修復を治療目標として位置づける際の概念的基盤となり、今後のバリア標的治療の臨床試験参加・設計において実践的な指針として活用できる。",
+  "study_type": "ガイドライン",
+  "tags": [
+   "IBD",
+   "腸管バリア",
+   "臨床試験デザイン",
+   "デルファイ法"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42463422/",
+  "doi_url": "https://doi.org/10.1136/gutjnl-2026-339056",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-07-17",
   "pmid": "42457620",
   "title": "Multimodal C9-66 CAR-T cell immunotherapy improves outcome in preclinical models of pancreatic cancer.",

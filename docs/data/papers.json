@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-07-19",
+  "pmid": "42467969",
+  "title": "Characteristics and outcomes of patients with imaging-defined MASLD and histological steatosis grade S0.",
+  "title_ja": "画像診断でMASLDと診断されながら組織学的脂肪化グレードS0を示す患者の特徴と転帰",
+  "journal": "Am J Gastroenterol",
+  "year": "2026",
+  "authors": "Liu WY, Lian LY, Kim SU ほか",
+  "summary": "本研究は、画像でMASLDと診断されながら肝生検で脂肪化グレードS0（「steatosis 0」）を示す逆説的な症例群の転帰と原因を検討したものである。16施設3,273例の追跡コホートでは123例（3.8%）が「steatosis 0」に該当し、そのうち29.3%が進行線維化（「burnt-out」MASLD）を有し肝関連イベントのリスクが認められた一方、進行線維化を伴わない例ではイベントは認められなかった。対ペア生検コホート（1,865例中74例がS0）では、93.2%が経過観察生検でも脂肪化なし〜軽度を維持し、MRI-PDFFにより肝内脂肪分布の不均一性も示された。「steatosis 0」は「burnt-out」MASLD、肝内脂肪の不均一分布、病理評価の変動のいずれかにより生じうる診断上のグレーゾーンであり、その原因理解が適切な診断・管理に不可欠である。",
+  "key_points": [
+   "「steatosis 0」の約30%は進行線維化を伴う「burnt-out」MASLDであり、肝関連イベントリスクを有するため見逃してはならない。",
+   "MRI-PDFFにより肝内脂肪分布の不均一性が示されており、生検部位の偏りが脂肪化の過小評価につながる可能性がある。",
+   "病理医間の判定のばらつきや連続切片間の不一致も、steatosis gradeの誤分類に寄与することが示された。"
+  ],
+  "clinical_relevance": "画像でMASLDと診断されても生検でS0を示す症例は診断上のグレーゾーンであり、進行線維化の有無を評価することが臨床管理上重要である。肝生検の解釈には生検部位の偏りや病理評価の限界を念頭に置く必要がある。",
+  "study_type": "コホート",
+  "tags": [
+   "MASLD",
+   "脂肪性肝疾患",
+   "肝線維化",
+   "肝生検"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42467969/",
+  "doi_url": "https://doi.org/10.14309/ajg.0000000000004116",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-07-19",
+  "pmid": "42467952",
+  "title": "Absolute risk of malignancy by treatment in patients with Crohn's disease compared to the general population: a nationwide population-based cohort study.",
+  "title_ja": "クローン病患者における治療別の悪性腫瘍絶対リスク：一般人口との比較に基づく全国規模の人口ベースコホート研究",
+  "journal": "Am J Gastroenterol",
+  "year": "2026",
+  "authors": "Everhov ÅH, Eriksson J, Söderling J ほか",
+  "summary": "本研究はスウェーデンの全国レジストリデータを用い、2007〜2023年にクローン病（CD）と診断された38,733例を中央値7.3年追跡し、治療コホート別のがん発症率を一般人口と比較した。全がんの発症率差（過剰発症率、単位：1,000人年あたり）は、免疫調節薬未使用群2.43、チオプリン群3.14、TNF阻害薬（TNFi）群2.42、チオプリン+TNFi群2.59、ベドリズマブ群2.61、ウステキヌマブ群1.54であり、全コホートで一般人口と比較した過剰発症が観察された。過剰発症の主因は非メラノーマ性皮膚がん（扁平上皮がん・基底細胞がん）であり、これを除外すると過剰発症は1,000人年あたり約1例（主に肺がん、小腸がん、肝胆道がん、血液悪性腫瘍）に低下した。年齢が上がるにつれて発症率差は増大し、ハザード比は低下する傾向が示された。",
+  "key_points": [
+   "治療レジメンにかかわらず（免疫調節薬未使用群を含む）、CD患者は一般人口より全がん発症リスクが高く、治療そのものだけでなくCD自体が発がんに寄与している可能性がある。",
+   "非メラノーマ性皮膚がんを除外すると過剰発症は1,000人年あたり約1例まで低下し、特に肺・小腸・肝胆道・血液悪性腫瘍がその主体であることが示された。",
+   "ウステキヌマブ群およびベドリズマブ群では全がん過剰発症の95%信頼区間が0をまたいでおり、他治療群と比較してリスク増加が統計学的に有意ではなかった。"
+  ],
+  "clinical_relevance": "CD患者への治療方針決定や患者説明において、治療薬別の具体的ながん絶対リスクを提示できる点で有用であり、特に日光曝露管理を含む非メラノーマ性皮膚がん予防の重要性を患者に伝える根拠となる。",
+  "study_type": "コホート",
+  "tags": [
+   "IBD",
+   "クローン病",
+   "悪性腫瘍リスク",
+   "生物学的製剤"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42467952/",
+  "doi_url": "https://doi.org/10.14309/ajg.0000000000004119",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-07-19",
+  "pmid": "42463421",
+  "title": "Cryptogenic steatotic liver disease: a lean phenotype associated with increased liver-related mortality.",
+  "title_ja": "潜因性脂肪性肝疾患：肝関連死亡率の増加と関連する痩せ型表現型",
+  "journal": "Gut",
+  "year": "2026",
+  "authors": "Yoon EL, Lee HY, Lee J ほか",
+  "summary": "本研究は、心代謝リスク因子（CMRF）を有さない痩せ型（BMI<25 kg/m²）の脂肪性肝疾患（SLD）として操作的に定義された「潜因性SLD」の臨床的特徴と予後を検討した多コホート研究である。UK BiobankのMR-PDFF解析（n=30,847）では、非肥満SLDの13.7%が潜因性SLDに分類され、PNPLA3やTM6SF2リスク変異の高頻度や肝線維化率の上昇が認められた。縦断解析では、潜因性SLDは韓国国民健康保険サービス（KNHIS）コホートにおいて肝関連死と有意に関連し（HR 2.5、95%CI 1.4〜4.3）、UK BiobankコホートでもHR 13.2（95%CI 1.9〜92.4）と同様の傾向が示された。CMRFが記録されていないにもかかわらず、潜因性SLDは肝障害マーカーの異常および肝関連死亡率の上昇と関連する独立した表現型であることが示された。",
+  "key_points": [
+   "CMRFを持たない痩せ型SLD（潜因性SLD）は非肥満SLD全体の約13.7%を占め、無視できない割合を示す。",
+   "潜因性SLDはPNPLA3・TM6SF2などの遺伝的リスク変異の高頻度や高い肝線維化率など、代謝的・肝臓関連の不良プロファイルを示す。",
+   "潜因性SLDは肝関連死亡リスクの有意な上昇（KNHIS: HR 2.5）と関連しており、アルコールをより厳密に除外しても関連は持続した。"
+  ],
+  "clinical_relevance": "BMIが低くCMRFが明らかでない患者であっても脂肪肝を見逃さず精査する必要性を示唆しており、潜因性SLDの概念は消化器・肝臓専門医が痩せ型SLD患者を診る際の鑑別診断と長期フォロー戦略に影響を与える。",
+  "study_type": "コホート",
+  "tags": [
+   "脂肪性肝疾患",
+   "MASLD",
+   "肝線維化",
+   "遺伝的リスク因子"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42463421/",
+  "doi_url": "https://doi.org/10.1136/gutjnl-2026-339142",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-07-18",
   "pmid": "42463583",
   "title": "Neoadjuvant and adjuvant treatment for pancreatic ductal adenocarcinoma in patients over 80 years old based on a nationwide clinical database.",

@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-07-20",
+  "pmid": "42471010",
+  "title": "Clinically meaningful risk factors for recurrence in T1 colorectal cancer treated with endoscopic resection alone identified by unsupervised machine learning: a multicenter study.",
+  "title_ja": "教師なし機械学習により同定された内視鏡切除単独で治療されたT1大腸癌の再発に関する臨床的に意義のある危険因子：多施設共同研究",
+  "journal": "Endoscopy",
+  "year": "2026",
+  "authors": "Zhou X, Togashi K, Zhu X ほか",
+  "summary": "本研究は、内視鏡切除（ER）単独で治療されたT1大腸癌患者における再発リスク層別化を目的とした後ろ向き多施設共同研究であり、国内27施設から1,123例を対象とした。K-meansクラスタリングにより3つの再発リスクサブタイプが同定され、サブタイプ1の再発率（5.4%）はサブタイプ2（0.9%）およびサブタイプ3（1.4%）より数値的に高かった。決定木モデルによる層別化では、粘膜下層浸潤深度1,000μm未満が低リスク、1,000μm以上では形態評価が必要で有茎性病変は高リスク、平坦型病変はさらに2,000μmを閾値として層別化されることが示された。これらの結果は、従来の浸潤深度に基づく基準に加えて、T1b病変の形態学的サブ分類が再発リスク層別化を精緻化できる可能性を示唆している。",
+  "key_points": [
+   "粘膜下層浸潤深度1,000μm以上のT1大腸癌では、形態（有茎性 vs 平坦型）および浸潤深度2,000μmという追加閾値を用いることで再発リスクをより細かく層別化できる可能性がある。",
+   "再発率が類似するサブタイプ2（0.9%）とサブタイプ3（1.4%）が形態（平坦型 vs 有茎性）で明確に区別されており、形態情報が独立した臨床的意義を持つことが示唆された。",
+   "本研究は教師なし機械学習（K-meansクラスタリング）と決定木分類器を組み合わせた解釈可能なリスク層別化の枠組みを提示した探索的研究であり、今後の検証が必要である。"
+  ],
+  "clinical_relevance": "T1大腸癌の内視鏡切除後に追加外科切除を行うかどうかの意思決定において、浸潤深度に加えて病変形態を組み合わせた層別化が有用となる可能性があり、消化器内科専攻医が術後フォローアップ方針を検討する際の参考となる。",
+  "study_type": "コホート",
+  "tags": [
+   "大腸癌",
+   "内視鏡",
+   "T1癌",
+   "機械学習"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42471010/",
+  "doi_url": "https://doi.org/10.1055/a-2917-8805",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-07-20",
+  "pmid": "42470466",
+  "title": "Clinical outcomes of lean metabolic dysfunction-associated steatotic liver disease by phenotypic subtypes.",
+  "title_ja": "痩せ型MASLDの表現型サブタイプ別にみた臨床アウトカム",
+  "journal": "J Gastroenterol",
+  "year": "2026",
+  "authors": "Kuo CC, Chen CH, Kuo HT ほか",
+  "summary": "本研究はTriNetX Global Networkを用いて2005〜2024年に診断されたMALD患者を対象に、痩せ型MASLD（BMI<25 kg/m²）の予後的異質性を検討したレトロスペクティブコホート研究である。痩せ型MASLD 40,456例（低体重群2,121例、正常体重群38,335例）を1:1傾向スコアマッチングで比較した結果、低体重MASLDは正常体重MASLDに比べ全死亡リスク（HR 2.03、95%CI 1.68–2.44）および主要肝イベント（MALO）リスク（HR 2.01、95%CI 1.49–2.70）がいずれも約2倍高かった。正常体重MASLD内では、心代謝リスク因子（CMRF）が多いほど死亡・MALO・MACEリスクが段階的に上昇し、2型糖尿病単独はMALOリスクが高く、脂質異常症単独は死亡・MALO・MACEリスクが低い傾向を示した。これらの結果から、痩せ型MASLDはBMIサブグループやCMRF表現型によって予後が大きく異なる不均一な疾患群であることが示された。",
+  "key_points": [
+   "低体重MASLDは正常体重MASLDと比較して全死亡（HR 2.03）および主要肝イベント（HR 2.01）のリスクが約2倍高く、痩せていても安心できない予後不良群である。",
+   "正常体重MASLD内でもCMRFの種類と数によって予後が異なり、2型糖尿病単独は肝イベントリスクが高い一方、脂質異常症単独は相対的にリスクが低い。",
+   "CMRFが2つまたは3つ重なる多因子負担群では、死亡・肝イベント・心血管イベントリスクがいずれも段階的に増加するグレーデッドな関連が確認された。"
+  ],
+  "clinical_relevance": "痩せ型MASLDを一様に「軽症」と捉えず、BMIサブグループやCMRF表現型に基づいてリスク層別化を行うことが、より適切なフォローアップ戦略や介入につながる。消化器内科専攻医は痩せ型MASLD患者においても体重以外の代謝リスク因子を包括的に評価する習慣を身につけることが重要である。",
+  "study_type": "コホート",
+  "tags": [
+   "MASLD",
+   "脂肪性肝疾患",
+   "痩せ型",
+   "心代謝リスク"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42470466/",
+  "doi_url": "https://doi.org/10.5493/wjem.v14.i4.98543",
+  "pmc_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11551700/"
+ },
+ {
+  "date": "2026-07-20",
+  "pmid": "42462829",
+  "title": "A DR5/Ligase 3-mediated feedback loop perpetuates immunogenicity in mismatch repair deficient colorectal cancer.",
+  "title_ja": "ミスマッチ修復欠損大腸癌においてDR5/Ligase 3を介したフィードバックループが免疫原性を持続させる",
+  "journal": "Gastroenterology",
+  "year": "2026",
+  "authors": "Hao S, Sato Y, Battaglin F ほか",
+  "summary": "本研究は、ミスマッチ修復欠損（dMMR）/マイクロサテライト不安定性（MSI）大腸癌における抗腫瘍免疫の機序を解明することを目的とした基礎・トランスレーショナル研究である。同系移植腫瘍モデル、免疫細胞共培養アッセイ、腫瘍由来オルガノイドのALI培養系を用いた検討により、Mlh1の不活化が小胞体ストレスとDR5（デスレセプター5）を介したアポトーシスを引き起こし、アポトーシス細胞から核内Ligase 3（Lig3）依存的に染色体外環状DNA（eccDNA）が放出されることが示された。このDR5/Lig3の増幅フィードバックループがアポトーシスと免疫細胞活性化を持続させ、免疫チェックポイント阻害薬（ICI）応答に不可欠であることが示され、さらに大腸癌患者のデータベース解析においてDR5およびLIG3の発現とICI治療効果との間に有意な相関が確認された。",
+  "key_points": [
+   "dMMR/MSI大腸癌の免疫原性は内在的なものではなく、MLH1欠損→小胞体ストレス→DR5介在性アポトーシス→Ligase 3依存的eccDNA放出というフィードバックループによって能動的に維持される。",
+   "DR5およびLIG3の発現が大腸癌患者におけるICI治療効果と有意に相関しており、治療反応性予測のバイオマーカー候補となりうる。",
+   "dMMR/MSI大腸癌の一部でICIが無効または耐性を示す理由として、このフィードバック機構の障害が関与している可能性がある。"
+  ],
+  "clinical_relevance": "dMMR/MSI大腸癌に対するICI治療の反応率向上や耐性克服に向けて、DR5/Ligase 3経路が新たな治療標的・バイオマーカーとなる可能性があり、消化器内科医として免疫療法の適応判断や効果予測に今後役立つ知見である。",
+  "study_type": "その他",
+  "tags": [
+   "大腸癌",
+   "免疫チェックポイント阻害薬",
+   "MSI/dMMR",
+   "腫瘍免疫"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42462829/",
+  "doi_url": "https://doi.org/10.1053/j.gastro.2026.06.014",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-07-19",
   "pmid": "42467969",
   "title": "Characteristics and outcomes of patients with imaging-defined MASLD and histological steatosis grade S0.",

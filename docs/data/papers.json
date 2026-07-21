@@ -1,5 +1,31 @@
 [
  {
+  "date": "2026-07-22",
+  "pmid": "42476208",
+  "title": "Machine Learning Prediction of Liver Fibrosis in Patients with Metabolic Dysfunction Associated Steatotic Liver Disease (MASLD).",
+  "title_ja": "機械学習によるMASLD患者の肝線維化予測",
+  "journal": "Clin Gastroenterol Hepatol",
+  "year": "2026",
+  "authors": "Petta S, Pennisi G, Celsa C ほか",
+  "summary": "本研究は、代謝機能障害関連脂肪性肝疾患（MASLD）患者における肝線維化ステージの正確な予測を目的として、生検で確認された3,600例以上のMASLD患者を対象に、22の臨床特徴・肝硬度測定値・制御減衰パラメータを用いた機械学習モデルを開発・検証した。Feature Tokenizer Transformer（FTT）とTabNetは二値分類タスクで最高性能を達成し、F≥3対F0-F2の識別においてAUROC 0.860および0.855を示し、FIB-4を有意に上回った。F≥3の識別においてFTTはLSMよりも有意に高いAUROCを示し（p=0.014）、グレーゾーンもそれぞれ8.2%・8.4%と最低水準であった。多クラスの線維化ステージ分類ではMLP-CORALが二次重み付きカッパ係数0.616を達成し、序数認識アーキテクチャが有効であることが示された。",
+  "key_points": [
+   "FTTおよびTabNetはF≥3の予測においてAUROC 0.860・0.855を達成し、既存の非侵襲的指標であるFIB-4を有意に上回った。",
+   "FTTはF≥3識別においてLSMよりも有意に高い精度を示し（p=0.014）、グレーゾーンを8.2%まで低減することで不確定例を大幅に減らした。",
+   "序数認識モデル（MLP-CORAL）は多クラスの線維化ステージ分類で最高性能（QWK=0.616）を示し、ルーチン臨床データのみで生検に代わるスケーラブルな評価が可能であることが示された。"
+  ],
+  "clinical_relevance": "日常臨床で取得可能なルーチンデータのみを用いてMASLDの肝線維化ステージを高精度に推定できるため、肝生検や専門的バイオマーカーへの依存を減らしリスク層別化の効率化に貢献しうる。消化器内科専攻医にとって、AIを活用した非侵襲的肝線維化評価の実践的理解を深める上で重要な知見となる。",
+  "study_type": "コホート",
+  "tags": [
+   "MASLD",
+   "肝線維化",
+   "機械学習",
+   "非侵襲的診断"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42476208/",
+  "doi_url": "https://doi.org/10.1016/j.cgh.2026.07.006",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-07-20",
   "pmid": "42471010",
   "title": "Clinically meaningful risk factors for recurrence in T1 colorectal cancer treated with endoscopic resection alone identified by unsupervised machine learning: a multicenter study.",

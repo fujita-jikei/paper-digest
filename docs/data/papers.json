@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-07-28",
+  "pmid": "42503311",
+  "title": "Immediate vs Step-up Endoscopic Transluminal Necrosectomy in Necrotizing Pancreatitis: Systematic Review and Meta-analysis of Randomized Controlled Trials.",
+  "title_ja": "壊死性膵炎における即時的 vs 段階的内視鏡的経管腔的壊死組織除去術：無作為化比較試験の系統的レビューとメタ解析",
+  "journal": "Endoscopy",
+  "year": "2026",
+  "authors": "Dimitrov D, Wu Y, Rodriguez B ほか",
+  "summary": "本研究は、被包化壊死（WON）に対する即時的直接内視鏡的壊死組織除去術（DEN）と段階的DENを比較した無作為化比較試験（RCT）5件・患者269例（即時的DEN群134例、段階的戦略群135例）を対象とした系統的レビューおよびメタ解析である。主要アウトカムである臨床的成功率において、即時的DENは段階的戦略と比較して有意に高い結果を示した（OR 2.56、95%CI 1.03–6.37、p=0.046、I²=0%）。また、即時的DENは入院期間の有意な短縮とも関連していた（平均差 -8.02日、95%CI -15.00〜-1.05、p=0.033）。一方、技術的成功、壊死除去セッション数、総介入数、有害事象、出血、臓器不全、死亡率、再入院率には両群間で有意差は認められなかった。",
+  "key_points": [
+   "即時的DENは段階的戦略と比較して臨床的成功率が有意に高く（OR 2.56）、入院期間を約8日短縮させることが示された。",
+   "出血・臓器不全・死亡率・有害事象などの安全性アウトカムには両戦略間で有意差はなく、即時的DENの安全性が示唆された。",
+   "エビデンスの確実性はGRADEで評価されており、適切な患者を選択したうえでの即時的DENの検討が支持されるが、タイミングは個別化が必要とされている。"
+  ],
+  "clinical_relevance": "WONを有する壊死性膵炎患者において、即時的DENの選択的適用が臨床転帰の改善と入院期間短縮に寄与する可能性があり、消化器内科専門医として介入タイミングの判断基準を身につけることが重要である。",
+  "study_type": "メタ解析",
+  "tags": [
+   "急性膵炎",
+   "内視鏡",
+   "壊死組織除去術",
+   "膵臓"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42503311/",
+  "doi_url": "https://doi.org/10.1055/a-2924-6462",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-07-28",
+  "pmid": "42497979",
+  "title": "Esophagogastric Junction Marking Clip Placement During Endoscopic Ultrasound-Guided Hepaticogastrostomy: A Single-Center Retrospective Study.",
+  "title_ja": "EUS下肝胃吻合術における食道胃接合部マーキングクリップ留置：単施設後方視的研究",
+  "journal": "Gastrointest Endosc",
+  "year": "2026",
+  "authors": "Sugimoto M, Suzuki R, Asama H ほか",
+  "summary": "本研究は、EUS下肝胃吻合術（EUS-HGS）における経食道穿刺という重篤な合併症を防ぐため、食道胃接合部（EGJ）へのマーキングクリップ留置の有効性を評価した単施設後方視的研究である。2019年3月から2026年2月の間にEGJマーキングクリップ留置下でEUS-HGSを施行した49例を対象とし、手技の87.8%が初心者内視鏡医によって行われたにもかかわらず、経食道穿刺は1例も認められなかった。技術的成功率および臨床的成功率はともに98.0%であり、手技関連有害事象は2例（4.6%）に発生した。特殊な機器を必要としないこのシンプルな手技が、特にEUS-HGSの学習初期段階における手技安全性の向上に寄与する可能性が示唆された。",
+  "key_points": [
+   "EUS-HGS施行時にEGJへマーキングクリップを留置することで、経食道穿刺を0件に抑えられた可能性がある。",
+   "手技の87.8%が初心者内視鏡医によって行われており、学習曲線の早期段階においても高い技術的・臨床的成功率（各98.0%）が達成された。",
+   "本手技は特殊な機器を必要とせず、既存の設備で実施可能なシンプルな安全対策である。"
+  ],
+  "clinical_relevance": "EUS-HGSを習得しようとする研修中の消化器内科医にとって、EGJマーキングクリップ留置は経食道穿刺リスクを低減するための実践的かつ導入しやすい手技として参考になる。日常臨床におけるEUS-HGSの標準的な安全手順として組み込むことが検討される。",
+  "study_type": "コホート",
+  "tags": [
+   "EUS-HGS",
+   "胆道ドレナージ",
+   "内視鏡",
+   "手技安全性"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42497979/",
+  "doi_url": "https://doi.org/10.1016/j.gie.2026.07.021",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-07-28",
+  "pmid": "42497978",
+  "title": "Endoscopic Ultrasound and Clinical Features for Differentiating Autoimmune Pancreatitis and Pancreatic Ductal Adenocarcinoma: A Multicenter Cohort Study.",
+  "title_ja": "自己免疫性膵炎と膵管腺癌の鑑別における超音波内視鏡および臨床的特徴：多施設コホート研究",
+  "journal": "Gastrointest Endosc",
+  "year": "2026",
+  "authors": "Zhang Y, Zhang S, Yan Z ほか",
+  "summary": "本研究は、自己免疫性膵炎（AIP）と膵管腺癌（PDAC）の鑑別を目的として、中国6施設でEUSを施行した577例を対象に行われた後ろ向き多施設コホート研究である。LASSO回帰と多変量ロジスティック回帰を用いて、IgG4高値・CA19-9高値・血管浸潤・びまん性低エコー変化の4特徴を組み合わせた診断モデルを構築した。主要コホートでのAUCは0.994（感度96.7%、特異度97.8%）、検証コホートでは0.984（感度93.5%、特異度97.8%）と極めて高い識別能を示した。EUSと臨床・血清学的指標を統合したモデルは、いずれか単独のモデルと比較してより均衡のとれた診断性能を発揮したが、後ろ向き研究設計の限界から前向き外部検証が必要とされている。",
+  "key_points": [
+   "IgG4高値・CA19-9高値・血管浸潤・びまん性低エコー変化の4変数からなるシンプルなモデルが、AIPとPDACの鑑別においてAUC 0.984〜0.994という高い診断精度を達成した。",
+   "EUS所見単独または臨床指標単独のモデルと比較して、両者を統合したモデルは特に検証コホートにおける感度においてより均衡のとれた性能を示した。",
+   "本モデルはノモグラムとして実装されており臨床応用を想定しているが、後ろ向き設計・過学習リスク・独立した外部検証の欠如があるため、日常臨床導入前に前向き検証が求められる。"
+  ],
+  "clinical_relevance": "AIPとPDACの鑑別は治療方針が根本的に異なるため、消化器内科医にとって日常臨床上きわめて重要な課題であり、本研究が示すEUSと血清学的指標を組み合わせた診断アプローチは実践的な鑑別戦略として参考になる。EUSを習得する専門研修においても、びまん性低エコー変化や血管浸潤などのEUS所見の意義を体系的に理解する上で有用な知見を提供している。",
+  "study_type": "コホート",
+  "tags": [
+   "自己免疫性膵炎",
+   "膵癌",
+   "超音波内視鏡",
+   "診断モデル"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42497978/",
+  "doi_url": "https://doi.org/10.1016/j.gie.2026.07.019",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-07-27",
   "pmid": "42502003",
   "title": "In-person therapist-delivered hypnotherapy versus smartphone-based self-guided hypnotherapy in IBS: a multicentre three-armed randomised controlled trial.",

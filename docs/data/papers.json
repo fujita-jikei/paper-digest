@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-07-30",
+  "pmid": "42524792",
+  "title": "Improving follow-up of abnormal stool test results used for colorectal cancer screening.",
+  "title_ja": "大腸癌スクリーニングに用いられる便検査の異常結果に対するフォローアップの改善",
+  "journal": "Gastrointest Endosc",
+  "year": "2026",
+  "authors": "Levin TR, Ciemins E, Dominitz J ほか",
+  "summary": "本論文は、大腸癌（CRC）スクリーニングにおける便検査の位置づけを再確認し、陽性結果後の大腸内視鏡検査によるフォローアップが依然として不十分である現状を指摘したガイドラインである。適時のフォローアップ大腸内視鏡検査を妨げる障壁を検討するとともに、エビデンスに基づいた介入策をレビューしている。患者ナビゲーション、デジタルツール、オープンアクセス大腸内視鏡検査などの協調的な戦略を実施することで、CRCスクリーニングの連続性におけるギャップを埋めることができると結論づけている。これらの取り組みによりCRMの罹患率および死亡率の低下が期待される。",
+  "key_points": [
+   "便検査陽性患者はCRCリスクが高く、適時の大腸内視鏡検査によるフォローアップが推奨されるが、その実施率は依然として最適水準に達していない。",
+   "患者ナビゲーション、デジタルツール、オープンアクセス大腸内視鏡検査などの多面的・協調的な介入策がフォローアップ率の改善に有効とされている。",
+   "本ガイドラインは、内視鏡医・医療機関・政策立案者それぞれに対して実践可能な具体的推奨事項を提供している。"
+  ],
+  "clinical_relevance": "便潜血検査陽性患者への大腸内視鏡フォローアップを確実に行う体制づくりは、消化器内科医として直接関与すべき重要課題であり、本ガイドラインの推奨策は日常診療や医療システムの改善に活用できる。",
+  "study_type": "ガイドライン",
+  "tags": [
+   "大腸癌スクリーニング",
+   "大腸内視鏡",
+   "便潜血検査",
+   "がん予防"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42524792/",
+  "doi_url": "https://doi.org/10.1016/j.gie.2026.05.028",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-07-30",
+  "pmid": "42521877",
+  "title": "Impact of 5-aminosalicylic acid intolerance on progression to difficult-to-treat ulcerative colitis: a retrospective cohort study.",
+  "title_ja": "5-アミノサリチル酸不耐症が治療困難な潰瘍性大腸炎への進行に与える影響：後ろ向きコホート研究",
+  "journal": "J Gastroenterol",
+  "year": "2026",
+  "authors": "Ohno M, Nishida A, Yoshida S ほか",
+  "summary": "本研究は919例の潰瘍性大腸炎（UC）患者を対象とした後ろ向きコホート研究であり、5-ASA不耐症（145例、15.8%）が治療困難（D2T）UC への進行に与える長期的影響を評価した。5-ASA不耐症全体はD2T進行リスクの独立した増加と関連しており（sHR 2.07、95%CI 1.14–3.75）、特に急性不耐症症候群（AIS）がそのリスクを強く駆動していた（sHR 3.25、95%CI 1.64–6.45）。一方、5-ASA不耐症は大腸切除リスクとは関連しなかった。以上より、5-ASA不耐症の中でもAISの同定がD2T UCへの進行に関するリスク層別化において重要であると結論された。",
+  "key_points": [
+   "5-ASA不耐症はD2T UC進行の独立したリスク因子であり（sHR 2.07）、そのリスク超過は主に急性不耐症症候群（AIS）によって説明される（sHR 3.25）。",
+   "ランドマーク解析では、90日または365日時点での5-ASA使用継続者は非使用者と比較してD2T進行の累積発生率が低く、5-ASAの継続使用が保護的に働く可能性が示唆された。",
+   "高度治療（advanced therapy）開始後の二次無効リスクは、5-ASA不耐症全体では関連しなかったが、AIS表現型では独立した関連が認められた。"
+  ],
+  "clinical_relevance": "5-ASA不耐症を有するUC患者を診療する際には、急性不耐症症候群（AIS）か否かを詳細に評価することで、より精度の高いリスク層別化と個別化治療戦略の立案が可能となる。消化器内科専門研修において、5-ASA不耐症の表現型分類の重要性を意識することが求められる。",
+  "study_type": "コホート",
+  "tags": [
+   "IBD",
+   "潰瘍性大腸炎",
+   "5-ASA",
+   "治療困難疾患"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42521877/",
+  "doi_url": "https://doi.org/10.3390/jcm8122109",
+  "pmc_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/6970226/"
+ },
+ {
+  "date": "2026-07-30",
+  "pmid": "42521487",
+  "title": "Galectin-14, a primate-specific oncofetal protein, impairs anti-tumour immunity in hepatocellular carcinoma by driving elevated heparan sulphate modification.",
+  "title_ja": "霊長類特異的な腫瘍胎児性タンパク質ガレクチン-14は、ヘパラン硫酸修飾の亢進を介して肝細胞癌における抗腫瘍免疫を障害する",
+  "journal": "Gut",
+  "year": "2026",
+  "authors": "Yang G, Gou L, Liu X ほか",
+  "summary": "本研究は、肝細胞癌（HCC）におけるヘパラン硫酸（HS）修飾の亢進が予後不良およびT細胞疲弊と関連することを、HCC臨床データおよびin vivoモデルを用いて示した。トランスクリプトーム解析により、霊長類特異的な腫瘍胎児性タンパク質であるガレクチン-14がHS合成の上流制御因子として同定された。ガレクチン-14はUDP-グルコースピロリン酸化酵素2（UGP2）に直接結合してその会合体形成と酵素活性を促進し、HS鎖合成に必要なUDP-グリコシルドナー（UDP-Glc、UDP-GlcNAc、UDP-GlcA）の産生を増加させることで、FGFR1シグナルを一部介したCD8+ T細胞の接触依存性疲弊を誘導し、HCCの進行と免疫回避を促進することが明らかになった。本研究は、ガレクチン-14がUGP2を介したグリコシルドナー産生を再プログラムしてHS修飾を亢進させ、HCC免疫抑制の主要制御因子として機能することを定義し、診断マーカーおよび治療標的としての可能性を示した。",
+  "key_points": [
+   "HS修飾の亢進はHCC患者の生存不良およびCD8+ T細胞疲弊と相関しており、免疫回避の新たなメカニズムとして注目される。",
+   "霊長類特異的な腫瘍胎児性タンパク質ガレクチン-14がUGP2の活性化を通じてHS合成を促進し、HCC進行および免疫抑制の上流制御因子であることが遺伝学的・生化学的手法で確認された。",
+   "ガレクチン-14はHCCの診断マーカーおよび治療標的候補として有望であり、特に免疫チェックポイント療法との組み合わせ戦略への応用が期待される。"
+  ],
+  "clinical_relevance": "現在のHCCに対する免疫療法の効果が限定的な一因として、HS修飾を介した腫瘍微小環境の免疫抑制機構が関与している可能性があり、ガレクチン-14やUGP2を標的とした新規治療戦略の開発は消化器内科・肝臓専門医にとって重要な知見となりうる。",
+  "study_type": "その他",
+  "tags": [
+   "肝細胞癌",
+   "腫瘍免疫",
+   "グリコシル化",
+   "腫瘍微小環境"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42521487/",
+  "doi_url": "https://doi.org/10.1136/gutjnl-2026-338068",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-07-28",
   "pmid": "42503311",
   "title": "Immediate vs Step-up Endoscopic Transluminal Necrosectomy in Necrotizing Pancreatitis: Systematic Review and Meta-analysis of Randomized Controlled Trials.",

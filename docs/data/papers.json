@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-07-31",
+  "pmid": "42530606",
+  "title": "Clinical applications of gut microbiome for non-invasive diagnosis of colorectal neoplasia.",
+  "title_ja": "大腸腫瘍の非侵襲的診断における腸内マイクロバイオームの臨床応用",
+  "journal": "J Gastroenterol",
+  "year": "2026",
+  "authors": "Cui C, Shi H, Naito Y ほか",
+  "summary": "大腸癌（CRC）は世界で3番目に多い悪性腫瘍であり、がん関連死亡の原因として第2位を占める。便潜血免疫学的検査（FIT）などの既存の便検査は腺腫の検出感度に限界があり、偽陽性による不要な侵襲的処置や腺腫の見逃しが課題となっている。多国籍メタゲノム研究により腸内マイクロバイオームの変化がCRC発癌に関与することが示され、Fusobacterium nucleatum、Hungatella hathewayi、Christensenella hongkongensis、およびLachnoclostridium由来の新規細菌遺伝子マーカーm3を組み合わせたパネルが、腺腫の検出感度を改善しつつCRCに対しても同等の精度を維持することが報告された。マイクロバイオームを用いた便検査はFIT単独では見逃されやすい早期腺腫の検出を改善し、国際ガイドラインもFITとの組み合わせによる統合スクリーニングを推奨し始めている。",
+  "key_points": [
+   "Fusobacterium nucleatum、Hungatella hathewayi、Christensenella hongkongensis、およびLachnoclostridium由来の新規マーカーm3を含む微生物パネルが、FIT単独と比較して腺腫の検出感度を改善することが示された。",
+   "腸内マイクロバイオームの変化は従来のスクリーニングが利用する生物学的シグナルより早期に出現する可能性があり、より早い段階での病変検出に貢献しうる。",
+   "国際ガイドラインはマイクロバイオーム検査とFITを組み合わせた統合スクリーニングプログラムを推奨し始めており、多様な集団での検証やコスト効果の評価が今後の課題とされている。"
+  ],
+  "clinical_relevance": "消化器内科専門医を志望する医師にとって、腸内マイクロバイオームを用いた非侵襲的便検査はCRCスクリーニングの新たな選択肢として理解しておくべきトピックであり、FITとの併用による腺腫早期発見や個別化リスク層別化への応用が今後の臨床実践に影響する可能性がある。",
+  "study_type": "総説",
+  "tags": [
+   "大腸癌",
+   "腸内マイクロバイオーム",
+   "スクリーニング",
+   "腺腫"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42530606/",
+  "doi_url": "https://doi.org/10.1038/s41388-020-1341-1",
+  "pmc_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/5823247/"
+ },
+ {
+  "date": "2026-07-31",
+  "pmid": "42530605",
+  "title": "Tofogliflozin alters amino acid metabolism in gut microbiota linked to hepatic transcriptomic signatures in MASLD.",
+  "title_ja": "トホグリフロジンはMASLDにおける肝臓トランスクリプトームシグネチャーと関連する腸内細菌叢のアミノ酸代謝を変化させる",
+  "journal": "J Gastroenterol",
+  "year": "2026",
+  "authors": "Yasuda K, Iida N, Takeshita Y ほか",
+  "summary": "本研究は、MASLD（代謝機能障害関連脂肪性肝疾患）と2型糖尿病を有する患者を対象としたRCT（NCT02649465）の事前設定サブ解析であり、SGLT2阻害薬トホグリフロジンとスルホニルウレア薬グリメピリドを比較した。糞便ショットガンメタゲノミクス・肝臓RNAシーケンシング・血清プロファイリング・組織病理学的評価を統合した結果、MASLDでは腸内細菌の分類学的組成よりも代謝経路が健常対照と有意に異なり、特にフェニルアラニン分解経路の亢進が肝線維化スコアと正の相関を示した一方、フェニルアラニン合成経路は線維化重症度と逆相関した。SGLT2阻害薬およびSU薬はいずれもNAFLDアクティビティスコアを改善し腸内細菌の代謝経路を変化させたが、菌種組成への有意な変化は認められず、SGLT2阻害薬はフェニルアラニン合成経路を増加させ、これが肝線維化と逆相関していた。腸内細菌のフェニルアラニン分解はミトコンドリア関連遺伝子を中心とするNAFLD経路を含む28の肝臓経路と正の相関を示した。",
+  "key_points": [
+   "MASLDにおける腸内細菌の異常は分類学的組成よりも代謝機能（特にアミノ酸代謝）レベルで顕著であり、フェニルアラニン分解経路の亢進が肝線維化と正相関する。",
+   "SGLT2阻害薬トホグリフロジンは菌種組成を変えずにフェニルアラニン合成経路を増加させ、この変化が肝線維化と逆相関することから、腸内細菌代謝機能の調節が治療標的となりうる。",
+   "腸内細菌のフェニルアラニン分解経路はミトコンドリア関連遺伝子を介して肝臓の分子経路（NAFLD経路を含む28経路）と連動しており、腸肝軸の機能的メカニズムを示唆する。"
+  ],
+  "clinical_relevance": "SGLT2阻害薬によるMASLD治療効果の一部が腸内細菌叢のアミノ酸代謝経路の変化を介している可能性があり、消化器内科医が脂肪性肝疾患の病態理解や治療戦略を考える上で腸内細菌の「機能」に着目する重要性を示している。",
+  "study_type": "RCT",
+  "tags": [
+   "MASLD",
+   "腸内細菌叢",
+   "SGLT2阻害薬",
+   "肝線維化"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42530605/",
+  "doi_url": "https://doi.org/10.3390/nu10060761",
+  "pmc_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/6024874/"
+ },
+ {
+  "date": "2026-07-31",
+  "pmid": "42527694",
+  "title": "Real-world efficacy and safety of avatrombopag in Japanese patients with chronic liver disease and severe thrombocytopenia.",
+  "title_ja": "慢性肝疾患に伴う重症血小板減少症を有する日本人患者におけるアバトロンボパグの実臨床での有効性と安全性",
+  "journal": "J Gastroenterol",
+  "year": "2026",
+  "authors": "Otsuka Y, Morimoto N, Kakizaki S ほか",
+  "summary": "本研究は、血小板数50,000/μL未満の慢性肝疾患患者を対象に、侵襲的処置前のアバトロンボパグ（AVA）の有効性と安全性を多施設後ろ向き研究にて評価した。53例（ユニーク患者）を解析した結果、処置前の中央値血小板数はベースラインの43,000/μLから75,000/μLへと上昇し、69.8%（37例）でベースラインから20,000/μL以上の増加が認められた。92.5%（49例）が処置前に50,000/μL以上を達成し、96.2%（51例）で血小板輸血を回避できた。多変量解析では体重68kg超が血小板増加不良の唯一の有意な関連因子であり、門脈血栓症や出血イベントを含む有害事象は認められなかった。",
+  "key_points": [
+   "ベースライン血小板数による低値群（<40,000/μL）と高値群（≥40,000/μL）の間で血小板増加効果に有意差はなく、重症例にも一定の効果が期待できる。",
+   "体重68kg超が血小板増加不良（<20,000/μL）と有意に関連する唯一の因子であり、高体重患者では効果が減弱する可能性がある。",
+   "既存のトロンボポエチン受容体作動薬（TPO-RA）の投与歴による血小板増加効果の差は認められず、過去の使用歴がAVAの効果に影響しないことが示唆された。"
+  ],
+  "clinical_relevance": "肝硬変などの慢性肝疾患患者に対して内視鏡的処置や経皮的処置を行う際、アバトロンボパグが血小板輸血を回避しつつ安全に周術期管理を行うための選択肢となりうることを示す実臨床データであり、消化器内科専門研修において重要な知見である。",
+  "study_type": "コホート",
+  "tags": [
+   "慢性肝疾患",
+   "血小板減少症",
+   "アバトロンボパグ",
+   "周術期管理"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42527694/",
+  "doi_url": "https://doi.org/10.2147/CEOR.S262772",
+  "pmc_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/7500829/"
+ },
+ {
   "date": "2026-07-30",
   "pmid": "42524792",
   "title": "Improving follow-up of abnormal stool test results used for colorectal cancer screening.",

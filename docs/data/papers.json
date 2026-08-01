@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-08-02",
+  "pmid": "42538463",
+  "title": "Metabolite 4-hydroxybenzoic acid, modulated by cigarette smoke exposure, functions as a protective factor in dextran sodium sulfate-induced colitis.",
+  "title_ja": "タバコ煙曝露によって調節される代謝産物4-ヒドロキシ安息香酸は、デキストラン硫酸ナトリウム誘発大腸炎において保護的因子として機能する",
+  "journal": "J Gastroenterol",
+  "year": "2026",
+  "authors": "Kitabatake M, Nishioka T, Hara A ほか",
+  "summary": "本研究は、喫煙（CS）が潰瘍性大腸炎（UC）と炎症性腸疾患に異なる影響を及ぼすメカニズムを解明するため、DSS誘発およびTNBS誘発大腸炎マウスモデルを用いて検討した。CS曝露はDSS誘発大腸炎において制御性T細胞（Treg）と短鎖脂肪酸産生の増加を介して病態を緩和した一方、TNBS誘発大腸炎ではエフェクターT細胞およびEnterobacteriaceaeの増加を伴い病態を悪化させた。DSS大腸炎モデルにおいてCS曝露により著明に増加した腸内代謝産物4-ヒドロキシ安息香酸（4-HBA）を投与すると、Tregの誘導とエフェクターT細胞の抑制を伴う大腸炎症の抑制が認められたが、TNBSモデルには明らかな保護効果を示さなかった。以上より、CSは腸内細菌叢・腸内代謝産物・免疫応答の変化を介して大腸炎症を調節し、4-HBAがUCの新規治療標的となりうることが示された。",
+  "key_points": [
+   "喫煙はDSS誘発大腸炎（UCモデル）では保護的に作用し、TNBS誘発大腸炎（CDモデル）では病態を悪化させるという相反する効果を示した。",
+   "CS曝露により増加する腸内代謝産物4-HBAは、Tregの誘導とエフェクターT細胞の抑制を通じてDSS誘発大腸炎を緩和し、UCの新たな治療標的候補として同定された。",
+   "CSによる大腸炎への影響は腸内細菌叢組成の変化（Enterobacteriaceaeの増減）と短鎖脂肪酸産生の変動を伴っており、マイクロバイオームを介した免疫調節が重要な役割を担う。"
+  ],
+  "clinical_relevance": "喫煙がUCとCDで逆方向の影響を与える生物学的基盤が示され、腸内代謝産物4-HBAという新規治療標的の可能性が提示されたことは、IBD診療における新薬開発や病態理解の深化につながる重要な知見である。",
+  "study_type": "その他",
+  "tags": [
+   "IBD",
+   "潰瘍性大腸炎",
+   "腸内細菌叢",
+   "代謝産物"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42538463/",
+  "doi_url": "https://doi.org/10.1371/journal.pone.0062208",
+  "pmc_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/3636205/"
+ },
+ {
+  "date": "2026-08-02",
+  "pmid": "42538152",
+  "title": "Enhanced acetate uptake and metabolism in endothelial cells promote tumour angiogenesis and immunosuppression by increasing histone acetylation.",
+  "title_ja": "腫瘍血管内皮細胞における酢酸取り込みと代謝の亢進がヒストンアセチル化を介して腫瘍血管新生と免疫抑制を促進する",
+  "journal": "Gut",
+  "year": "2026",
+  "authors": "Chen JY, Ji YC, Wu CH ほか",
+  "summary": "本研究は、肝細胞癌（HCC）における腫瘍血管内皮細胞（TEC）での酢酸－アセチル化軸の役割を、臨床検体・初代培養内皮細胞・マウス肝癌同所移植モデルを用いて系統的に解析した。非腫瘍部内皮細胞（NEC）と比較してTECでは酢酸トランスポーター（MCT1）・代謝酵素ACSS2・H3K27acが高発現しており、腫瘍内および周囲実質での酢酸蓄積が腫瘍血管新生と正相関していた。マウスモデルでは、酢酸投与によりTECのH3K27acが上昇し、血管新生・腫瘍増殖・転移が促進される一方、CD8+ T細胞が減少し制御性T細胞（Treg）が拡大した。ACSS2の薬理学的阻害やEC標的型siRNAリポソーム・AAVベクターによるACSS2ノックダウンはいずれも血管新生と免疫抑制を抑制し、さらに抗PD-1療法との相乗効果によって腫瘍進展を有意に抑制した。",
+  "key_points": [
+   "HCCの腫瘍血管内皮細胞ではMCT1・ACSS2・H3K27acが非腫瘍部内皮細胞に比べて高発現しており、酢酸を介したエピジェネティックリモデリングが血管新生と免疫抑制の転写プログラムを駆動する。",
+   "ACSS2の阻害（薬剤・siRNAリポソーム・AAVのいずれの方法でも）はCD8+ T細胞の増加とTregの減少をもたらし、抗PD-1免疫療法との併用で相乗的な抗腫瘍効果を示す。",
+   "腫瘍微小環境における酢酸蓄積とMCT1/ACSS2軸が新たな治療標的となり得る代謝－エピジェネティック経路を形成している。"
+  ],
+  "clinical_relevance": "免疫療法（抗PD-1）への反応が限られているHCC患者に対して、ACSS2を標的とした代謝－エピジェネティック軸への介入が免疫療法の感受性を高める新戦略となる可能性があり、消化器腫瘍内科における次世代HCC治療開発の基礎的根拠として重要である。",
+  "study_type": "その他",
+  "tags": [
+   "肝細胞癌",
+   "腫瘍血管新生",
+   "エピジェネティクス",
+   "免疫療法"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42538152/",
+  "doi_url": "https://doi.org/10.1136/gutjnl-2026-338754",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-08-02",
+  "pmid": "42532244",
+  "title": "Epidemiological, Clinical, and Psychological Characteristics of Individuals with Self-reported Irritable Bowel Syndrome Based on the Rome V versus Rome IV Criteria.",
+  "title_ja": "Rome VとRome IV診断基準に基づく自己申告過敏性腸症候群の疫学的・臨床的・心理的特徴の比較",
+  "journal": "Clin Gastroenterol Hepatol",
+  "year": "2026",
+  "authors": "Staller K, Goodory VC, Ng CE ほか",
+  "summary": "本研究は、英国の成人における自己申告IBSを対象に、Rome III・IV・V各診断基準の充足割合および患者特性を比較した横断・縦断調査である。完全データが得られた1,275名のうち、Rome III基準を満たしたのは995名（78.0%）、Rome IV基準は752名（59.0%）、Rome V基準は893名（70.0%）であった。Rome VとRome IVの一致度はKappa係数0.40と中等度にとどまり、Rome V基準を満たす患者はRome IV基準充足者と比較して症状重症度・心理的併存症が有意に低く、就労・社会活動への影響も少なく、QOLスコアが高かった。また、縦断的フォローアップにおいてRome V IBSはRome IV IBSより診断の安定性が低いことが示された。",
+  "key_points": [
+   "Rome V基準はRome IV基準と比べIBSと診断される患者の割合が増加するが（59.0% → 70.0%）、これは主に毎日持続する腹痛を有する患者の除外によるものであり、より臨床的に軽症な集団が含まれる。",
+   "Rome VとRome IVの診断一致度はKappa=0.40と中等度であり、用いる診断基準によって研究対象集団や臨床患者層が大きく異なる可能性がある。",
+   "Rome V診断は経時的な安定性がRome IVより低く、縦断研究や長期臨床評価においてその適用に注意が必要である。"
+  ],
+  "clinical_relevance": "消化器内科医はIBS患者の診断や研究参加基準の設定においてどのRome基準を用いるかを意識する必要があり、Rome V基準の導入が臨床試験の患者選択や治療評価に影響を与える可能性がある。また、Rome V基準では従来より軽症患者が含まれるため、重症度に応じた治療戦略の再考が求められる。",
+  "study_type": "その他",
+  "tags": [
+   "過敏性腸症候群",
+   "Rome診断基準",
+   "機能性消化管疾患",
+   "QOL"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42532244/",
+  "doi_url": "https://doi.org/10.1016/j.cgh.2026.07.022",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-08-01",
   "pmid": "42536024",
   "title": "Development and Validation of a Symptom-Based Patient-Reported Outcome Measure for MASH: The CLDQ-MASH Symptom Questionnaire (CLDQ-MASH-SQ).",

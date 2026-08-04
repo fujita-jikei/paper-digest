@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-08-05",
+  "pmid": "42549810",
+  "title": "Validation of Liver Cirrhosis Network Criteria for Compensated Cirrhosis Through Natural Language Processing for Predicting Liver-Related Events.",
+  "title_ja": "自然言語処理を用いた代償性肝硬変に対するLiver Cirrhosis Network基準の検証：肝関連イベント予測における有用性",
+  "journal": "Am J Gastroenterol",
+  "year": "2026",
+  "authors": "Silvey S, Patel N, O'Leary JG ほか",
+  "summary": "本研究は、Liver Cirrhosis Network（LCN）が策定した肝硬変の実用的臨床コンセンサス定義を、2つの大規模VA（退役軍人省）施設において自然言語処理（NLP）を用いて検証したコホート研究である。ICD코드により肝硬変と同定された5,465例のうち、LCN定義を満たしたのは42.7%であった。多変量解析において、LCN定義を満たす患者は満たさない患者と比較して、新規腹水・自発性細菌性腹膜炎・肝性脳症・肝細胞癌・静脈瘤出血を含む肝関連イベント（LRE）の発生リスクが44%高かった。さらに、LCN基準の構成要素が1つ増えるごとにLREリスクが43%増加し、特にFIB-4および血小板数が主要な寄与因子であった。",
+  "key_points": [
+   "ICD코드で肝硬変と診断された患者のうち、LCN定義を実際に満たすのは42.7%にとどまり、ICD코드のみによる肝硬変同定には限界がある。",
+   "LCN定義を満たすことは、多変量調整後も肝関連イベントリスクを44%有意に増加させ、その予測妥当性が示された。",
+   "LCN基準の中でもFIB-4と血小板数がLRE予測への寄与が大きく、非侵襲的マーカーの重要性が裏付けられた。"
+  ],
+  "clinical_relevance": "消化器内科医にとって、ICD코드に頼るだけでなくLCN基準を用いて肝硬変を正確に定義することが、LRE発症リスクの高い患者を適切に層別化するうえで重要である。FIB-4や血小板数などの非侵襲的指標を日常診療に積極的に取り入れることが推奨される。",
+  "study_type": "コホート",
+  "tags": [
+   "肝硬変",
+   "肝関連イベント",
+   "自然言語処理",
+   "非侵襲的マーカー"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42549810/",
+  "doi_url": "https://doi.org/10.14309/ajg.0000000000004179",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-08-05",
+  "pmid": "42549805",
+  "title": "Thirty-day Mortality Among Jehovah's Witness Patients with Gastrointestinal Bleeding Who Decline Blood Transfusion: A Retrospective Cohort Study.",
+  "title_ja": "輸血を拒否するエホバの証人患者における消化管出血後30日死亡率：後ろ向きコホート研究",
+  "journal": "Am J Gastroenterol",
+  "year": "2026",
+  "authors": "Abujaber B, Al-Dwairy A, Azar L ほか",
+  "summary": "本研究は、2014年10月〜2024年10月にMedStarヘルスネットワーク9施設で実施された多施設後ろ向き傾向スコアマッチコホート研究であり、同種輸血を拒否したエホバの証人（JW）患者131例と非JWマッチ対照131例を比較した。主要アウトカムである30日全死因死亡率はJW群と対照群で有意差を認めなかった（OR 0.68、95% CI 0.30–1.47、p=0.327）。JW患者では中間ケアユニット入室のオッズが有意に高く（OR 3.41、95% CI 1.46–8.95）、輸血なし医療コンサルテーションや補助的貧血治療を受ける頻度が多かったが、ICU入室・昇圧薬使用・在院日数・30日再入院率には有意差がなかった。両群の最低ヘモグロビン中央値は同値（6.6 g/dL）であったが、JW患者はより低いヘモグロビン値で退院していた。",
+  "key_points": [
+   "同種輸血を拒否しても、急性消化管出血入院患者における30日死亡率は輸血を受けた対照群と有意差がなかった（OR 0.68）。",
+   "JW患者は中間ケアユニット入室頻度が有意に高く、より厳密なモニタリングと積極的な無輸血管理が必要とされた。",
+   "JW患者では輸血なし医療コンサルテーションや補助的貧血治療（鉄剤・造血薬など）が多く活用され、アウトカムの維持に貢献した可能性がある。"
+  ],
+  "clinical_relevance": "輸血拒否患者への対応は消化器内科医が直面しうる倫理的・臨床的課題であり、適切な無輸血管理戦略と多職種連携により短期アウトカムを担保できる可能性が示された。日常診療において輸血代替療法への知識と無輸血医療チームとの連携体制を整えておくことが重要である。",
+  "study_type": "コホート",
+  "tags": [
+   "消化管出血",
+   "輸血拒否",
+   "無輸血医療",
+   "エホバの証人"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42549805/",
+  "doi_url": "https://doi.org/10.14309/ajg.0000000000004180",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-08-05",
+  "pmid": "42546782",
+  "title": "Effect of a single dose antibiotic prophylaxis in scheduled bile duct interventions in Primary Sclerosing Cholangitis.",
+  "title_ja": "原発性硬化性胆管炎に対する予定胆管インターベンションにおける単回抗菌薬予防投与の効果",
+  "journal": "Gastrointest Endosc",
+  "year": "2026",
+  "authors": "Seeßle J, Ruhberg L, Kirchner M ほか",
+  "summary": "本研究は、原発性硬化性胆管炎（PSC）患者に対する予定ERCP施行時の抗菌薬予防投与期間について、単回投与（SOPコホート、n=80手技）と多日間投与（歴史的コホート、n=100手技）を比較したレジストリベースの非介入コホート研究である。抗菌薬投与期間の中央値はSOPコホートで0.33日、歴史的コホートで3.50日と有意に異なったが（p<0.001）、ERCP後胆管炎の発生率は両コホート間で有意差を認めなかった。一方で、胆管炎重症度をGrade IとGrade II+IIIに二分した場合、SOPコホートでは中等度〜重症例の割合が有意に高かった（45.5% vs. 9.1%、p<0.001）。単回予防投与はERCP後胆管炎の発生率を増加させないものの、胆管炎重症度が上昇する可能性があり、多日間投与と同等の有効性を示す可能性が示唆された。",
+  "key_points": [
+   "PSC患者への予定ERCP時における抗菌薬単回予防投与は、多日間投与と比較してERCP後胆管炎の発生率を有意に増加させなかった。",
+   "単変量解析において、主要優位狭窄（TDS）の存在（OR 3.360、p=0.034）およびERCP時の拡張術施行（OR 3.356、p=0.033）がERCP後胆管炎の有意なリスク因子として同定された。",
+   "単回投与群では多日間投与群と比較して中等度〜重症胆管炎の割合が有意に高く（45.5% vs. 9.1%）、重症化予防の観点からさらなる検討が必要である。"
+  ],
+  "clinical_relevance": "PSC患者に対するERCP時の抗菌薬予防投与戦略は国際ガイドライン間で大きく異なるが、本研究は単回投与の有効性を示す根拠となり、抗菌薬適正使用の観点から日常臨床における投与期間の見直しに寄与する可能性がある。",
+  "study_type": "コホート",
+  "tags": [
+   "原発性硬化性胆管炎",
+   "ERCP",
+   "抗菌薬予防投与",
+   "胆管炎"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42546782/",
+  "doi_url": "https://doi.org/10.1016/j.gie.2026.07.039",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-08-04",
   "pmid": "42545685",
   "title": "Addition of High-Dose Vitamin D3 to Standard Treatment in Patients With Metastatic Colorectal Cancer: The SOLARIS Randomized Clinical Trial (Alliance A021703).",

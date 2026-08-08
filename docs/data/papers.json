@@ -1,5 +1,31 @@
 [
  {
+  "date": "2026-08-09",
+  "pmid": "42567461",
+  "title": "Use of Artificial Intelligence for Duodenal Biopsy for Celiac Disease: Developing a Prediction Model for Histopathology Diagnosis.",
+  "title_ja": "セリアック病の十二指腸生検における人工知能の活用：組織病理学診断のための予測モデル開発",
+  "journal": "Clin Gastroenterol Hepatol",
+  "year": "2026",
+  "authors": "Jansson-Knodell CL, Savage E, Poissant K ほか",
+  "summary": "本研究は、深層学習を用いた画像解析がセリアック病の十二指腸生検診断に活用できるかを検討したものである。2008〜2021年に十二指腸生検とtTG-IgA抗体測定を受けた18歳以上の患者2,100例超から得られた2,406枚のホールスライド画像を使用し、クラスタリング制約付きアテンション多重インスタンス学習アルゴリズムを適用した。全カテゴリの平均AUCは0.872・精度74%であったが、セリアック病と正常組織の鑑別においては平均AUC 0.992・精度97%と極めて高い性能を示した。本モデルはセリアック病・正常・上皮内リンパ球増加のみ・tTG-IgA陽性を伴う上皮内リンパ球増加・血清陰性絨毛萎縮の5分類への層別化が可能であり、さらなる最適化によって診断精度向上や病理医の業務負担軽減への貢献が期待される。",
+  "key_points": [
+   "AIモデルはセリアック病と正常組織の鑑別において平均AUC 0.992・精度97%と非常に高い識別能を示した。",
+   "セリアック病と血清陰性絨毛萎縮の鑑別は平均AUC 0.810・精度76%と比較的困難であり、臨床的に課題が残る。",
+   "2,100例超の大規模データセットを用いた5分類モデルは、病理医不足や観察者間信頼性の問題に対する有望な解決策となり得る。"
+  ],
+  "clinical_relevance": "セリアック病の診断に不可欠な十二指腸生検の病理評価において、AIを補助ツールとして活用することで診断精度の均質化や病理医の負担軽減が期待され、消化器内科医として生検適応や結果解釈の際にAI支援診断の動向を把握しておくことが重要となる。",
+  "study_type": "コホート",
+  "tags": [
+   "セリアック病",
+   "人工知能・AI",
+   "十二指腸生検",
+   "病理診断"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42567461/",
+  "doi_url": "https://doi.org/10.1016/j.cgh.2026.07.021",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-08-08",
   "pmid": "42562419",
   "title": "Circulating extracellular vesicles carrying PD-1, PD-L1 and CTLA-4 inform resistance to anti-PD-L1-based therapy in HCC.",

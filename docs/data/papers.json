@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-08-11",
+  "pmid": "42574031",
+  "title": "Liquid Biopsies for Cancer: A Translational Science Review.",
+  "title_ja": "がんにおける液体生検：トランスレーショナルサイエンスレビュー",
+  "journal": "JAMA",
+  "year": "2026",
+  "authors": "Mezzanotte-Sharpe J, Piemonte K, Park BH",
+  "summary": "本論文は、血中循環腫瘍DNA（ctDNA）の臨床応用についてのレビューである。ctDNAは非小細胞肺癌・大腸癌・乳癌などにおいて分子標的治療薬の選択に有用であり、尿路上皮癌1725例のメタ解析では高ctDNA値が無病生存率の著明な低下と関連していた（ハザード比20.69、95%CI 9.63–44.43）。大腸癌130例の前向きコホート研究では、ctDNAによる分子再発の検出が標準的画像監視より約8.7か月早期であった（5.5か月 vs 14.2か月、P<0.001）。一方で、ctDNA検査の最適なタイミング、画像所見のない陽性結果への対応、および費用対効果については依然として不明な点が残されている。",
+  "key_points": [
+   "ctDNAの上昇は治療抵抗性や再発の早期指標となり、画像診断より先行して治療変更の判断に活用できる可能性がある。",
+   "根治的治療後のctDNA検出は癌再発および不良な生存予後と強く相関しており、微小残存病変（MRD）の検出ツールとして期待される。",
+   "ctDNA陰性の患者では化学療法の継続を回避できる可能性があり、不要な有害事象を防ぐ戦略につながり得る。"
+  ],
+  "clinical_relevance": "大腸癌をはじめとする消化器癌の術後フォローアップや治療効果判定においてctDNA測定の導入が今後進む可能性があり、消化器内科医としてその適応・限界・エビデンスを理解しておくことが重要である。",
+  "study_type": "総説",
+  "tags": [
+   "液体生検",
+   "大腸癌",
+   "ctDNA",
+   "微小残存病変"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42574031/",
+  "doi_url": "https://doi.org/10.1001/jama.2026.13898",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-08-11",
+  "pmid": "42573624",
+  "title": "rs57494551 increases CXCR5 expression and IgM+ CXCR5+ B-cell infiltration in the portal area of primary biliary cholangitis.",
+  "title_ja": "rs57494551はCXCR5の発現を増加させ、原発性胆汁性胆管炎の門脈域におけるIgM+ CXCR5+ B細胞の浸潤を促進する",
+  "journal": "J Gastroenterol",
+  "year": "2026",
+  "authors": "Hitomi Y, Aiba Y, Ueno K ほか",
+  "summary": "本研究は、原発性胆汁性胆管炎（PBC）の疾患感受性に関与するCXCR5遺伝子座の分子メカニズムを解明することを目的とした。GWASのpost-GWAS解析（マルチオミクス解析、機械学習による転写因子予測、プライムエディターによるゲノム編集）を駆使した結果、CXCR5周辺の多数の遺伝子変異の中からrs57494551がPBCの疾患原因変異として同定された。このリスクアレルは転写抑制因子TEAD3の結合を解除することでB細胞におけるCXCR5の内因性発現を増加させ、CXCR5の発現は疾患活動性や門脈炎症マーカー（血清IgM、AST、M2BPGi）と相関していた。さらに免疫組織化学解析により、高疾患活動性PBCの門脈域でIgM+ CXCR5+ B細胞数が増加していることが示され、CXCR5がPBCの潜在的な治療標的となりうることが示唆された。",
+  "key_points": [
+   "rs57494551は転写抑制因子TEAD3の結合を阻害することでB細胞のCXCR5発現を増加させる疾患原因変異として特定された。",
+   "CXCR5の発現は疾患活動性および門脈炎症マーカー（血清IgM・AST・M2BPGi）と相関し、高疾患活動性PBCの門脈域でIgM+ CXCR5+ B細胞の浸潤増加が確認された。",
+   "rs57494551の影響は関節リウマチ・SLE・炎症性腸疾患・多発性硬化症・強皮症・セリアック病・シェーグレン症候群など多様な自己免疫疾患の感受性とも関連する可能性がある。"
+  ],
+  "clinical_relevance": "PBCの病態における遺伝的背景と免疫異常（特にB細胞を介した門脈炎症）の関連が明確化されたことで、CXCR5を標的とした新規治療戦略の開発につながる可能性があり、難治性PBC患者の診療において将来的な治療選択肢として注目される。",
+  "study_type": "その他",
+  "tags": [
+   "原発性胆汁性胆管炎",
+   "GWAS・遺伝子解析",
+   "自己免疫性肝疾患",
+   "B細胞免疫"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42573624/",
+  "doi_url": "https://doi.org/10.1016/j.acthis.2015.09.001",
+  "pmc_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/4329654/"
+ },
+ {
+  "date": "2026-08-11",
+  "pmid": "42572882",
+  "title": "Advanced cannulation techniques vs early EUS-BD in case of difficult biliary cannulation in patients with DMBO: an international propensity score-matched analysis.",
+  "title_ja": "遠位悪性胆道閉塞における困難胆管カニュレーション時の高度カニュレーション手技vs早期EUS下胆道ドレナージ：国際的傾向スコアマッチング解析",
+  "journal": "Am J Gastroenterol",
+  "year": "2026",
+  "authors": "Spadaccini M, Albouys J, Binda C ほか",
+  "summary": "本研究は、遠位悪性胆道閉塞（DMBO）かつ総胆管径12mm超の患者において、ERCP困難カニュレーション例に対する高度カニュレーション手技（aERCP）と早期EUS下胆道ドレナージ（eEUS-BD）の安全性・有効性を比較した国際多施設後ろ向き研究である（米国・カナダ・欧州29施設）。全10,738件のERCPのうち19.2%で標準カニュレーションが失敗し、傾向スコアマッチング後にaERCP 626例・eEUS-BD 313例が解析対象となった。有害事象の発生率はaERCP群18.2%に対しeEUS-BD群9.3%と有意に低く（p<0.01）、aERCP後の膵炎が最多（55例、12.0%）であり、技術的成功率もeEUS-BDが有意に高かった（95.9% vs 82.0%、p<0.01）。一方、臨床的成功率は両群で同等であった（96.4% vs 94.5%、p=0.89）。",
+  "key_points": [
+   "困難カニュレーション例において、eEUS-BDはaERCPと比較して有害事象発生率が有意に低く（9.3% vs 18.2%）、aERCP後の最多合併症はERCP後膵炎（12.0%）であった。",
+   "技術的成功率はeEUS-BDがaERCPを有意に上回ったが（95.9% vs 82.0%）、最終的な臨床的成功率は両群で差がなかった（96.4% vs 94.5%）。",
+   "傾向スコアマッチングに加え回帰モデルおよびIPTWによる感度分析でも結果の頑健性が確認されており、eEUS-BDの優位性は全コホートでも一貫していた。"
+  ],
+  "clinical_relevance": "遠位悪性胆道閉塞に対するERCPで標準カニュレーションが失敗した際、高度手技に固執するよりも早期にEUS-BDへ移行する戦略が、安全性・技術的成功率の観点から有利である可能性を示しており、ERCP困難例のマネジメント方針を再考する上で重要なエビデンスとなる。",
+  "study_type": "コホート",
+  "tags": [
+   "胆道ドレナージ",
+   "EUS-BD",
+   "ERCP",
+   "悪性胆道閉塞"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42572882/",
+  "doi_url": "https://doi.org/10.14309/ajg.0000000000004182",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-08-09",
   "pmid": "42567461",
   "title": "Use of Artificial Intelligence for Duodenal Biopsy for Celiac Disease: Developing a Prediction Model for Histopathology Diagnosis.",

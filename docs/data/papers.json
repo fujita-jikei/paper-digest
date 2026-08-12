@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-08-13",
+  "pmid": "42580871",
+  "title": "Neutralising autoantibodies against IL-10 and HLA-DRB1*01:03 in paediatric patients with inflammatory bowel disease.",
+  "title_ja": "小児炎症性腸疾患患者におけるIL-10中和自己抗体とHLA-DRB1*01:03",
+  "journal": "Gut",
+  "year": "2026",
+  "authors": "Gharahdaghi N, Yeh PJ, Vadakethala K ほか",
+  "summary": "本研究は、4カ国の小児IBDコホートを対象とした多施設横断研究で、IL-10に対する中和自己抗体（anti-IL-10）の有病率と関連する臨床表現型を評価した。1,045例の小児IBD患者（IBD発症平均年齢11.2±3.8歳）のうち、26例（2.5%）がanti-IL-10陽性であり、その内訳はクローン病6例、潰瘍性大腸炎19例、IBD未分類1例であった。Anti-IL-10陽性患者は対照群と比較して、難治性疾患（23% vs 6%, p=0.03）、急性重症潰瘍性大腸炎（26% vs 6%, p=0.038）、大腸切除率（27% vs 6%, p=0.01）がいずれも有意に高く、より重篤な疾患経過を示した。さらに、HLAデータが利用可能なanti-IL-10陽性患者の80%（16/20例）がHLA-DRB1*01:03アレルを保有しており、陰性群の1.5%と比較して著明に高率であった。",
+  "key_points": [
+   "小児IBD患者の約2.5%にIL-10中和自己抗体が検出され、IgGクラスの抗体がin vitroで炎症性サイトカイン応答を増強することが確認された。",
+   "Anti-IL-10陽性患者ではHLA-DRB1*01:03アレル保有率が80%と極めて高く、遺伝的素因との強い関連が示された。",
+   "Anti-IL-10陽性患者は難治性疾患・急性重症UC・大腸切除の頻度がいずれも対照群の約4〜5倍高く、重篤な疾患表現型と関連している。"
+  ],
+  "clinical_relevance": "難治性の小児IBD患者において、IL-10中和自己抗体およびHLA-DRB1*01:03の検査が疾患層別化や治療戦略の立案に有用な可能性があり、今後のバイオマーカーとしての活用が期待される。",
+  "study_type": "コホート",
+  "tags": [
+   "IBD",
+   "小児消化器",
+   "自己抗体",
+   "潰瘍性大腸炎"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42580871/",
+  "doi_url": "https://doi.org/10.1136/gutjnl-2026-339329",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-08-13",
+  "pmid": "42580757",
+  "title": "Endoscopic submucosal dissection versus transanal endoscopic surgery in rectal neoplasms: Meta-analysis of randomized controlled trials and trial sequential analysis.",
+  "title_ja": "直腸腫瘍に対する内視鏡的粘膜下層剥離術（ESD）versus 経肛門内視鏡手術（TES）：無作為化比較試験のメタ解析とトライアル逐次解析",
+  "journal": "Endoscopy",
+  "year": "2026",
+  "authors": "Saeed A, Baidoo L, Akbar H ほか",
+  "summary": "本研究は、直腸腫瘍に対するESDとTESを比較した無作為化比較試験（RCT）のメタ解析であり、2026年3月までに登録された5つのRCT・計624例（TES 307例、ESD 317例）を対象とした。主要評価項目であるen bloc切除率（RR 1.02、95%CI 0.95–1.10）、R0切除率（RR 1.00、95%CI 0.90–1.10）、再発率、出血・穿孔の発生率、入院期間のいずれにおいても両群間に統計的有意差は認められなかった。一方、手術時間はTESがESDに比べて有意に短く（平均差 −21.93分、95%CI −28.22〜−15.64、P<0.00001）、この点のみで差が示された。トライアル逐次解析では出血・穿孔・再発に関するエビデンスは依然として不確定であり、全体的なエビデンスの確実性は「非常に低い」と評価された。",
+  "key_points": [
+   "ESDとTESは、直腸腫瘍における短期腫瘍学的アウトカム（en bloc切除率・R0切除率・再発率・合併症）において統計的な有意差を認めなかった。",
+   "手術時間はTESがESDより平均約22分短く、唯一統計的有意差が示された項目であった（P<0.00001）。",
+   "本メタ解析はRCT 5件・624例に限られており、エビデンスの確実性は「非常に低い」と評価されているため、両治療法の優劣を断定するには更なる大規模試験が必要である。"
+  ],
+  "clinical_relevance": "直腸腫瘍の治療方針選択においてESDとTESのどちらを選択すべきか判断する際の参考となるが、現時点ではエビデンスの確実性が非常に低く、各施設の技術的習熟度や患者背景を考慮した個別対応が引き続き重要である。消化器内科専攻医にとっては、両手技の適応と限界を理解する上で有用な知見となる。",
+  "study_type": "メタ解析",
+  "tags": [
+   "内視鏡",
+   "ESD",
+   "直腸腫瘍",
+   "経肛門内視鏡手術"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42580757/",
+  "doi_url": "https://doi.org/10.1055/a-2936-0686",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-08-13",
+  "pmid": "42580756",
+  "title": "Comparative Efficacy Of Different Computer-Aided Detection Products in Colonoscopy: A Network Meta-Analysis Of Randomized Controlled Trials.",
+  "title_ja": "大腸内視鏡検査における各種コンピュータ支援検出システムの比較有効性：ランダム化比較試験のネットワークメタ解析",
+  "journal": "Endoscopy",
+  "year": "2026",
+  "authors": "Maida M, Calabrese G, Lau LHS ほか",
+  "summary": "本研究は、大腸内視鏡検査における複数のコンピュータ支援検出（CADe）システムの有効性を比較するため、MEDLINE・Embase・Scopus・Cochrane Libraryを系統的に検索し、41件のRCT（患者数31,789例、14種類のCADeシステム）を対象としたネットワークメタ解析を実施した。主要評価項目である腺腫検出率（ADR）については、14システム中10システムで有意な改善が認められ（相対リスク範囲1.12〜1.76）、腺腫見逃し率（AMR）の有意な低下は3システムのみで確認された。FDA承認済みの6システムでは、3システムがADRを有意に改善した（RR範囲1.14〜1.25）一方、残り3システムは有意差を示さなかった。以上より、CADe支援大腸内視鏡の有効性はシステム間で均一ではなく、製品ごとの個別評価が必要であると結論づけられた。",
+  "key_points": [
+   "CADeシステムの有効性はクラス全体として一律ではなく、製品ごとに大きく異なるため、クラスベースではなくシステム固有の評価が推奨される。",
+   "FDA承認済みの6システムのうちADRを有意に改善したのは3システムにとどまり（RR 1.14〜1.25）、承認の有無が必ずしも臨床的有効性を保証しないことが示された。",
+   "ベースラインADRとCADeの治療効果との間にメタ回帰で有意な関連は認められず、高いベースラインADRの施設での効果減衰は一様ではなかった。"
+  ],
+  "clinical_relevance": "消化器内科医がCADeシステムを導入・選択する際には、製品カテゴリ全体ではなく個々のシステムに関するエビデンスを参照することが重要であり、特にFDA承認の有無だけを根拠とした採用判断には注意が必要である。本研究はESGEやASGE/ACGが推奨するADR閾値（≥25%、≥35%）を満たす環境での有効性評価にも言及しており、専門研修における内視鏡の質指標理解にも役立つ。",
+  "study_type": "メタ解析",
+  "tags": [
+   "大腸内視鏡",
+   "CADe",
+   "腺腫検出率",
+   "ネットワークメタ解析"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42580756/",
+  "doi_url": "https://doi.org/10.1055/a-2936-2838",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-08-12",
   "pmid": "42575497",
   "title": "Long-term risk of metachronous gastric neoplasms after curative endoscopic submucosal dissection for early gastric cancer.",

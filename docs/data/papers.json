@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-08-14",
+  "pmid": "42586108",
+  "title": "The trajectory of inflammatory bowel disease in east and southeast Asia: transitioning from acceleration in incidence to compounding prevalence.",
+  "title_ja": "東アジア・東南アジアにおける炎症性腸疾患の軌跡：罹患率の加速から有病率の複合的増加へ",
+  "journal": "Lancet Gastroenterol Hepatol",
+  "year": "2026",
+  "authors": "Okabayashi S, Hracs L, Windsor JW ほか",
+  "summary": "本総説は、炎症性腸疾患（IBD）の疫学的進行を「出現（ステージ1）」「罹患率の加速（ステージ2）」「有病率の複合的増加（ステージ3）」「有病率の平衡（ステージ4）」の4段階で定義し、東アジア・東南アジア5地域（日本・韓国・中国・香港・マレーシア）における過去100年間の軌跡を追跡したレビューである。欧州・北米・オセアニアなど早期工業化地域の多くがステージ3に達している一方、戦後に工業化が進んだ東アジア・東南アジア地域はステージ2の早期・中期・後期にそれぞれ位置しており、1920年代の日本における初報告から現在に至るIBDの疫学的変遷が詳細に記述されている。各地域はステージ1と2の境界にある国から、非早期工業化地域として初めてステージ3に移行しようとしている国まで多様であることが示された。東アジア・東南アジアの経験は、今後同様の軌跡をたどることが予測される他の新興・工業化途上地域にとって有用なモデルとなり得ると結論づけられている。",
+  "key_points": [
+   "IBDの疫学は4段階で進行し、東アジア・東南アジア地域の多くは現在「罹患率の加速（ステージ2）」の各フェーズにあり、一部の地域は非早期工業化国として初めてステージ3への移行が見込まれる。",
+   "日本・韓国・中国・香港・マレーシアの5地域は、1920年代の日本における初症例報告からそれぞれ異なる進行段階にあり、地域ごとの疫学的進化が明らかにされている。",
+   "地域横断的な疫学トレンドの把握は、世界的なIBD負担増大に対する介入策を立案するうえで不可欠である。"
+  ],
+  "clinical_relevance": "日本を含む東アジア地域でIBD患者数が今後も増加し続けることが示唆されており、消化器内科医としてIBDの早期診断・管理体制の整備や、国際的な疫学トレンドへの理解を深めることが求められる。",
+  "study_type": "総説",
+  "tags": [
+   "IBD",
+   "炎症性腸疾患",
+   "疫学",
+   "アジア"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42586108/",
+  "doi_url": "https://doi.org/10.1016/S2468-1253(26)00162-7",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-08-14",
+  "pmid": "42580755",
+  "title": "Cost-effectiveness and environmental impact of artificial intelligence-assisted colonoscopy with the resect-and-discard strategy: a microsimulation study.",
+  "title_ja": "AI支援大腸内視鏡検査と切除・廃棄戦略の費用対効果および環境負荷：マイクロシミュレーション研究",
+  "journal": "Endoscopy",
+  "year": "2026",
+  "authors": "Hernandez LV, Wallace MB, von Renteln D ほか",
+  "summary": "本研究は、45歳以上の600万人を対象としたマルコフモデルを用いたマイクロシミュレーションにより、大腸癌スクリーニング内視鏡における4つの戦略（標準治療[SoC]、非AI切除・廃棄[RD]、CADe支援RD、CADe+CADx支援RD）の臨床・経済・環境アウトカムを比較した。主要評価項目であるQALYsは全戦略間で差異が小さく（<0.01%）、非AI RDが最高のQALYs（5,137万）、最低コスト（366億ドル）、最低CO₂排出量（90万kg）を達成した。AI支援戦略（CADe-RD：369億ドル、CADe+CADx-RD：374億ドル）はいずれもSoC（378億ドル）より費用節約的であったが、非AI RDより高コストであり、現状のCADx性能ではCADe+CADx-RDはCADe-RDより低いQALYsと高コストをもたらした。結論として、非AI RD戦略が臨床的便益・費用節約・環境負荷の観点で最適なバランスを提供することが示された。",
+  "key_points": [
+   "非AI切除・廃棄戦略は、AI支援戦略と比較して最高のQALYs・最低コスト・最低CO₂排出量を達成し、5mm以下の微小ポリープ管理において最も優れたバランスを示した。",
+   "CADe+CADx支援RDは現在報告されているCADxの性能水準では、CADe-RDと比較してQALYsが低く費用も高く、非劣性を達成できる診断性能の範囲は限定的であった。",
+   "すべてのRD戦略はSoCよりも費用節約的であったが、AI技術の追加はコストと環境負荷を増大させ、必ずしも臨床的便益の向上につながらなかった。"
+  ],
+  "clinical_relevance": "大腸内視鏡スクリーニングにおけるAI支援技術の導入を検討する消化器内科医にとって、現時点のCADx性能では非AI切除・廃棄戦略が費用・QALYs・環境負荷のすべてで優れており、AI技術への過剰な期待を再考する根拠となる。今後のCADx精度向上が普及の鍵となることを念頭に置いた臨床判断が求められる。",
+  "study_type": "その他",
+  "tags": [
+   "大腸内視鏡",
+   "AI支援内視鏡",
+   "大腸癌スクリーニング",
+   "費用対効果"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42580755/",
+  "doi_url": "https://doi.org/10.1055/a-2936-0598",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-08-14",
+  "pmid": "42580638",
+  "title": "EUS-guided biopsy using 19-gauge Franseen needle versus percutaneous ultrasound-guided biopsy using 18-gauge full-core cutting needle for parenchymal liver disease: A randomized controlled, non-inferiority trial.",
+  "title_ja": "実質性肝疾患に対するEUS下生検（19G Franseen針）と経皮的超音波下生検（18G フルコア切除針）の比較：無作為化対照非劣性試験",
+  "journal": "Gastrointest Endosc",
+  "year": "2026",
+  "authors": "Johri I, Bhatia V, Mukund A ほか",
+  "summary": "本研究は、実質性肝疾患を対象に、EUS下肝生検（EUS-LB、19G Franseen針）と経皮的超音波下肝生検（PC-LB、18G BioPince針）を1:1に無作為割付した単施設並行群間非劣性試験である。主要エンドポイントは検体充足性（総検体長≥15mm かつ完全門脈域≥8）とし、EUS-LB群では44/45例（97.8%）、PC-LB群では29/45例（64.4%）が達成され、リスク差+33.3%（95%CI: +17.9%〜+48.1%）と非劣性および優越性が示された（p<0.001）。中央値での総検体長（6.9cm vs 2.0cm）および完全門脈域数（42 vs 9）はいずれもEUS-LB群で有意に優れており、EUS-LBの1パスのみでもPC-LBを上回った。一方、有害事象の発生率はEUS-LB群で有意に高く（26.7% vs 4.4%、p=0.007）、ほぼすべてが軽微なものであった。",
+  "key_points": [
+   "EUS-LBはPC-LBに対して検体充足性（総検体長・完全門脈域数）において非劣性かつ優越性を示し、1パスのみでもPC-LBを上回る組織採取量を得られた。",
+   "有害事象はEUS-LB群で有意に多かったが（26.7% vs 4.4%）、1例を除きすべて軽微であり、両群とも術後疼痛は軽度で患者満足度は高かった。",
+   "PC-LBの検体は断片化が少なく（中央値1 vs 13）、幅がやや大きい（747.8μm vs 667.2μm）という特徴があり、検体の質的側面では一部PC-LBが優れていた。"
+  ],
+  "clinical_relevance": "肝生検が必要な実質性肝疾患において、EUS-LBは組織採取量の観点からPC-LBに対して優れた選択肢となり得るが、有害事象リスクも踏まえた適応の検討が消化器内科専門研修において重要となる。",
+  "study_type": "RCT",
+  "tags": [
+   "肝生検",
+   "EUS",
+   "経皮的生検",
+   "実質性肝疾患"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42580638/",
+  "doi_url": "https://doi.org/10.1016/j.gie.2026.07.046",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-08-13",
   "pmid": "42580871",
   "title": "Neutralising autoantibodies against IL-10 and HLA-DRB1*01:03 in paediatric patients with inflammatory bowel disease.",

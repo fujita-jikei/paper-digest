@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-08-16",
+  "pmid": "42600900",
+  "title": "Fiber supplementation in irritable bowel syndrome: a systematic review and meta-analysis of randomized controlled trials.",
+  "title_ja": "過敏性腸症候群に対する食物繊維補充療法：無作為化比較試験の系統的レビューとメタ解析",
+  "journal": "Gastroenterology",
+  "year": "2026",
+  "authors": "Staudacher HM, Rucco V, Mancell S ほか",
+  "summary": "本研究は、過敏性腸症候群（IBS）に対する食物繊維補充療法の有効性を検討するため、2026年4月までに登録された30件のRCT（計1904例）を対象に系統的レビューおよびメタ解析を実施した。臨床的反応を報告した16件のRCT（n=1293）では、食物繊維群の奏効率52%に対しプラセボ群44%と有意差を認め（RR 1.21 [95% CI 1.03–1.41]、P=0.02）、特にサイリウムで顕著な効果が示された（RR 1.53 [95% CI 1.06–2.19]）。一方、9件のRCT（n=497）で評価された総合消化器症状スコアでは有意な改善は認められなかった（SMD -0.25、P=0.25）が、β-ガラクトオリゴ糖（B-GOS）では症状改善効果が示された。今後のRCTではIBSサブタイプ別の解析が推奨される。",
+  "key_points": [
+   "食物繊維補充療法全体としてIBSの臨床的反応率を有意に改善し（RR 1.21）、特にサイリウムで最も強いエビデンスが得られた（RR 1.53）。",
+   "総合消化器症状スコアでは食物繊維全体の有意な改善効果は示されなかったが、β-ガラクトオリゴ糖（B-GOS）は症状改善に有益である可能性が示唆された。",
+   "IBSサブタイプ別の解析が十分に行われていないため、今後の臨床試験ではサブタイプを考慮した試験デザインが必要である。"
+  ],
+  "clinical_relevance": "IBSの診療において、食物繊維補充、特にサイリウムの使用はエビデンスに基づく選択肢として位置づけられ、消化器内科専門研修において食物繊維の種類による効果の違いを理解することが実臨床での治療選択に役立つ。",
+  "study_type": "メタ解析",
+  "tags": [
+   "IBS",
+   "食物繊維",
+   "機能性消化管疾患",
+   "サイリウム"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42600900/",
+  "doi_url": "https://doi.org/10.1053/j.gastro.2026.07.027",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-08-16",
+  "pmid": "42600899",
+  "title": "Liver regeneration CRISPR screen identifies E3 ligase NEURL1B regulates hepatocyte mitosis by destabilizing microtubule organizing centers.",
+  "title_ja": "肝再生CRISPRスクリーニングにより、E3リガーゼNEURL1Bが微小管形成中心を不安定化することで肝細胞の有糸分裂を制御することが判明",
+  "journal": "Gastroenterology",
+  "year": "2026",
+  "authors": "Yin D, Vazquez Salgado AM, Cai C ほか",
+  "summary": "本研究では、肝再生における肝細胞の増殖メカニズムを解明するため、再生中のマウス肝臓においてin vivo CRISPRiスクリーニングを実施し、肝細胞の増殖に特異的に必要な遺伝子を同定した。その結果、これまで研究がほとんどなされていなかったE3リガーゼNEURL1Bが肝細胞の細胞分裂に不可欠であることが明らかになった。NEURL1Bを阻害すると、肥大・多倍体化した肝細胞の出現、肝再増殖の障害、および肝癌への抵抗性が生じた。メカニズムとして、肝細胞は有糸分裂開始時にNUMA1によって組織化された複数の微小管形成中心（MTOC）を持ち、NEURL1BがこれらのMTOCを不安定化（NUMA1を基質として）することで余剰MTOCを不活性化し、双極紡錘体の形成を促進することが示された。",
+  "key_points": [
+   "肝細胞は過剰な中心体を持つという固有の有糸分裂上の課題を抱えており、NEURL1BはNUMA1を分解ターゲットとしてMTOCを不安定化し、双極紡錘体形成を可能にする独自のメカニズムが存在する。",
+   "NEURL1Bの阻害は肝再増殖を障害する一方で肝癌への抵抗性をもたらすことが示され、肝再生促進と肝癌治療の両面で新たな治療標的となりうる。",
+   "ヒトの単核RNA-seqおよび細胞培養データにより、このNEURL1Bの機能はヒト肝細胞においても保存されている可能性が示唆された。"
+  ],
+  "clinical_relevance": "肝切除後や劇症肝不全における肝再生促進、および肝細胞癌の新規治療標的としてNEURL1Bが注目される可能性があり、消化器内科・肝臓専門医として今後の分子標的治療開発の基礎として理解しておくべき知見である。",
+  "study_type": "その他",
+  "tags": [
+   "肝再生",
+   "肝細胞癌",
+   "CRISPR",
+   "肝細胞増殖"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42600899/",
+  "doi_url": "https://doi.org/10.1053/j.gastro.2026.07.034",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-08-16",
+  "pmid": "42599292",
+  "title": "Association of subcutaneous adiposity with survival outcomes in advanced biliary tract cancer treated with gemcitabine, cisplatin, and immune checkpoint inhibitor.",
+  "title_ja": "ゲムシタビン・シスプラチン・免疫チェックポイント阻害薬で治療された進行胆道癌における皮下脂肪量と生存アウトカムの関連",
+  "journal": "J Gastroenterol",
+  "year": "2026",
+  "authors": "Takeda T, Sasaki T, Hirai T ほか",
+  "summary": "本研究は、進行胆道癌患者においてICI併用群（n=68）と非ICI群（n=179）を対象に、BMIおよびCTベースの脂肪組織指標（TATI・VATI・SATI）とサルコペニアが生存に与える影響を後方視的に検討した。ICI群では高SATIが無増悪生存期間（HR 0.45、P=0.004）および全生存期間（HR 0.27、P=0.001）の延長と独立して関連したが、BMIやサルコペニアは有意な関連を示さなかった。一方、非ICI群では脂肪組織指標と生存アウトカムの間に有意な関連は認められなかった。これらの結果から、皮下脂肪量はICI療法を受ける進行胆道癌患者において臨床的に有用な予後因子となりうることが示唆された。",
+  "key_points": [
+   "皮下脂肪指数（SATI）の高値はICI治療を受けた進行胆道癌患者においてPFS・OSの改善と独立して関連しており、いわゆる「肥満パラドックス」がBMIではなくCT計測の皮下脂肪量で捉えられる可能性がある。",
+   "BMIやサルコペニアはICI群において有意な予後因子とならなかったため、体組成評価にはCTを用いた詳細な脂肪組織定量が有用と考えられる。",
+   "SATIと生存の関連はICI群にのみ認められ非ICI群では見られなかったことから、この関連はICI特異的な免疫学的メカニズムを介している可能性がある。"
+  ],
+  "clinical_relevance": "進行胆道癌に対するGCSC療法などICI併用レジメンを選択・評価する際に、CTで定量した皮下脂肪量が予後予測に役立つ可能性があり、体組成評価を日常診療に組み込む意義が示唆される。",
+  "study_type": "コホート",
+  "tags": [
+   "胆道癌",
+   "免疫チェックポイント阻害薬",
+   "体組成・サルコペニア",
+   "肥満パラドックス"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42599292/",
+  "doi_url": "https://doi.org/10.1016/j.clnu.2021.08.003",
+  "pmc_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/7492547/"
+ },
+ {
   "date": "2026-08-15",
   "pmid": "42595240",
   "title": "Xenobiotic-Induced Liver Injury in the United States: A 25-Year Retrospective Analysis of National Poison Data System.",

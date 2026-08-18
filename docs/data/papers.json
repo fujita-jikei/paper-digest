@@ -1,5 +1,57 @@
 [
  {
+  "date": "2026-08-19",
+  "pmid": "42607853",
+  "title": "Cancer Risk with Advanced Therapies in Patients with Inflammatory Bowel Diseases: An Administrative Claims-based Study.",
+  "title_ja": "炎症性腸疾患患者における高度治療薬使用に伴う癌リスク：医療保険請求データベースを用いた研究",
+  "journal": "Clin Gastroenterol Hepatol",
+  "year": "2026",
+  "authors": "Ahuja D, Yeh KH, Park SK ほか",
+  "summary": "本研究は、2016〜2023年にOptumLabs®データウェアハウスを用いて、癌既往のないIBD患者15,687例を対象に、TNF拮抗薬・ベドリズマブ・抗インターロイキン薬・JAK阻害薬の4クラスの高度治療薬（AT）開始後の癌発症リスクを後向きコホート研究で比較した。各群の3年累積癌発症率はTNF拮抗薬2.1%、ベドリズマブ2.7%、抗インターロイキン薬2.0%、JAK阻害薬2.5%であった。傾向スコアによる逆確率重み付けで交絡を調整した結果、TNF拮抗薬を基準とした各薬剤の癌リスクの調整ハザード比はベドリズマブ1.01（95%CI 0.71–1.42）、抗インターロイキン薬0.94（95%CI 0.61–1.46）、JAK阻害薬0.85（95%CI 0.33–2.16）といずれも有意差を認めなかった。固形腫瘍・血液腫瘍・メラノーマの癌種別サブグループ解析や各種感度分析でも一貫した結果が得られ、IBD高度治療薬の癌リスクは全クラスで同程度かつ低水準であると結論づけられた。",
+  "key_points": [
+   "リアルワールドデータにおいて、TNF拮抗薬・ベドリズマブ・抗インターロイキン薬・JAK阻害薬のいずれも、IBD患者における3年累積癌発症率は約2〜2.7%と低く、クラス間で統計学的に有意な差は認められなかった。",
+   "JAK阻害薬についても他のATと比較して癌リスクの増加は示されなかったが、JAK阻害薬群のサンプルサイズが小さい（n=384）ため、信頼区間が広く解釈には注意が必要である。",
+   "固形腫瘍・血液腫瘍・メラノーマの癌種別解析および複数の感度分析でも結果は一貫しており、研究の頑健性が示された。"
+  ],
+  "clinical_relevance": "IBD診療において高度治療薬の癌リスクは治療選択時の重要な懸念事項であるが、本研究はクラス間で癌リスクに差がないことを示しており、癌リスクのみを理由に特定の薬剤を忌避する根拠は乏しいことを示唆する。特に近年安全性が議論されているJAK阻害薬についても、IBD患者における癌リスクの観点から、専門研修医が治療方針を検討する際の参考となる実臨床データである。",
+  "study_type": "コホート",
+  "tags": [
+   "IBD",
+   "高度治療薬",
+   "癌リスク",
+   "JAK阻害薬"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42607853/",
+  "doi_url": "https://doi.org/10.1016/j.cgh.2026.08.003",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-08-19",
+  "pmid": "42604489",
+  "title": "Multimodal MRI reveals glymphatic system activity associated with systemic inflammation and neuropsychiatric symptoms in Crohn's disease.",
+  "title_ja": "マルチモーダルMRIがクローン病における全身性炎症および神経精神症状と関連するグリンパティックシステム活動を明らかにする",
+  "journal": "J Gastroenterol",
+  "year": "2026",
+  "authors": "Yin Y, Wang X, Ou D ほか",
+  "summary": "本前向き研究では、クローン病（CD）患者89例と年齢・性別マッチした健常対照48例を対象に、高度MRI指標（白質自由水：FW-WM、傍血管腔に沿ったDTI-ALPS、gBOLD-CSF結合）を用いてグリンパティック機能を評価した。CD患者は健常対照と比較してFW-WMの有意な上昇、DTI-ALPSインデックスの低下、gBOLD-CSF結合の減弱を示した。CD群内では、FW-WM上昇がCRP高値（r=0.308, p=0.021）・不安スコア（SAS; r=0.355, p=0.018）・抑うつスコア（SDS; r=0.290, p=0.029）と、DTI-ALPS低下がESR高値（r=-0.271, p=0.042）・疲労スコア（MFI; r=-0.312, p=0.021）と、gBOLD-CSF結合減弱が睡眠障害スコア（PSQI; r=0.329, p=0.021）とそれぞれ有意に関連した。本研究は、CD患者においてグリンパティック機能の変化が全身性炎症および神経精神症状と関連することを非侵襲的MRIエビデンスとして初めて示した。",
+  "key_points": [
+   "クローン病患者では複数のMRI指標（FW-WM上昇、DTI-ALPS低下、gBOLD-CSF結合減弱）によりグリンパティック機能の障害が示された。",
+   "グリンパティック機能の低下はCRPやESRなどの全身性炎症マーカーと有意に相関しており、腸管炎症が脳の液体輸送系に影響を与える可能性が示唆される。",
+   "グリンパティック機能障害は不安・抑うつ・疲労・睡眠障害などの神経精神症状とも関連しており、IBD患者の脳腸相関の理解に新たな視点を提供する。"
+  ],
+  "clinical_relevance": "消化器内科医はクローン病患者に高頻度で認められる不安・抑うつ・疲労・睡眠障害が腸管炎症を介したグリンパティック機能障害と関連する可能性を認識し、炎症コントロールが神経精神症状の改善につながるかを意識した診療が求められる。",
+  "study_type": "コホート",
+  "tags": [
+   "IBD",
+   "クローン病",
+   "脳腸相関",
+   "神経精神症状"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42604489/",
+  "doi_url": "https://doi.org/10.1038/s41467-023-43627-y",
+  "pmc_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/10682457/"
+ },
+ {
   "date": "2026-08-18",
   "pmid": "42604659",
   "title": "HLA-DQ allotypes in adults screened for celiac disease reveal historical misdiagnosis - results from the HUNT study.",

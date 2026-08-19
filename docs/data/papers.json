@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-08-20",
+  "pmid": "42613194",
+  "title": "Rome V global epidemiology and validation survey: prevalence of disorders of gut-brain interaction and comparison with the Rome IV global epidemiology study.",
+  "title_ja": "Rome V世界疫学・妥当性検証調査：腸脳相関障害の有病率とRome IV世界疫学研究との比較",
+  "journal": "Gut",
+  "year": "2026",
+  "authors": "Sperber AD, Hreinsson JP, Simrén M ほか",
+  "summary": "本研究は、新たに策定されたRome V診断基準を用いて腸脳相関障害（DGBI）の世界的疫学を評価し、Rome IVとの比較を行ったインターネットを介した人口ベースの横断調査である。15カ国の成人28,771名を対象とし、Rome V基準による少なくとも1つのDGBIの有病率は40.9%であり、Rome IVの40.5%と同等であった。Rome V基準における主な疾患の有病率は、機能性消化不良8.1%、過敏性腸症候群8.5%、慢性便秘8.9%、分類不能腸疾患9.6%、機能性嚥下障害4.1%、腹部片頭痛5.1%（新規DGBI）、げっぷ不能症候群1.4%（新規DGBI）であった。Rome VとIVの有病率は一致しており、DGBIの診断基準の妥当性と世界的な疾病負荷の高さが再確認された。",
+  "key_points": [
+   "Rome V基準によるDGBIの世界的有病率は40.9%であり、Rome IVの40.5%とほぼ同等で、診断基準改訂後も疾病負荷の高さは変わらない。",
+   "有病率は女性で高く、加齢とともに低下する傾向がみられ、性別・年齢がDGBIの重要な関連因子である。",
+   "腹部片頭痛（5.1%）とげっぷ不能症候群（1.4%）がRome Vで新たに定義されたDGBIとして報告されており、臨床的な認知が必要である。"
+  ],
+  "clinical_relevance": "DGBIは消化器外来における極めて一般的な疾患群であり、Rome V基準の習得は正確な診断と適切な患者説明に直結する。腹部片頭痛やげっぷ不能症候群など新規疾患概念の理解は、専門研修医にとって実臨床での鑑別診断力向上に重要である。",
+  "study_type": "その他",
+  "tags": [
+   "腸脳相関障害",
+   "機能性消化管疾患",
+   "Rome V",
+   "過敏性腸症候群"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42613194/",
+  "doi_url": "https://doi.org/10.1136/gutjnl-2026-339666",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-08-20",
+  "pmid": "42613193",
+  "title": "Multinational prevalence and burden of paediatric disorders of gut-brain interaction: results of the Rome Foundation paediatric global study.",
+  "title_ja": "小児における腸脳相関障害の多国間有病率と疾病負担：Rome財団小児グローバル研究の結果",
+  "journal": "Gut",
+  "year": "2026",
+  "authors": "Nurko S, Taft T, Palsson OS ほか",
+  "summary": "本研究は、Rome V基準に基づく小児腸脳相関障害（DGBI）の多国間有病率と疾病負担を明らかにすることを目的とし、中国・イタリア・メキシコ・米国の0〜17歳の小児8,000人の保護者を対象にオンライン調査を実施した。小児DGBIの全体有病率は28.0%（95%CI 27.0〜29.0%）と高く、上部DGBIは8.7%、下部DGBIは23.7%に認められ、最も多い下部DGBIは排便・肛門直腸障害（20.2%）であった。有病率は国別・年齢別に有意な差異があり、メキシコで最も高く中国で最も低く、また0〜3歳の約41%から思春期の22%へと加齢とともに低下した。DGBIは不安・抑うつ・機能的障害・医療利用の増加と関連し、上部・下部DGBIが重複する場合には保護者の介護負担も特に大きいことが示された。",
+  "key_points": [
+   "小児DGBIはRome V基準で28.0%と高い有病率を示し、特に乳幼児（0〜3歳）では約41%に達するため、早期からの認識が重要である。",
+   "DGBIは不安・抑うつ・機能的障害・医療受診増加と有意に関連しており、身体症状のみならず精神・社会的側面への包括的評価が必要である。",
+   "有病率には地理的・性別・年齢による顕著な差異があり（メキシコで最高、中国で最低；胃十二指腸・不快感障害では女性優位）、臨床および研究における多様性への配慮が求められる。"
+  ],
+  "clinical_relevance": "消化器内科専攻医は、小児の消化器症状を訴える患者において器質的疾患の除外と並行してDGBIの可能性を念頭に置き、Rome V基準を用いた体系的な評価と精神・社会的サポートを含む包括的管理を習得することが重要である。",
+  "study_type": "その他",
+  "tags": [
+   "腸脳相関障害",
+   "小児消化器",
+   "機能性消化管疾患",
+   "Rome V"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42613193/",
+  "doi_url": "https://doi.org/10.1136/gutjnl-2026-339667",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-08-20",
+  "pmid": "42613169",
+  "title": "Ciliogenic pancreatopathy reveals a link between ciliopathies and exocrine pancreatic disease.",
+  "title_ja": "線毛原性膵症：線毛病と外分泌膵疾患の関連を明らかにする",
+  "journal": "Gut",
+  "year": "2026",
+  "authors": "Rajput M, Flasse L, Porée E ほか",
+  "summary": "本研究は、小児発症の膵異常を有する341例のコホートを解析し、線毛病関連遺伝子（HNF1BおよびNPHP3）の変異が腎機能障害と膵機能障害の両方と関連することを明らかにした。Nphp3変異マウスモデルでは、腺房萎縮・脂肪膵（adipopancreatosis）・軽度炎症が認められ、膵管線毛の数の減少と長さの異常、ならびに腺房内分泌小管のmicrocystic形態が確認された。患者においてはDixon-MRIを用いた膵脂肪定量により、HNF1BおよびNPHP3変異を有する患者で膵脂肪含有量の有意な増加が示された。著者らはこの新たな病態を「線毛原性膵症（ciliogenic pancreatopathy）」と命名し、線毛病と外分泌膵疾患の関連を初めて体系的に示した。",
+  "key_points": [
+   "HNF1BおよびNPHP3遺伝子変異を有する患者はDixon-MRIで膵脂肪含有量が有意に増加しており、外分泌膵機能不全を合併し得る。",
+   "線毛病（ciliopathy）を有する患者、特に腎疾患を伴う症例では、膵外分泌不全が腎機能をさらに悪化させたり腎移植の転帰に影響する可能性があるため、膵評価が重要である。",
+   "マウスモデルで認められた脂肪膵の脂肪細胞は白色脂肪様プロファイルを示し、中皮由来線維芽細胞を起源とする可能性が示唆された。"
+  ],
+  "clinical_relevance": "線毛病と診断された患者（特に腎疾患合併例や腎移植候補者）に対しては、Dixon-MRIなどを用いた膵外分泌機能の評価を積極的に検討すべきであり、消化器内科医が多職種連携においてこれらの患者管理に関与する機会が増える可能性がある。",
+  "study_type": "コホート",
+  "tags": [
+   "膵疾患",
+   "線毛病",
+   "外分泌膵不全",
+   "遺伝性膵疾患"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42613169/",
+  "doi_url": "https://doi.org/10.1136/gutjnl-2025-337224",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-08-19",
   "pmid": "42607853",
   "title": "Cancer Risk with Advanced Therapies in Patients with Inflammatory Bowel Diseases: An Administrative Claims-based Study.",

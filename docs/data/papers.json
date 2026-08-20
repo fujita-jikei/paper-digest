@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-08-21",
+  "pmid": "42618450",
+  "title": "Intestinal flagellin drives multisystem inflammation through TLR5-IL-15-ARA axis.",
+  "title_ja": "腸内フラジェリンはTLR5-IL-15-アラキドン酸軸を介して多臓器炎症を駆動する",
+  "journal": "Gut",
+  "year": "2026",
+  "authors": "Geng J, Zhu Y, Chen S ほか",
+  "summary": "本研究は、関節リウマチ（RA）、強直性脊椎炎（AS）、IBD、ロングCOVIDという全身性炎症疾患に共通する腸管駆動性の炎症メカニズムを解明することを目的とした。メタゲノム解析により、これら4疾患すべてに共通する腸内細菌シグネチャーとして鞭毛保有菌の増加が同定された。ロングCOVIDを対象とした機能的研究では、鞭毛保有菌がTLR5を介して好中球を活性化し、NETs形成とIL-15放出を誘導し、IL-15がマクロファージのアラキドン酸（ARA）産生を促進する「フラジェリン-TLR5-IL-15-ARA軸」が明らかにされた。マウス共感染モデルでは、マクロファージのARA合成または好中球のIL-15の遺伝学的阻害が肺病変を軽減し、ゲンタマイシンによる腸内細菌叢の除菌が全身性炎症を特異的に抑制した。",
+  "key_points": [
+   "RA・AS・IBD・ロングCOVIDという異なる全身性炎症疾患に、腸内の鞭毛保有菌増加という共通の腸内細菌シグネチャーが存在する。",
+   "フラジェリン→TLR5→好中球NETs→IL-15→マクロファージARA産生という新規の炎症カスケードが同定され、ARAが多疾患横断的なバイオマーカー候補となり得る。",
+   "腸内細菌叢の除菌（ゲンタマイシン）が全身性炎症を抑制したことから、腸管内フラジェリンが治療標的候補として位置づけられる。"
+  ],
+  "clinical_relevance": "消化器内科医にとって、IBDや腸内細菌叢の異常が全身性炎症疾患の発症・遷延に関与するメカニズムを理解する上で重要な知見であり、腸管介入が全身性炎症の治療戦略となり得る可能性を示唆している。ロングCOVIDや自己免疫疾患合併例における腸内細菌叢評価と介入の意義を再考させる論文である。",
+  "study_type": "その他",
+  "tags": [
+   "IBD",
+   "腸内細菌叢",
+   "ロングCOVID",
+   "全身性炎症"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42618450/",
+  "doi_url": "https://doi.org/10.1136/gutjnl-2026-339112",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-08-21",
+  "pmid": "42617827",
+  "title": "Effectiveness of theory-based WhatsApp chatbot outreach in colorectal cancer screening uptake: a randomized controlled trial.",
+  "title_ja": "大腸癌スクリーニング受診率向上における理論に基づくWhatsAppチャットボット介入の有効性：ランダム化比較試験",
+  "journal": "Clin Gastroenterol Hepatol",
+  "year": "2026",
+  "authors": "Tung Lam TY, To Z, Wang ZJ ほか",
+  "summary": "本研究は、大腸癌スクリーニング受診率の向上を目的として、WhatsAppチャットボットアウトリーチ（WCO）と標準テキストリマインダー（STR）を比較した前向き無作為化比較試験である。WhatsAppにアクセス可能な50〜75歳の無症状者500名を1:1でWCO群またはSTR群に割り付け、WCO群には健康教育動画・行動変容ステージ（TTMに基づく）に応じた個別リスク評価・受診方法の実践的情報を提供した。主要評価項目である3か月時点のスクリーニング受診率はWCO群36%対STR群27.6%（p=0.043）と有意に高く、6か月時点でも45.6%対36.4%（p=0.045）とその差が維持された。WCOは行動科学理論に基づくチャットボット介入として、大腸癌スクリーニング受診率を有意に改善することが示された。",
+  "key_points": [
+   "理論（行動変容の汎理論的モデル：TTM）に基づいたWhatsAppチャットボット介入は、標準的なテキストリマインダーと比較して3か月時点で大腸癌スクリーニング受診率を約8ポイント有意に改善した（36% vs 27.6%、p=0.043）。",
+   "介入効果は6か月時点でも持続しており（45.6% vs 36.4%、p=0.045）、短期的な効果にとどまらない可能性が示唆された。",
+   "デジタルヘルスツール（チャットボット）を活用した個別化アプローチが、地域ベースのがんスクリーニングプログラムの受診率向上に有効な手段となりうる。"
+  ],
+  "clinical_relevance": "大腸癌スクリーニングの受診率向上は消化器内科医にとって重要な課題であり、本研究はチャットボットを用いた低コストかつスケーラブルな介入の臨床応用可能性を示している。地域住民への効果的なアウトリーチ戦略を検討する際の参考となる知見である。",
+  "study_type": "RCT",
+  "tags": [
+   "大腸癌",
+   "スクリーニング",
+   "デジタルヘルス",
+   "がん予防"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42617827/",
+  "doi_url": "https://doi.org/10.1016/j.cgh.2026.08.006",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-08-21",
+  "pmid": "42617651",
+  "title": "Influence of artificial intelligence on the performance of endosonographers in detection of solid pancreatic tumors: a tandem randomized video study.",
+  "title_ja": "固形膵腫瘍の検出における超音波内視鏡医のパフォーマンスに対する人工知能の影響：タンデムランダム化ビデオ研究",
+  "journal": "Endoscopy",
+  "year": "2026",
+  "authors": "Montanelli J, Sosa-Valencia L, Vilmann P ほか",
+  "summary": "本研究は、固形膵腫瘍（SPT）の検出において、市販前のAIソフトウェアが超音波内視鏡（EUS）施行医の診断精度と診断信頼度に与える影響を評価したランダム化比較タンデムビデオ研究である。57名の超音波内視鏡医が、難易度の異なる3つの実験から構成された38本のEUSビデオを、AI補助あり・なしの両条件で評価した。AI補助により診断精度はAIなし70.8%からAIあり77.1%へ有意に改善し（P＜0.001）、特に小病変や描出時間が短い病変を含む高難度クリップで効果が顕著であった。スタンドアロンAIの精度は92.3%であり、AI補助は経験レベルを問わず診断信頼度の有意な向上ももたらした（P＜0.001）。",
+  "key_points": [
+   "AI補助により診断精度が6.3ポイント改善し（70.8%→77.1%）、その効果は小病変や一過性に描出される病変など高難度症例で特に顕著であった。",
+   "スタンドアロンAIの診断精度は92.3%と高く、現状の内視鏡医単独の精度を大きく上回っており、AIの補助的ツールとしての潜在的有用性が示された。",
+   "AI補助の恩恵は経験年数に関わらず認められ、初学者から熟練者まで幅広い内視鏡医に対して有効である可能性がある。"
+  ],
+  "clinical_relevance": "膵臓EUSにおけるAI支援システムは、見落としやすい小病変の検出精度と術者の診断信頼度を向上させる可能性があり、消化器内科医の専門研修や日常の膵臓EUS診療における補助ツールとして活用が期待される。",
+  "study_type": "RCT",
+  "tags": [
+   "膵臓腫瘍",
+   "超音波内視鏡（EUS）",
+   "人工知能（AI）",
+   "診断精度"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42617651/",
+  "doi_url": "https://doi.org/10.1055/a-2902-2838",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-08-20",
   "pmid": "42613194",
   "title": "Rome V global epidemiology and validation survey: prevalence of disorders of gut-brain interaction and comparison with the Rome IV global epidemiology study.",

@@ -7,6 +7,14 @@ import requests
 EUTILS = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
 TOOL_PARAMS = {"tool": "paper-digest", "email": "digest@example.com"}
 
+# 総合誌(キーワード合致のみ収集する誌)
+GENERAL_JOURNALS = {"N Engl J Med", "Lancet", "JAMA", "BMJ", "Ann Intern Med", "JAMA Intern Med"}
+
+
+def _norm(name: str) -> str:
+    """ジャーナル名の表記ゆれ(ピリオド等)を吸収して比較用に正規化."""
+    return name.replace(".", "").replace(",", "").strip().lower()
+
 
 def build_query(cfg: dict) -> str:
     """config.yaml の設定から PubMed 検索クエリを組み立てる."""
@@ -14,9 +22,8 @@ def build_query(cfg: dict) -> str:
     kw = " OR ".join(f'"{k}"[Title/Abstract] OR "{k}"[MeSH Terms]' for k in s["keywords"])
 
     # 専門誌: 新着をそのまま拾う / 総合誌: キーワード合致のみ
-    general = {"N Engl J Med", "Lancet", "JAMA", "BMJ", "Ann Intern Med", "JAMA Intern Med"}
-    specialty_j = [j for j in s["journals"] if j not in general]
-    general_j = [j for j in s["journals"] if j in general]
+    specialty_j = [j for j in s["journals"] if j not in GENERAL_JOURNALS]
+    general_j = [j for j in s["journals"] if j in GENERAL_JOURNALS]
 
     parts = []
     if specialty_j:
@@ -41,7 +48,7 @@ def search_pmids(cfg: dict) -> list[str]:
         "term": build_query(cfg),
         "reldate": s["days_back"],
         "datetype": "edat",
-        "retmax": s["max_papers"] * 3,  # 除外・重複を見込んで多めに取る
+        "retmax": max(s["max_papers"] * 3, 20),  # 優先ソート用に候補を多めに取る
         "sort": "date",
         "retmode": "json",
         **TOOL_PARAMS,
@@ -121,9 +128,21 @@ def fetch_details(pmids: list[str]) -> list[dict]:
     return papers
 
 
+def prioritize(papers: list[dict], cfg: dict) -> list[dict]:
+    """優先ジャーナル(デフォルト: 総合誌)を先頭に並べ替える.
+
+    config.yaml の search.priority_journals で変更可能。
+    同グループ内の順序は新着順のまま維持される(安定ソート)。
+    """
+    priority = cfg["search"].get("priority_journals") or list(GENERAL_JOURNALS)
+    priority_norm = {_norm(j) for j in priority}
+    return sorted(papers, key=lambda p: 0 if _norm(p["journal"]) in priority_norm else 1)
+
+
 def collect(cfg: dict, seen_pmids: set[str]) -> list[dict]:
-    """新着論文を収集し、既読(アーカイブ済み)を除外して返す."""
+    """新着論文を収集し、既読を除外→総合誌優先で並べ替え→上限まで返す."""
     pmids = [p for p in search_pmids(cfg) if p not in seen_pmids]
     time.sleep(0.4)  # E-utilities のレート制限(3req/s)への配慮
     papers = fetch_details(pmids)
+    papers = prioritize(papers, cfg)
     return papers[: cfg["search"]["max_papers"]]

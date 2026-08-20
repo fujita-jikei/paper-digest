@@ -21,6 +21,10 @@ search:
     - "N Engl J Med"
     - "Lancet"
     - "JAMA"
+  priority_journals:
+    - "N Engl J Med"
+    - "Lancet"
+    - "JAMA"        # 例: Gutも優先枠に入れる場合
 
   # キーワード(MeSH/フリーワード)。ジャーナル指定と OR で結合
   # NEJM/Lancet/JAMA などの総合誌はこのキーワードに合致した論文のみ拾う

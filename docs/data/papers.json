@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-08-23",
+  "pmid": "42629200",
+  "title": "Diet in IBD: preventive and therapeutic concepts.",
+  "title_ja": "IBDにおける食事療法：予防と治療の概念",
+  "journal": "Gut",
+  "year": "2026",
+  "authors": "Schwärzler J, Tilg H, Adolph TE",
+  "summary": "本論文は、炎症性腸疾患（IBD）における食事介入の予防・治療的役割についてレビューしたものである。近年、西洋型食事が腸管炎症のリオスタット（調節因子）として機能することが示され、特定の食事パターンや食品成分がIBDの発症および経過に関連することが明らかになってきた。栄養免疫学・遺伝疫学的知見の進歩と臨床的革新を背景に、完全経腸栄養や固形食ダイエットを含む抗炎症的栄養戦略が検討されており、薬物療法との相乗効果が期待される個別化された治療選択肢として位置づけられつつある。本レビューでは、有効な固形食ダイエットの共通戦略を比較・整理し、IBD患者に適した健康的な食事パターンを提唱するとともに、食環境の改善や医療者・患者への啓発を通じた西洋型食習慣の是正策を提言している。",
+  "key_points": [
+   "西洋型食事はIBDにおける腸管炎症を促進する因子として機能し、食事パターンや特定の食品成分がIBDの発症・経過に影響を与える。",
+   "完全経腸栄養および抗炎症的固形食ダイエットはIBDに対する有効な栄養介入として位置づけられ、薬物療法との相乗効果が期待される。",
+   "IBD患者に対して医師が食事指導を行い、食環境の整備を通じた西洋型食習慣の是正が腸管健康の促進に重要と提言されている。"
+  ],
+  "clinical_relevance": "消化器内科医はIBD患者の診療において食事介入を薬物療法と並行した個別化治療オプションとして積極的に考慮することが求められており、栄養指導や食習慣の評価を日常臨床に組み込む重要性が高まっている。",
+  "study_type": "総説",
+  "tags": [
+   "IBD",
+   "食事療法",
+   "栄養療法",
+   "腸管炎症"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42629200/",
+  "doi_url": "https://doi.org/10.1136/gutjnl-2025-337153",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-08-23",
+  "pmid": "42629199",
+  "title": "Activation of the KPNA2-mediated nuclear import of PPARα by KIF13B mitigates alcohol-associated liver steatosis.",
+  "title_ja": "KIF13BによるKPNA2介在性PPARα核内移行の活性化がアルコール関連肝脂肪症を軽減する",
+  "journal": "Gut",
+  "year": "2026",
+  "authors": "Lu K, Mei S, Zhang L ほか",
+  "summary": "本研究は、アルコール関連肝疾患（ALD）におけるKIF13B（kinesin family member 13B）の役割と治療可能性を検討した基礎研究である。NIAAAモデル（慢性+急性大量飲酒モデル）を用いたマウスおよびALD患者の肝組織解析により、KIF13Bの肝臓での発現がエタノール負荷マウスおよびALD患者で著明に低下していることが示された。メカニズムとして、KIF13BはKPNA2（karyopherin subunit alpha 2）と直接結合してその安定性を維持し、PPARαの核内移行と脂肪酸酸化遺伝子の転写活性化を促進することが明らかになった。KIF13B欠損マウスではPPARα作動薬フェノフィブラートの効果が減弱したが、KPNA2標的化化合物foslinanibによりPPARα核内輸送が回復し脂肪症が改善され、さらにフェノフィブラートとfoslinanibの併用では単独投与より顕著な治療効果が認められた。",
+  "key_points": [
+   "KIF13BはKPNA2を介してPPARαの核内移行を促進し、肝脂肪酸酸化を維持する新規の制御因子であり、ALD患者および飲酒モデルマウスで発現が著明に低下している。",
+   "KIF13B欠損下ではPPARα作動薬フェノフィブラートの効果が減弱するため、KIF13B-KPNA2軸の状態がPPARα標的治療の効果に影響する可能性がある。",
+   "KPNA2標的化化合物foslinanibとフェノフィブラートの併用療法は、KIF13B欠損環境においても肝脂肪症に対してより顕著な改善効果を示し、新たな治療戦略として期待される。"
+  ],
+  "clinical_relevance": "現時点でALDに対して承認された標的治療薬はなく、KIF13B-KPNA2-PPARα軸は将来的な創薬標的として重要な意義を持つ。消化器内科専門医としてALDの病態理解を深める上で、脂質代謝における核内移行機構の関与を把握することが新規治療法の評価に役立つ。",
+  "study_type": "その他",
+  "tags": [
+   "アルコール関連肝疾患",
+   "肝脂肪症",
+   "脂質代謝",
+   "PPARα"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42629199/",
+  "doi_url": "https://doi.org/10.1136/gutjnl-2026-339656",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-08-23",
+  "pmid": "42628939",
+  "title": "Biodegradable versus plastic pancreatic stents for preventing post-ERCP pancreatitis: A multicentre propensity score-adjusted study.",
+  "title_ja": "ERCP後膵炎予防における生分解性膵管ステントとプラスチック膵管ステントの比較：多施設傾向スコア調整研究",
+  "journal": "Endoscopy",
+  "year": "2026",
+  "authors": "Galanakis V, Moreno-Sanchez M, Braimakis I ほか",
+  "summary": "本研究は、ERCP後膵炎（PEP）予防における生分解性膵管ステントと従来のプラスチック膵管ステントの有効性を比較した英国多施設後ろ向き研究である。2020年1月から2025年9月の間に膵管ステントを留置した355例（プラスチックステント177例、生分解性ステント178例）を対象に、逆確率重み付け（IPTW）法による傾向スコア調整解析を実施した。PEP発生率はプラスチックステント群6.2%、生分解性ステント群7.3%であり、IPTW調整後のリスク差は+3.59%（95%CI: -3.27%〜+11.37%）と両群間に有意差は認められなかった。一方、3ヶ月以内のステント抜去目的の再内視鏡施行率はプラスチックステント群45.2%に対し生分解性ステント群では0%であり、生分解性ステントにより再内視鏡処置が完全に回避された。",
+  "key_points": [
+   "生分解性膵管ステントはプラスチックステントと比較してPEP発生率に有意差はなく（調整後リスク差+3.59%）、PEP予防効果は同等と考えられる。",
+   "生分解性ステント群では3ヶ月以内の抜去目的再内視鏡がゼロであり（調整後リスク差-51.13%）、患者負担・医療資源の大幅な削減が期待できる。",
+   "残余交絡（特に時間的・手技的要因）の可能性が否定できず、結論の確定にはより大規模な前向き多施設研究が必要である。"
+  ],
+  "clinical_relevance": "膵管ステント留置を要するERCP施行例において、生分解性ステントはPEP予防効果を維持しつつステント抜去のための追加内視鏡を不要とするため、日常の高難度ERCPの周術期管理や患者説明において重要な選択肢となり得る。消化器内科専攻医にとって、生分解性デバイスの適応と利点を理解する好機となる知見である。",
+  "study_type": "コホート",
+  "tags": [
+   "ERCP",
+   "膵管ステント",
+   "ERCP後膵炎",
+   "内視鏡"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42628939/",
+  "doi_url": "https://doi.org/10.1055/a-2936-0508",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-08-22",
   "pmid": "42624156",
   "title": "Liver resection after atezolizumab and bevacizumab versus maintenance therapy for locally advanced hepatocellular carcinoma (TALENTOP): a multicentre, open-label, randomised, phase 3 trial.",

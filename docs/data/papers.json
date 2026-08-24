@@ -1,5 +1,31 @@
 [
  {
+  "date": "2026-08-25",
+  "pmid": "42633947",
+  "title": "AI-assisted second forward-view examination of the right colon significantly improves the adenoma detection rate: a multicenter randomized controlled trial.",
+  "title_ja": "AI支援による右側大腸の第2回前方視野検査は腺腫発見率を有意に改善する：多施設無作為化比較試験",
+  "journal": "Am J Gastroenterol",
+  "year": "2026",
+  "authors": "Nishikawa Y, Fujimoto A, Hayashi Y ほか",
+  "summary": "本研究は、右側大腸の腺腫見逃しを改善するため、AI支援による右側大腸の第2回前方視野再検査の有効性を検討した多施設無作為化比較試験である。計606例（AI群305例、非AI群301例）を対象とし、AI群ではリアルタイムAI支援下で右側大腸の第2回前方視野検査を実施した。主要評価項目である右側大腸腺腫発見率（ADR）はAI群で36.4%、非AI群で27.9%と、AI群で有意に高く（p=0.03、絶対差8.5%）、小型病変・平坦病変や上行結腸などの解剖学的難所での検出向上が主な改善要因であった。サブグループ解析では内視鏡医の経験年数によらずAI支援の効果が一貫して認められたが、AI支援単独の寄与については今後のさらなる検討が必要とされている。",
+  "key_points": [
+   "AI支援を用いた右側大腸の第2回前方視野再検査により、右側大腸ADRが27.9%から36.4%へと絶対差8.5%の有意な改善を示した。",
+   "改善効果は小型・平坦病変や上行結腸などの解剖学的難所における病変検出の向上によって主に説明された。",
+   "内視鏡医の経験レベルによらずAI支援の効果が一貫して認められており、技術習熟度に関係なく恩恵が期待できる可能性がある。"
+  ],
+  "clinical_relevance": "右側大腸は腺腫の見逃しが多い領域であり、AI支援を組み合わせた再検査戦略は日常的な大腸内視鏡検査の質向上に直結する実践的エビデンスとして有用である。消化器内科専攻医にとっても、AI支援ツールの活用と再検査プロトコルの意義を理解する上で重要な知見となる。",
+  "study_type": "RCT",
+  "tags": [
+   "大腸内視鏡",
+   "AI支援内視鏡",
+   "腺腫発見率",
+   "大腸腫瘍"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42633947/",
+  "doi_url": "https://doi.org/10.14309/ajg.0000000000004184",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-08-24",
   "pmid": "42633600",
   "title": "Clonal evolution from primary to locally recurrent rectal cancer reveals recurrence-acquired potentially actionable alterations in treatment-naïve tumors.",

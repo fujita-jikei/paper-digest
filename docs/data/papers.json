@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-08-26",
+  "pmid": "42637526",
+  "title": "Emerging exposure-driven accelerated colorectal carcinogenesis: a model with implications for screening colonoscopy effectiveness.",
+  "title_ja": "新たな曝露主導型加速大腸発癌：スクリーニング大腸内視鏡の有効性に関する示唆を含む概念モデル",
+  "journal": "Gut",
+  "year": "2026",
+  "authors": "Truninger K, Easwaran H, Macrae F ほか",
+  "summary": "本総説は、従来の「ゆっくり進行する前駆病変（腺腫）を介した発癌モデル」では説明しきれない新興の大腸癌（CRC）表現型について論じている。世界的に全体のCRC罹患率・死亡率は安定または低下傾向にある一方、低・中所得国での増加や若年発症CRC（EOCRC）の急増、遠位結腸・直腸癌の増加が観察されており、これらは最高品質のスクリーニング・サーベイランスを行っても予防しきれていない。著者らは、孤発性のマイクロサテライト安定型EOCRCおよび大腸内視鏡後CRC（PCCRC）の一部が、環境・生活習慣曝露による「加速発癌プロセス」の先行指標であるという概念モデルを提唱している。このモデルでは、炎症・免疫調節異常・マイクロバイオーム破綻・エピゲノム再編成が収束することで、腫瘍形成のタイムラインが短縮され、「腫瘍発生許容組織状態（biologically permissive tissue state）」が形成されると仮定し、その分子機序として「腫瘍胎児性リプログラミング（oncoembryonic reprogramming）」を新たに提唱している。",
+  "key_points": [
+   "高品質なガイドライン準拠のスクリーニング・サーベイランスを実施してもCRCおよび大腸内視鏡後CRC（PCCRC）を完全には予防できない事実は、従来の緩徐進行型前駆病変モデルだけでは説明不十分であることを示唆している。",
+   "環境・生活習慣曝露が炎症、免疫調節異常、マイクロバイオーム破綻、エピゲノム変化を介して発癌タイムラインを短縮させるという「曝露主導型加速発癌」モデルが新たに提唱された。",
+   "「腫瘍胎児性リプログラミング（oncoembryonic reprogramming）」が、粘膜リモデリングから加速腫瘍進行への橋渡しとなる分子機序として提示され、リスク層別化・スクリーニング戦略・トランスレーショナル標的への応用が期待される。"
+  ],
+  "clinical_relevance": "若年発症大腸癌や大腸内視鏡後CRCが増加している現状を踏まえ、消化器内科医は従来の腺腫主体の発癌モデルに依拠したスクリーニング戦略の限界を認識し、曝露歴に基づくリスク層別化や新たな予防戦略の開発に関心を持つことが重要である。",
+  "study_type": "総説",
+  "tags": [
+   "大腸癌",
+   "若年発症大腸癌",
+   "大腸内視鏡スクリーニング",
+   "発癌メカニズム"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42637526/",
+  "doi_url": "https://doi.org/10.1136/gutjnl-2026-339128",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-08-26",
+  "pmid": "42637172",
+  "title": "The Incidence of Esophageal Food Impactions and Risk Factors for Recurrence in a Large, Community-Based Healthcare System in Northern California.",
+  "title_ja": "北カリフォルニアの大規模地域医療システムにおける食道食物塊嵌頓の発生率と再発リスク因子",
+  "journal": "Clin Gastroenterol Hepatol",
+  "year": "2026",
+  "authors": "Lam AY, Xie W, Naveed M ほか",
+  "summary": "本研究は、2010〜2024年にカリフォルニア北部の大規模統合医療機関の救急外来を受診した食道食物塊嵌頓（EFBI）患者8,231人（ED受診10,146件）を対象とした後ろ向きコホート研究である。EFBIの年間発生率は10万人あたり14.79〜21.52と変動し、2010〜2016年に上昇した後2016〜2024年に低下したが、持続的な傾向は認められなかった。内視鏡が必要な患者の割合は52.7%（2010〜2014年）から42.3%（2021〜2024年）へと低下した。5年累積再発率は食道悪性腫瘍33.7%、好酸球性食道炎（EoE）24.0%、食道狭窄23.4%と高く、EoEおよび良性食道狭窄が再発率の高い最も一般的な食道疾患であることが示された。",
+  "key_points": [
+   "EFBIの年間発生率は10万人あたり約15〜22件で推移しており、2010〜2024年にわたる持続的な増減トレンドは認められなかった。",
+   "好酸球性食道炎（EoE）と良性食道狭窄は5年累積再発率がそれぞれ24.0%・23.4%と高く、再発予防のための積極的な診断・治療介入が求められる。",
+   "内視鏡によるEFBI確認率は経時的に低下しており（2010年：8.12/10万、2024年：6.11/10万）、保存的管理が増加している可能性が示唆される。"
+  ],
+  "clinical_relevance": "EFBIで救急受診した患者において、EoEや食道狭窄の早期診断と適切な治療（EoEに対する薬物療法・食事療法、狭窄に対する拡張術など）が再発予防に直結するため、消化器内科医として初回EFBIを「介入の機会」として捉える姿勢が重要である。",
+  "study_type": "コホート",
+  "tags": [
+   "食道",
+   "内視鏡",
+   "好酸球性食道炎",
+   "消化器救急"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42637172/",
+  "doi_url": "https://doi.org/10.1016/j.cgh.2026.08.012",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-08-26",
+  "pmid": "42637171",
+  "title": "Recompensation After Etiologic Cure in U.S. Veterans with HCV-Related Decompensated Cirrhosis.",
+  "title_ja": "HCV関連非代償性肝硬変を有する米国退役軍人における病因治癒後の再代償",
+  "journal": "Clin Gastroenterol Hepatol",
+  "year": "2026",
+  "authors": "Goyes D, Rabiee A, Chong-Lugon N ほか",
+  "summary": "本研究は、HCV関連非代償性肝硬変を有する米国退役軍人を対象に、DAA治療によるSVR達成後の再代償（Baveno VII基準）の頻度・予測因子・予後的意義を後ろ向きコホート研究として検討した。画像で確認された腹水を有しSVRを達成した1,213例のうち、163例（13%）がDAA開始から24か月以内に再代償を達成した。多変量解析では、ベースライン高アルブミン値が再代償の独立した予測因子であり、血小板数＜110×10⁹/Lおよびさらなる非代償化は再代償の可能性低下と関連していた。再代償の達成は全死因死亡率の低下と関連しており、腹水の消失単独でもBaveno VII基準による再代償例の大半を同定できることが示された。",
+  "key_points": [
+   "SVRを達成したHCV関連非代償性肝硬変患者の約13%がDAA開始後24か月以内にBaveno VII基準の再代償を達成し、その達成は生存率の改善と関連する。",
+   "肝合成能の保持（高アルブミン値）と門脈圧亢進の軽症化（血小板数≥110×10⁹/L）が再代償の予測因子であり、追加の非代償化はその可能性を低下させる。",
+   "腹水の消失単独でも再代償達成例の大部分を識別できるため、日常臨床における再代償の実用的なマーカーとなりうる。"
+  ],
+  "clinical_relevance": "HCV治療後の非代償性肝硬変患者において、アルブミン値や血小板数などの簡便な指標から再代償の可能性を予測できることは、治療目標設定やフォローアップ戦略の立案に直結する。また腹水消失を代償化の臨床的指標として活用する視点は、専門研修において実践的な評価軸となりうる。",
+  "study_type": "コホート",
+  "tags": [
+   "肝硬変",
+   "HCV",
+   "DAA治療",
+   "再代償"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42637171/",
+  "doi_url": "https://doi.org/10.1016/j.cgh.2026.08.010",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-08-25",
   "pmid": "42633947",
   "title": "AI-assisted second forward-view examination of the right colon significantly improves the adenoma detection rate: a multicenter randomized controlled trial.",

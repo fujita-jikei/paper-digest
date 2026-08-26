@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-08-27",
+  "pmid": "42642218",
+  "title": "Childhood exposure to a sibling with Crohn's disease alters gut microbiome and Crohn's disease susceptibility.",
+  "title_ja": "クローン病患者の兄弟姉妹への幼少期曝露は腸内細菌叢を変容させクローン病感受性を高める",
+  "journal": "Gut",
+  "year": "2026",
+  "authors": "Chen R, Kim HJ, Bushra M ほか",
+  "summary": "本研究は、クローン病（CD）患者の兄弟姉妹への曝露時期（幼少期 vs 成人期）がCD発症リスクおよび腸内細菌叢に与える影響を検討した前向きコホート研究（GEM Projectおよび韓国全国データベース）である。GEMコホートでは、幼少期曝露は成人期曝露と比較してCD発症リスクが約4倍高く（adjusted HR 4.00, 95%CI 1.83–8.75, p=5.3×10⁻⁴）、韓国データセットでも同様の結果が確認された（adjusted HR 2.54, 95%CI 1.70–3.81, p=6.0×10⁻⁶）。幼少期曝露者ではLachnospira・Roseburia・Colidextribacterの減少が認められ、媒介分析によりこれらの変化がCD発症リスクを部分的に媒介することが示唆された。さらに、糞便カルプロテクチン高値かつBlautia富化またはPrevotella富化エンテロタイプを有する兄弟姉妹では10年累積発症率が22.5%に達する高リスク群と同定された。",
+  "key_points": [
+   "CD患者の兄弟姉妹への幼少期曝露は成人期曝露と比較してCD発症リスクを約4倍高める独立したリスク因子であり、2つの異なるコホートで再現された。",
+   "幼少期曝露に伴う腸内細菌叢の変化（Lachnospira・Roseburia・Colidextribacterの減少）が、CD発症リスクの一因として媒介分析・無菌マウスモデルで機能的に支持された。",
+   "糞便カルプロテクチンと腸内エンテロタイプを組み合わせた統合リスクモデルにより、10年累積発症率22.5%の超高リスク群を層別化できる可能性がある。"
+  ],
+  "clinical_relevance": "CD患者の兄弟姉妹、特に幼少期から同居している例は高リスク群として積極的なサーベイランスの対象となりうる。糞便カルプロテクチンと腸内細菌叢エンテロタイプを組み合わせたリスク層別化が将来的な早期介入戦略に貢献する可能性がある。",
+  "study_type": "コホート",
+  "tags": [
+   "IBD",
+   "クローン病",
+   "腸内細菌叢",
+   "発症リスク"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42642218/",
+  "doi_url": "https://doi.org/10.1136/gutjnl-2026-339257",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-08-27",
+  "pmid": "42642217",
+  "title": "From pressure to prognosis: establishing a common language for portal hypertension in advanced chronic liver disease.",
+  "title_ja": "圧力から予後へ：進行性慢性肝疾患における門脈圧亢進症の共通言語の確立",
+  "journal": "Gut",
+  "year": "2026",
+  "authors": "Jeffrey AW, Tsochatzis EA, Genescà J ほか",
+  "summary": "本論文は、代償性進行慢性肝疾患（cACLD）におけるリスク層別化の現状と課題を論じた総説である。従来、臨床的に有意な門脈圧亢進症（CSPH）の定義にはHVPG≧10 mmHgが用いられ、CSPHは非代償化リスクの重要な指標とされてきた（4年時点での非代償化率：CSPH有り29% vs CSPH無し10%）。近年、エラストグラフィーやANTICIPATEモデル、Portal Hypertension Decompensation Score（PHDS）などの非侵襲的検査（NIT）が、HVPG測定に匹敵する非代償化予測精度を示すことが明らかになっており、静的な血行動態的閾値から動的・個別化されたアウトカム予測へのパラダイムシフトが提唱されている。これらの直接予測モデルの普及には、臨床エンドポイントの標準化と、代替マーカーではなくアウトカムに基づく用語体系への移行が不可欠であると結論づけている。",
+  "key_points": [
+   "CSPHを有する患者は4年時点での非代償化率が29%と、CSPHを有さない患者（10%）に比べて有意に高く、予後予測における重要な指標である。",
+   "エラストグラフィーやANTICIPATEモデル、PHDSなどの非侵襲的検査は、HVPGに匹敵する非代償化予測精度を持ち、侵襲的測定の代替として縦断的リスク再評価や治療効果のモニタリングに活用できる。",
+   "NITを用いた直接予測モデルの臨床実装には、均一な臨床エンドポイントの標準化とアウトカムに基づく用語体系の採用が必要であり、早期介入の促進にも寄与しうる。"
+  ],
+  "clinical_relevance": "消化器内科医として門脈圧亢進症の管理において、HVPGに依存せず非侵襲的検査を活用した動的リスク評価の実践が今後の標準となりうるため、各種NITモデルの特性と適応を習熟しておくことが重要である。",
+  "study_type": "総説",
+  "tags": [
+   "門脈圧亢進症",
+   "慢性肝疾患",
+   "非侵襲的検査",
+   "肝硬変"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42642217/",
+  "doi_url": "https://doi.org/10.1136/gutjnl-2026-339845",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-08-27",
+  "pmid": "42641993",
+  "title": "Associations between body surface gastric mapping parameters and response to gastric peroral endoscopic myotomy for gastroparesis.",
+  "title_ja": "胃不全麻痺に対する胃経口内視鏡的筋層切開術の治療反応性と体表面胃マッピングパラメータとの関連",
+  "journal": "Gastrointest Endosc",
+  "year": "2026",
+  "authors": "Ayubi H, Varghese C, Tanne M ほか",
+  "summary": "本研究は、難治性胃不全麻痺に対する胃経口内視鏡的筋層切開術（G-POEM）の治療効果予測因子として、体表面胃マッピング（BSGM）の有用性を評価した前向きコホート研究である。対象はKing's College Hospitalで登録されたフォローアップ完了30例（女性77%、中央値年齢38.5歳）で、中央値7.1ヶ月の追跡期間中に53%がG-POEMに反応した。注目すべき点として、不整脈様または連続型フェノタイプを示した患者は全例が治療に反応し、一方で高い胃周波数は非反応の予測因子となった（調整オッズ比0.01、95%信頼区間0.00–0.39、p=0.03）。BSGMのフェノタイプ分類がG-POEMの患者選択に有用な新規ツールとなる可能性が示された。",
+  "key_points": [
+   "BSGMで不整脈様または連続型フェノタイプを示した患者では、G-POEMへの反応率が100%であった。",
+   "高い胃周波数はG-POEM非反応の独立した予測因子であり（調整OR 0.01、p=0.03）、術前評価への活用が期待される。",
+   "G-POEMの全体的な治療反応率は53%であり、適切な患者選択が治療成績の向上に重要である。"
+  ],
+  "clinical_relevance": "難治性胃不全麻痺に対するG-POEMは有望な治療法であるが、BSGMによるフェノタイプ評価を術前に行うことで、より適切な患者選択が可能となり、治療成績の改善につながる可能性がある。消化器内科専門医としてBSGMの解釈と応用を習得することが、今後の臨床実践において重要となり得る。",
+  "study_type": "コホート",
+  "tags": [
+   "胃不全麻痺",
+   "G-POEM",
+   "体表面胃マッピング",
+   "内視鏡"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42641993/",
+  "doi_url": "https://doi.org/10.1016/j.gie.2026.08.030",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-08-26",
   "pmid": "42637526",
   "title": "Emerging exposure-driven accelerated colorectal carcinogenesis: a model with implications for screening colonoscopy effectiveness.",

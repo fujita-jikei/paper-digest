@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-08-28",
+  "pmid": "42658244",
+  "title": "Mucin phenotype stratifies histological malignancy in superficial non-ampullary duodenal epithelial tumors: a prospective study.",
+  "title_ja": "粘液表現型は表在性非乳頭部十二指腸上皮性腫瘍における組織学的悪性度を層別化する：前向き研究",
+  "journal": "J Gastroenterol",
+  "year": "2026",
+  "authors": "Nakayama A, Miyazaki K, Iwata K ほか",
+  "summary": "本研究は、表在性非乳頭部十二指腸上皮性腫瘍（SNADETs）における粘液表現型と組織学的悪性度の関連を明らかにするため、前向き観察研究として実施された。401例のSNADETsを対象に、画像強調内視鏡を用いた拡大内視鏡検査後に内視鏡的切除を行い、粘液表現型をG型（胃型・主に胃型・混合型）とI型（腸型・主に腸型）に分類した。G型SNADETsは全体の15.5%を占めたが、I型と比較してViennaカテゴリー4.1を超える悪性病変の頻度が有意に高く（P < 0.0001）、粘膜下浸潤癌の大多数が胃型表現型を示した。内視鏡所見では、閉鎖ループ構造・白色不透明物質の消失・隆起型形態がG型SNADETsの独立した予測因子として同定された。",
+  "key_points": [
+   "G型（胃型）SNADETsは全体の15.5%と少数だが、I型と比較して高度異型・浸潤癌への進行リスクが有意に高く、粘膜下浸潤癌のほとんどが胃型表現型を示す。",
+   "組織学的悪性度は胃型成分の割合が増加するにつれて段階的に上昇するため、粘液表現型の評価が悪性度リスク層別化に有用である。",
+   "拡大内視鏡での「閉鎖ループ構造」「白色不透明物質の消失」「隆起型形態」がG型SNADETsの独立した内視鏡的予測因子として同定された。"
+  ],
+  "clinical_relevance": "日常内視鏡診療において、SNADETsを発見した際に粘液表現型を意識した拡大内視鏡評価を行うことで、治療前リスク層別化および治療方針決定に役立てることができる。消化器内科専攻医にとって、十二指腸腫瘍の生物学的悪性度を内視鏡所見から推測する実践的な視点を習得する上で重要な知見である。",
+  "study_type": "コホート",
+  "tags": [
+   "十二指腸腫瘍",
+   "内視鏡",
+   "粘液表現型",
+   "消化管腫瘍"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42658244/",
+  "doi_url": "https://doi.org/10.1016/j.gie.2016.12.007",
+  "pmc_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/4427679/"
+ },
+ {
+  "date": "2026-08-28",
+  "pmid": "42656031",
+  "title": "Can Early Control of Inflammation Change the Trajectory of Pediatric Eosinophilic Esophagitis?",
+  "title_ja": "小児好酸球性食道炎において早期の炎症制御は疾患の経過を変えうるか？",
+  "journal": "Am J Gastroenterol",
+  "year": "2026",
+  "authors": "Francavilla R, Cristofori F",
+  "summary": "本論文は、小児好酸球性食道炎（EoE）におけるdupilumabの効果を評価したEoE KIDSのpost hoc解析を考察したエディトリアルである。解析では、dupilumabが幼児の炎症性内視鏡所見を著明に改善する一方、線維狭窄性病変は短期追跡において大部分で認められないか変化がなかったことが示された。診断の遅れや持続的な炎症が狭窄形成と関連するという自然経過のデータとあわせて解釈すると、2型炎症を早期かつ持続的に抑制することが小児EoEの長期的な疾患経過を変える可能性があるという仮説が提示された。本エディトリアルは、症状管理にとどまらず不可逆的な食道リモデリングの予防を治療目標とすることの重要性を論じている。",
+  "key_points": [
+   "dupilumabは幼児のEoEにおける炎症性内視鏡所見を著明に改善するが、短期追跡では線維狭窄性病変への影響は限定的であった。",
+   "診断遅延や持続的な炎症が狭窄形成と関連するという自然経過データは、早期介入の重要性を支持する。",
+   "小児EoEの治療目標は症状緩和だけでなく、不可逆的な食道リモデリングの予防へと拡張される可能性がある。"
+  ],
+  "clinical_relevance": "小児EoEの診療において、早期診断と持続的な炎症制御が長期的な食道狭窄リスクを低減しうるという視点は、専門研修中の消化器内科医が治療戦略を立案する上で重要な示唆を与える。dupilumabをはじめとする生物学的製剤の適応や導入時期を検討する際の根拠となりうる。",
+  "study_type": "その他",
+  "tags": [
+   "好酸球性食道炎",
+   "小児消化器",
+   "生物学的製剤",
+   "食道リモデリング"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42656031/",
+  "doi_url": "https://doi.org/10.14309/ajg.0000000000004115",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-08-28",
+  "pmid": "42648907",
+  "title": "Proteomic landscape of pan-tissue neuroendocrine carcinomas defines subtype-specific functional architectures, biomarkers and therapeutic targets.",
+  "title_ja": "全組織横断的神経内分泌癌のプロテオーム解析：サブタイプ特異的機能アーキテクチャ、バイオマーカー、治療標的の解明",
+  "journal": "Gut",
+  "year": "2026",
+  "authors": "Ge F, Wang Z, Zheng S ほか",
+  "summary": "本研究は、26の解剖学的部位に由来する267例の神経内分泌癌（NEC）を対象に、包括的なプロテオーム・リン酸化プロテオーム解析を実施した。統合解析により、主要転写因子（ASCL1、NEUROD1、HNF4A、POU2F3、YAP1）によって駆動される5つのANHPY転写サブタイプが再現され、各サブタイプがRB1の状態と相まって固有の分子的アイデンティティを形成することが示された。特に消化器膵NECを主体とするサブタイプHにおいてNAD+依存性という代謝脆弱性が発見され、NAMPT阻害薬の投与がin vivoで完全な腫瘍退縮を達成した。さらに4つの腫瘍微小環境サブタイプが同定され、「炎症型」サブタイプが免疫療法への良好な反応と関連することが示された。",
+  "key_points": [
+   "消化器膵NECを主体とするサブタイプH（HNF4A駆動）はNAD+生合成経路の内在的欠損を持ち、NAMPT阻害によりin vivoで完全腫瘍退縮が得られるという新規治療標的が同定された。",
+   "腫瘍微小環境の「炎症型」サブタイプは免疫療法への優れた反応と関連しており、組織横断的に患者層別化に使用できる炎症シグネチャーが確立された。",
+   "組織・血漿プロテオームおよび細胞分泌プロテオームの統合解析により、各サブタイプ特異的な診断・治療バイオマーカー候補が提示された。"
+  ],
+  "clinical_relevance": "消化器膵NECは予後不良で治療選択肢が限られており、本研究で示されたサブタイプ分類や免疫療法反応予測シグネチャーは、将来的な精密医療の実現に直結する知見として専門研修において重要な基礎知識となる。",
+  "study_type": "その他",
+  "tags": [
+   "神経内分泌腫瘍",
+   "消化器膵NEC",
+   "プロテオーム解析",
+   "精密医療"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42648907/",
+  "doi_url": "https://doi.org/10.1136/gutjnl-2026-339593",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-08-27",
   "pmid": "42642218",
   "title": "Childhood exposure to a sibling with Crohn's disease alters gut microbiome and Crohn's disease susceptibility.",

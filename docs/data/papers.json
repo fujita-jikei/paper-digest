@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-08-30",
+  "pmid": "42667281",
+  "title": "American Society for Gastrointestinal Endoscopy guideline on the role of endoscopy in acute lower gastrointestinal bleeding.",
+  "title_ja": "急性下部消化管出血における内視鏡の役割に関する米国消化器内視鏡学会（ASGE）診療ガイドライン",
+  "journal": "Gastrointest Endosc",
+  "year": "2026",
+  "authors": "Forbes N, Coelho-Prabhu N, Osman H ほか",
+  "summary": "本ガイドラインは、急性下部消化管出血（LGIB）の診断・管理における内視鏡の役割について、GRADE（Grading of Recommendations Assessment, Development, and Evaluation）フレームワークを用いて作成されたASGEの臨床診療ガイドラインである。主要な臨床疑問として、大腸内視鏡対CT±血管造影の第一選択モダリティ、緊急対非緊急大腸内視鏡、前処置あり対なし大腸内視鏡について検討している。さらに憩室出血に対しては、内視鏡的バンド結紮対クリッピング、出血部位・血管への直接クリッピング対憩室の間接的クリップ閉鎖について評価している。本ガイドラインは上部消化管内視鏡や外科的治療の役割、大腸内視鏡の絶対的・相対的禁忌、病変タイプ別の内視鏡的止血モダリティの使用根拠についても概説している。",
+  "key_points": [
+   "急性LGIBにおける第一選択モダリティ（大腸内視鏡 vs CT±血管造影）、内視鏡施行タイミング（緊急 vs 非緊急）、腸管前処置の要否について、GRADEフレームワークに基づいたエビデンスベースの推奨が示されている。",
+   "憩室出血に対しては、バンド結紮とクリッピング、直接クリッピングと間接クリップ閉鎖を比較した推奨が提示されており、病変特性に応じた内視鏡的治療戦略の選択指針が示されている。",
+   "大腸内視鏡の絶対的・相対的禁忌が明確化されており、上部消化管内視鏡や外科的介入を考慮すべき状況も整理されている。"
+  ],
+  "clinical_relevance": "急性下部消化管出血の診療において、初期評価から内視鏡的治療戦略の選択まで実臨床に直結する推奨が網羅されており、消化器内科専門医を目指す医師にとって診断・治療の標準的指針として活用できる。特に憩室出血の内視鏡的止血法の選択に関する推奨は、日常診療における意思決定に直接役立つ内容である。",
+  "study_type": "ガイドライン",
+  "tags": [
+   "下部消化管出血",
+   "大腸内視鏡",
+   "憩室出血",
+   "止血治療"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42667281/",
+  "doi_url": "https://doi.org/10.1016/j.gie.2026.06.046",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-08-30",
+  "pmid": "42665112",
+  "title": "Serious infections in patients with inflammatory bowel disease and corticosteroids: A propensity score-matched study.",
+  "title_ja": "炎症性腸疾患患者におけるコルチコステロイドと重篤感染症：傾向スコアマッチング研究",
+  "journal": "Clin Gastroenterol Hepatol",
+  "year": "2026",
+  "authors": "Forss A, Axelrad J, Söderling J ほか",
+  "summary": "本研究は、スウェーデンの全国レジストリ（2007〜2024年）を用いて、炎症性腸疾患（IBD）患者における治療薬別・コルチコステロイド併用別の重篤感染症リスクを評価したコホート研究である。免疫調節薬・先進治療薬（TNF阻害薬、抗インテグリン薬、抗インターロイキン薬、JAK阻害薬）を含む複数の治療群を対象に、傾向スコアマッチングを用いて解析した結果、コルチコステロイド使用期間はいずれの治療群においても非使用期間と比較して重篤感染症リスクが有意に高く、一般人口との比較でaHRは4.52〜15.86、同一治療群内でのマッチド比較でもaHRは1.82〜3.60（発生率差：3.9〜8.5/100人年）であった。相対リスクは小児で最も高く、コルチコステロイドの累積投与量の増加に伴いリスクも増大した。これらの結果は、IBD患者に対する感染リスク評価と個別化感染予防戦略の立案に重要な根拠を提供する。",
+  "key_points": [
+   "コルチコステロイド使用はIBDの全治療群において重篤感染症リスクを有意に増加させ、一般人口との比較でaHRは最大15.86に達する。",
+   "コルチコステロイドによる感染リスクの相対的増加は小児で最も高く、累積投与量依存性が確認された。",
+   "先進治療薬（TNF阻害薬・JAK阻害薬等）を含むすべての治療カテゴリーにおいて、コルチコステロイド併用が独立したリスク因子となっている。"
+  ],
+  "clinical_relevance": "IBD診療においてコルチコステロイドの長期・高用量使用を避け、早期の治療最適化（ステロイドフリー寛解）を目指すことの重要性を定量的に裏付けるデータであり、特に小児IBDや免疫抑制療法中の患者では感染予防策（ワクチン接種等）の個別化が求められる。",
+  "study_type": "コホート",
+  "tags": [
+   "IBD",
+   "コルチコステロイド",
+   "重篤感染症",
+   "傾向スコアマッチング"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42665112/",
+  "doi_url": "https://doi.org/10.1016/j.cgh.2026.08.019",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-08-30",
+  "pmid": "42664999",
+  "title": "Post-Endoscopy Upper Gastrointestinal Cancer in a United States Multicenter Cohort: Site- and Risk-Stratified Trends and Survival.",
+  "title_ja": "米国多施設コホートにおける上部消化管内視鏡後上部消化管癌：部位別・リスク層別の動向と生存率",
+  "journal": "Endoscopy",
+  "year": "2026",
+  "authors": "Fakhoury B, Jahagirdar V, Srinivasan S ほか",
+  "summary": "本研究は、2016〜2024年の米国多施設データベースから上部消化管癌（UGIC）患者14,814例を対象とした後ろ向きコホート研究である。内視鏡後上部消化管癌（PEUGIC）を「非診断的EGD施行後6〜36ヶ月以内に診断されたUGIC」と定義したところ、全体のPEUGIC率は9.4%（食道癌9.6%、胃癌8.6%、十二指腸癌10.7%）であり、高リスク病変（HRC）を有する群では18.2%と、HRCなし群の5.0%に比べ有意に高かった（P<0.001）。探索的解析では、PEUGICはEGD時点で診断された癌（Detected UGIC）と比較して食道癌（aHR 0.82）および胃癌（aHR 0.77）で良好な生存と関連し、またHRC合併PEUGIC群はHRCなしPEUGIC群より死亡リスクが低かった（食道癌aHR 0.51、胃癌aHR 0.50）。上部消化管癌患者の約10人に1人が3年以内に非診断的内視鏡検査を受けており、部位別・HRC別の層別化ベンチマークが内視鏡品質評価として有用である可能性が示された。",
+  "key_points": [
+   "上部消化管癌患者の約10人に1人（9.4%）が過去3年以内に非診断的EGDを受けており、PEUGICは重要な内視鏡品質指標である。",
+   "HRC（高リスク病変）を有する群のPEUGIC率（18.2%）はHRCなし群（5.0%）の約3.6倍高く、リスク層別での評価が不可欠である。",
+   "PEUGICはEGD時点での診断癌と比較して生存成績が良好であり、HRC合併例ではさらに死亡リスクが低く、サーベイランス強化の意義が示唆される。"
+  ],
+  "clinical_relevance": "上部消化管の内視鏡品質評価においてPEUGIC率を部位別・HRC有無別に層別化することで、より精度の高いベンチマーキングが可能となり、日常のサーベイランス体制の見直しや質改善活動に直結する情報を提供する。",
+  "study_type": "コホート",
+  "tags": [
+   "上部消化管癌",
+   "内視鏡品質指標",
+   "サーベイランス",
+   "PEUGIC"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42664999/",
+  "doi_url": "https://doi.org/10.1055/a-2948-3126",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-08-29",
   "pmid": "42663669",
   "title": "Semaglutide in Japanese participants with metabolic dysfunction-associated steatohepatitis: a subgroup analysis of the ESSENCE trial.",

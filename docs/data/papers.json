@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-08-31",
+  "pmid": "42669112",
+  "title": "Efficacy and safety of upadacitinib for Crohn's disease in patients in East Asia: a post hoc analysis of randomized phase 3 studies.",
+  "title_ja": "東アジア患者におけるクローン病に対するウパダシチニブの有効性と安全性：第3相ランダム化試験のpost hoc解析",
+  "journal": "J Gastroenterol",
+  "year": "2026",
+  "authors": "Chen M, Gao X, Watanabe K ほか",
+  "summary": "本研究は、中等度から重度の活動性クローン病（CD）患者を対象とした第3相試験（U-EXCEL、U-EXCEED、U-ENDURE）における東アジア患者サブグループのpost hoc解析である。寛解導入試験（12週間）では、東アジア患者204例においてウパダシチニブ45mg群はプラセボ群と比較してCDAIによる臨床的寛解率（50.7% vs 20.6%）および内視鏡的反応率（61.8% vs 10.3%）で有意に優れた結果を示した。維持試験（52週間）においても、ウパダシチニブ15mg群・30mg群はプラセボ群（CDAIによる臨床的寛解率8.8%、内視鏡的反応率5.9%）に対してそれぞれ良好な成績（寛解率41.5%・54.8%、内視鏡的反応率28.6%・45.2%）を示した。安全性プロファイルは全世界の第3相試験集団と一致しており、東アジア患者においても良好なベネフィット・リスクバランスが確認された。",
+  "key_points": [
+   "東アジア患者においても、ウパダシチニブ45mgによる寛解導入療法は臨床的寛解・内視鏡的反応の両面でプラセボを大きく上回る効果を示した。",
+   "維持療法ではウパダシチニブ30mg群が15mg群よりも高い臨床的寛解率・内視鏡的反応率を示し、用量依存的な効果が示唆された。",
+   "東アジア患者における安全性プロファイルはグローバル集団と一致しており、特段の安全上の懸念は認められなかった。"
+  ],
+  "clinical_relevance": "日本を含む東アジアのクローン病患者においても、ウパダシチニブは有効かつ安全に使用できることが示されており、既存治療に不応な中等度〜重度CD患者への経口JAK阻害薬の導入を検討する際の根拠となる。",
+  "study_type": "RCT",
+  "tags": [
+   "IBD",
+   "クローン病",
+   "JAK阻害薬",
+   "東アジア"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42669112/",
+  "doi_url": "https://doi.org/10.1016/S0140-6736(22)00581-5",
+  "pmc_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/12352179/"
+ },
+ {
+  "date": "2026-08-31",
+  "pmid": "42667933",
+  "title": "Types of Self-Expandable Metal Stents for Palliative Drainage of Unresectable Extrahepatic Malignant Biliary Obstruction: A Network Meta-Analysis of Randomized Controlled Trials.",
+  "title_ja": "切除不能肝外悪性胆道閉塞に対する姑息的ドレナージにおける自己拡張型金属ステントの種類の比較：無作為化比較試験のネットワークメタ解析",
+  "journal": "Endoscopy",
+  "year": "2026",
+  "authors": "Simadibrata DM, Guralwar C, Aggarwal M ほか",
+  "summary": "本研究は、切除不能肝外悪性胆道閉塞（MBO）に対するERCPを用いたドレナージにおいて、完全被覆型（FCSEMS）・部分被覆型（PCSEMS）・非被覆型（UCSEMS）の自己拡張型金属ステント（SEMS）を比較するため、10件のRCT（計1,659例）を対象にネットワークメタ解析を実施した。胆道再閉塞（RBO）までの期間、RBO発生率、全生存期間（OS）はいずれのステント種類間でも有意差を認めなかった。ステント移動・腫瘍過成長・スラッジ閉塞はUCSEMSで最も少なく、腫瘍内増殖はFCSEMSで最も効果的に予防された。一方、胆嚢温存例においてFCSEMSはUCSEMSと比較して急性胆嚢炎の発生率が有意に高く、慎重な患者選択が必要であることが示された。",
+  "key_points": [
+   "RBO・全生存期間・急性胆嚢炎を除く有害事象の発生率は、FCSEMS・PCSEMS・UCSEMSの3種類間で有意差は認められなかった。",
+   "FCSEMSは胆嚢温存例において急性胆嚢炎リスクが有意に高く（UCSEMSとの比較でPCSEMSでは有意差なし）、ステント選択時に胆嚢の状態を考慮することが重要である。",
+   "各ステント種類には固有の長所・短所があり（UCSEMSは移動・過成長・スラッジ閉塞が少なく、FCSEMSは腫瘍内増殖予防に優れる）、症例ごとの個別化選択が求められる。"
+  ],
+  "clinical_relevance": "切除不能悪性胆道閉塞に対するERCPステント選択において、胆嚢温存例ではFCSEMSによる急性胆嚢炎リスクを念頭に置いた患者選択が日常診療上重要であり、消化器内科専攻医がステント特性を理解する上で有用な根拠となる。",
+  "study_type": "メタ解析",
+  "tags": [
+   "胆道ドレナージ",
+   "金属ステント",
+   "悪性胆道閉塞",
+   "内視鏡"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42667933/",
+  "doi_url": "https://doi.org/10.1055/a-2948-9408",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-08-31",
+  "pmid": "42660205",
+  "title": "The CA19-9 glycan is a viable target for CAR T cell therapy in pancreatic and other solid tumors.",
+  "title_ja": "CA19-9糖鎖は膵臓癌およびその他の固形腫瘍に対するCAR T細胞療法の有望な標的である",
+  "journal": "Gastroenterology",
+  "year": "2026",
+  "authors": "Mo F, Good AL, McDevitt JC ほか",
+  "summary": "本研究では、膵管腺癌（PDAC）および消化管腫瘍に広く発現する腫瘍抗原であるCA19-9糖鎖を標的とするCAR T細胞の設計と抗腫瘍効果を検討した。異なるscFvおよび細胞内シグナルドメインを持つ14種類のCAR構築物をスクリーニングした結果、AbLIFT15.28zと命名した1つの最適構成が強力なT細胞増殖と効率的な腫瘍細胞傷害活性を示した。ヒトPDAC細胞株および患者由来オルガノイド（PDOs）を用いた実験では、CA19-9を発現する癌細胞に限定した細胞傷害性がin vitro・in vivoの両条件で確認され、免疫適格マウスモデルでは原発巣・転移巣の両方に対して有意な抗腫瘍効果が観察された。さらに、大腸・胃・食道・胆道系のCA19-9発現腫瘍に対しても強力かつ特異的な抗腫瘍効果が認められ、複数の前臨床モデルにおいてCA19-9 CAR T細胞の有効性が実証された。",
+  "key_points": [
+   "14種類の候補CAR構築物の中からAbLIFT15.28zが最適設計として選定され、CA19-9発現腫瘍に対して特異的な細胞傷害活性を示した。",
+   "効果はPDACに限らず、大腸・胃・食道・胆道系などCA19-9を発現する複数の消化管腫瘍に対しても確認された。",
+   "免疫適格マウスモデルで原発巣・転移巣の両方に対して有意な抗腫瘍効果が示され、臨床開発への合理的根拠が提供された。"
+  ],
+  "clinical_relevance": "有効な全身療法が乏しい膵癌・胆道癌などの難治性消化器癌に対して、CA19-9を標的としたCAR T細胞療法が新たな治療戦略となる可能性があり、消化器内科医として今後の臨床試験の動向を注視する必要がある。",
+  "study_type": "その他",
+  "tags": [
+   "膵臓癌",
+   "CAR T細胞療法",
+   "CA19-9",
+   "消化管腫瘍"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42660205/",
+  "doi_url": "https://doi.org/10.1053/j.gastro.2026.08.014",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-08-30",
   "pmid": "42667281",
   "title": "American Society for Gastrointestinal Endoscopy guideline on the role of endoscopy in acute lower gastrointestinal bleeding.",

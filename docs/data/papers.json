@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-09-03",
+  "pmid": "42683623",
+  "title": "ACG Clinical Guideline: Diagnosis and Management of Adenomatous Colorectal Polyposis Syndromes.",
+  "title_ja": "ACG臨床ガイドライン：腺腫性大腸ポリポーシス症候群の診断と管理",
+  "journal": "Am J Gastroenterol",
+  "year": "2026",
+  "authors": "Mankaney G, Idos GE, Stoffel EM ほか",
+  "summary": "本ガイドラインは、遺伝性腺腫性大腸ポリポーシス症候群（家族性腺腫性ポリポーシス〔FAP〕およびMUTYH関連ポリポーシス〔MAP〕を中心とする）の診断・管理に関するACG（米国消化器学会）の実践的指針である。これらの症候群は遺伝形式・発症年齢・表現型・癌リスクが異なり、大腸・直腸・十二指腸・乳頭部・胃を含む消化管に主たる癌リスクを有する。GRADEメソドロジーを用いて、リスク評価の対象選定、生殖細胞系列遺伝子検査の方法とタイミング、内視鏡的・外科的介入による癌リスク低減、化学予防の役割について推奨を提示している。前回ガイドライン以降の管理の更新点も含め、遺伝子検査結果の有無にかかわらない管理戦略が示されている。",
+  "key_points": [
+   "個人・家族歴によるリスク評価と生殖細胞系列遺伝子検査を組み合わせることで、症候群の早期同定と癌発症率・死亡率の低減が可能となる。",
+   "FAPおよびMAPを中心に、大腸外病変を含む良性・悪性の表現型についても包括的に解説されており、内視鏡的および外科的介入のタイミングに関する指針が提供されている。",
+   "表現型的ポリポーシスを有する患者における遺伝子検査のアプローチと、家族内に既知の病的バリアントが確認されている場合の無症状者への発症前診断の意義が強調されている。"
+  ],
+  "clinical_relevance": "消化器内科医はFAPやMAPを含む遺伝性ポリポーシス症候群を日常診療で疑う機会があり、本ガイドラインはサーベイランス内視鏡の適応・時期や外科的介入の判断基準を習得するうえで専門研修に直結する内容である。",
+  "study_type": "ガイドライン",
+  "tags": [
+   "大腸ポリポーシス",
+   "遺伝性腫瘍症候群",
+   "家族性腺腫性ポリポーシス",
+   "内視鏡サーベイランス"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42683623/",
+  "doi_url": "https://doi.org/10.14309/ajg.0000000000004105",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-09-03",
+  "pmid": "42680074",
+  "title": "Individualized targeted exclusion diet based on confocal laser endomicroscopy does not improve irritable bowel syndrome symptoms: a randomized controlled crossover trial.",
+  "title_ja": "共焦点レーザー顕微内視鏡に基づく個別化除去食はIBS症状を改善しない：無作為化対照クロスオーバー試験",
+  "journal": "Gastroenterology",
+  "year": "2026",
+  "authors": "Balsiger LM, Schol J, Raymenants K ほか",
+  "summary": "本研究は、過敏性腸症候群（IBS）患者において共焦点レーザー顕微内視鏡（CLE）で同定された食物誘発性粘膜変化に基づく個別化除去食の有効性を、二重盲検無作為化対照クロスオーバー試験で検証した。IBS患者はCLEで変化を認めた食物を除去する「実除去食」と変化を認めなかった食物を除去する「偽除去食」を各4週間実施したが、臨床的改善率（IBS-SSSで50点以上の改善）は実除去食42%対偽除去食36%（OR=1.33、p=0.6）と有意差を認めなかった。さらに、健康成人ボランティア15名においても100%の検査でCLEによる粘膜変化が観察された。以上より、CLEで観察される急性粘膜変化はIBS患者における食事反応に対する感度・特異度が低く、食物暴露に対する非特異的な粘膜反応を反映している可能性が高い。",
+  "key_points": [
+   "CLEで同定されたトリガー食品に基づく除去食は、偽除去食と比較してIBS症状を有意に改善しなかった（改善率42% vs 36%、p=0.6）。",
+   "健康成人ボランティアの100%においても食物投与後にCLEによる粘膜変化が観察されており、この所見はIBS特有の病態ではなく非特異的反応である可能性が高い。",
+   "症状改善はreal食・sham食ともに認められ（IBS-SSS −30 vs −20、p=0.7）、プラセボ効果や自然経過の影響が示唆される。"
+  ],
+  "clinical_relevance": "CLEを用いてIBS患者のトリガー食品を特定するという臨床応用は、本試験の結果によって根拠が否定されており、消化器内科専門医はCLEをIBS診療における食事指導ツールとして推奨することに慎重であるべきである。",
+  "study_type": "RCT",
+  "tags": [
+   "IBS",
+   "共焦点レーザー顕微内視鏡",
+   "除去食",
+   "機能性消化管疾患"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42680074/",
+  "doi_url": "https://doi.org/10.1053/j.gastro.2026.08.026",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-09-03",
+  "pmid": "42680048",
+  "title": "Prevalence and Progression of Subtypes of Gastric Premalignant Lesions: A Systematic Review & Meta-Analysis.",
+  "title_ja": "胃前癌病変サブタイプの有病率と進行：系統的レビューとメタ解析",
+  "journal": "Clin Gastroenterol Hepatol",
+  "year": "2026",
+  "authors": "Grell Y, Mülder DT, Hahn AI ほか",
+  "summary": "本研究は、胃腸上皮化生（IM）および異形成のサブタイプの世界的な有病率と胃癌（GC）への進行率を明らかにするため、83研究（有病率）および23研究（進行率）を対象に系統的レビューとメタ解析を実施した。完全型IMの有病率は11%、不完全型IMは10%であったが、GCへの進行率は不完全型（12.15/1000人年）が完全型（1.73/1000人年）の約7倍と有意に高かった（p<0.01）。低異形成（LGD）の有病率は2%、高異形成（HGD）は0.28%であり、進行率はそれぞれ11.55および344.48/1000人年とHGDで著しく高かった（p<0.01）。一方、限局型IMと広範型IMの進行率には有意差は認められなかった（p=0.80）。",
+  "key_points": [
+   "不完全型IMは完全型IMと有病率がほぼ同等（10% vs 11%）であるにもかかわらず、GCへの進行率は約7倍高く、臨床的に重要なリスク因子である。",
+   "高異形成（HGD）のGC進行率は344.48/1000人年と極めて高く、低異形成（LGD）の11.55/1000人年と比べて質的に異なるリスクを有する。",
+   "IMのサブタイプ分類（完全型/不完全型）は進行リスクの層別化に有用であるが、現在の臨床現場では十分に活用されていない。"
+  ],
+  "clinical_relevance": "内視鏡検査時に胃前癌病変のサブタイプ（完全型/不完全型IM、LGD/HGD）を積極的に評価・記録することが、胃癌リスクの適切な層別化と管理指針の策定において重要であることを示唆している。消化器内科専門医はこれらのサブタイプを日常診療でより積極的に活用すべきである。",
+  "study_type": "メタ解析",
+  "tags": [
+   "胃癌",
+   "内視鏡",
+   "腸上皮化生",
+   "前癌病変"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42680048/",
+  "doi_url": "https://doi.org/10.1016/j.cgh.2026.08.020",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-09-02",
   "pmid": "42678758",
   "title": "Do Patients on Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists Require Longer Fasting Prior to Vibration Controlled Transient Elastography?",

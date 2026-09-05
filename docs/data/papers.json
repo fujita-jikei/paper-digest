@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-09-06",
+  "pmid": "42692059",
+  "title": "Biliary stricture management: European Society of Gastrointestinal Endoscopy (ESGE) Guideline.",
+  "title_ja": "胆道狭窄の管理：欧州消化器内視鏡学会（ESGE）ガイドライン",
+  "journal": "Endoscopy",
+  "year": "2026",
+  "authors": "Lemmers A, Tringali A, Teles de Campos S ほか",
+  "summary": "本論文は欧州消化器内視鏡学会（ESGE）による胆道狭窄管理に関する最新ガイドラインであり、良性・悪性胆道狭窄の双方を対象としている。良性胆道狭窄については、胆嚢摘出後狭窄や肝移植後吻合部狭窄には複数プラスチックステント（MPS）または全被覆型自己拡張金属ステント（FCSEMS）を、慢性膵炎による狭窄にはFCSEMSを6〜12か月留置することを提案している。悪性胆道狭窄においては、切除可能・不能を問わず遠位部閉塞には径10mmの金属ステント（SEMS）の内視鏡的留置を推奨し、肝門部狭窄ではBismuth I〜IIにはERCPによるドレナージを、Bismuth III〜IVにはERCPとEUS-BDの併用を優先し、生存可能な非萎縮肝容積の50%以上（理想的には70%以上）のドレナージを目標とすることを提案している。ERCPが失敗または施行不能な場合には、PTBDよりもEUS-BDを推奨している。",
+  "key_points": [
+   "良性胆道狭窄（胆嚢摘出後・肝移植後吻合部狭窄）ではMPSが基本で、主肝管合流部から2cm以上遠位の狭窄やERCP繰り返しが困難な症例ではFCSEMSを選択肢として考慮する。",
+   "原発性硬化性胆管炎による高度胆道狭窄にはバルーン拡張単独が推奨され、ステント留置は有害事象のリスクを高める可能性があるため追加すべきでない。",
+   "ERCPが失敗または不能な悪性胆道狭窄ではPTBDよりもEUS-BDが推奨され、十二指腸狭窄合併例ではEUS下肝胃吻合術（EUS-HGS）が提案される。"
+  ],
+  "clinical_relevance": "胆道狭窄の診療に携わる消化器内科医・内視鏡専門医にとって、良性・悪性いずれの胆道狭窄においても内視鏡的アプローチの選択基準や手技の優先順位を示す実践的な指針となる。特にEUS-BDの位置づけが明確化されており、高度な内視鏡技術の習得が今後の専門研修においてより重要となる。",
+  "study_type": "ガイドライン",
+  "tags": [
+   "胆道狭窄",
+   "ERCP",
+   "EUS-BD",
+   "胆道ドレナージ"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42692059/",
+  "doi_url": "https://doi.org/10.1055/a-2921-6492",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-09-06",
+  "pmid": "42692037",
+  "title": "Germline multigene panel testing for colorectal cancer: a systematic review and meta-analysis.",
+  "title_ja": "大腸癌における生殖細胞系列マルチ遺伝子パネル検査：システマティックレビューとメタ解析",
+  "journal": "Lancet Gastroenterol Hepatol",
+  "year": "2026",
+  "authors": "Mannucci A, Puzzono M, Marzocca G ほか",
+  "summary": "本研究は、大腸癌患者における生殖細胞系列マルチ遺伝子パネル検査の診断率を定量化するため、6,925例を含む21件の研究を対象にシステマティックレビューおよびメタ解析を実施した。全体における病原性バリアントの検出率は15.2%（95%CI 12.8–18.1）であり、高浸透度バリアントは7.9%、大腸癌関連高浸透度バリアントは5.4%に認められた。早期発症例（診断時年齢50歳未満）では検出率がさらに高く（任意の病原性バリアント17.7%、高浸透度大腸癌関連バリアント12.2%）、高浸透度バリアントの検出率は67歳（95%CI 59–75歳）まで5%以上を維持していた。これらの結果は、早期発症例に限らず、より広い年齢層の大腸癌患者に対してユニバーサルなパネル検査を実施することの根拠となりうる。",
+  "key_points": [
+   "大腸癌と診断された患者全体の約15%に病原性または病原性疑い生殖細胞系列バリアントが検出され、その診断率はパネルサイズや発表年に関わらず一定であった。",
+   "高浸透度生殖細胞系列バリアントの検出率は67歳まで一般的な検査実施閾値（5%）を上回っており、50歳以上の患者にも積極的な検査が正当化される可能性がある。",
+   "大腸癌の第一度近親者の家族歴は全体的な検出率および大腸癌特異的バリアント検出率と正の相関を示したが、大腸癌以外の遺伝子バリアント検出率とは相関しなかった。"
+  ],
+  "clinical_relevance": "大腸癌患者において年齢や家族歴によらないユニバーサルな生殖細胞系列パネル検査の導入を検討する際の重要なエビデンスとなり、遺伝性腫瘍の拾い上げや家族への二次的恩恵（カスケード検査）につながる可能性がある。消化器内科専門医として遺伝カウンセリングや遺伝子検査の適応を適切に判断するための基盤知識として必須の知見である。",
+  "study_type": "メタ解析",
+  "tags": [
+   "大腸癌",
+   "遺伝性腫瘍",
+   "マルチ遺伝子パネル検査",
+   "生殖細胞系列変異"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42692037/",
+  "doi_url": "https://doi.org/10.1016/S2468-1253(26)00187-1",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-09-06",
+  "pmid": "42685962",
+  "title": "Radiological primary sclerosing cholangitis in incident inflammatory bowel disease- a prospective Copenhagen IBD Inception Cohort study.",
+  "title_ja": "新規炎症性腸疾患における放射線学的原発性硬化性胆管炎――コペンハーゲンIBD発症コホートの前向き研究",
+  "journal": "Clin Gastroenterol Hepatol",
+  "year": "2026",
+  "authors": "Attauabi M, Madsen GR, Møller J ほか",
+  "summary": "本研究は、デンマークの特定地域で2021〜2023年に新規診断された成人IBD患者527例を対象とした前向き人口ベース発症コホート研究である。MRCPを受けた389例（73.8%）のうち、放射線学的PSCは31例（8.0%；UC 6.6%、CD 10.2%）に診断され、非確定的PSC様病変を含めると合計9.8%（約10人に1人）に認められた。PSCと診断された患者の51.6%のみが肝生化学異常を示しており、PSCは広範性大腸炎（12.3% vs 4.3%、p=0.02）や、IBD関連入院（41.9% vs 23.4%、p=0.03）・生物学的製剤使用（38.7% vs 21.4%、p=0.03）の増加と関連していた。以上より、IBD発症時における放射線学的PSCの負担は従来の想定より高い可能性があるが、長期的な臨床的意義については今後の検討が必要である。",
+  "key_points": [
+   "新規IBD患者の約10人に1人（9.8%）に放射線学的PSCまたはPSC様病変が認められ、そのうち約半数は肝生化学検査が正常であったため、生化学検査のみによるスクリーニングには限界がある。",
+   "放射線学的PSCを有するIBD患者は、IBD関連入院や生物学的製剤使用率が有意に高く、疾患経過がより重症である可能性が示唆された。",
+   "IBD診断時のMRCPスクリーニングは臨床的に有益な可能性があるが、長期フォローアップデータおよび費用対効果分析による検証が推奨前に必要である。"
+  ],
+  "clinical_relevance": "IBD新規診断時に肝生化学検査が正常であってもPSCが存在しうるため、消化器内科医はMRCPによる胆管評価の重要性を認識しておく必要がある。現時点ではルーチンスクリーニングとしての推奨には至っていないが、PSCの早期発見と適切な管理方針の策定に向けた診療姿勢が求められる。",
+  "study_type": "コホート",
+  "tags": [
+   "IBD",
+   "原発性硬化性胆管炎",
+   "MRCP",
+   "潰瘍性大腸炎"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42685962/",
+  "doi_url": "https://doi.org/10.1016/j.cgh.2026.08.027",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-09-05",
   "pmid": "42696127",
   "title": "B cell receptor-associated protein 31 levels in serum-derived extracellular vesicles are associated with therapeutic response and prognosis in patients with advanced hepatocellular carcinoma receiving atezolizumab plus bevacizumab: a multicenter study.",

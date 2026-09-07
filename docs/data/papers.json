@@ -1,5 +1,31 @@
 [
  {
+  "date": "2026-09-08",
+  "pmid": "42704427",
+  "title": "A PRK-armed oncolytic adenovirus drives calreticulin exposure for dendritic cell licensing to prime antitumor CD8⁺ T cells and synergizes with anti-PD-1 or CAR-T therapy in colorectal cancer.",
+  "title_ja": "PRK搭載腫瘍溶解性アデノウイルスはカルレティキュリン露出を誘導して樹状細胞を活性化し、抗腫瘍CD8⁺T細胞を惹起するとともに、大腸癌において抗PD-1療法またはCAR-T療法との相乗効果を示す",
+  "journal": "J Gastroenterol",
+  "year": "2026",
+  "authors": "Liu Y, Ran B, Kong L ほか",
+  "summary": "本研究では、AKT阻害ペプチドPRKを共発現する新規腫瘍溶解性アデノウイルス「ADV-PRK」を作製し、大腸癌シンジェニックモデル（MC38、CT26）およびヒト化マウスモデルで評価した。ADV-PRKはAKTおよびその下流のERカルシウムチャネルIP3R3のリン酸化を抑制し、ERからのカルシウム流出を促進することでカルレティキュリン（CRT）の細胞表面への移行を誘導した。表面露出したCRTは「eat-me」シグナルとして機能し、樹状細胞を介した腫瘍特異的CD8⁺T細胞の活性化を促進することで単独療法でも優れた腫瘍制御効果を示し、さらに抗PD-1抗体およびCAR-T細胞療法との強力な相乗効果が in vivo で確認された。本研究は、AKT–IP3R3–Ca²⁺–CRT軸を標的とすることで「冷たい」免疫抑制性腫瘍微小環境を免疫療法に感受性のある環境へと転換できることを示す機序に基づいた治療戦略を提示している。",
+  "key_points": [
+   "ADV-PRKはAKT–IP3R3–Ca²⁺–CRTという新規免疫調節軸を介して腫瘍溶解性アデノウイルスが誘発する免疫抑制を解除し、CD8⁺T細胞依存性の抗腫瘍免疫を増強する。",
+   "ADV-PRKは抗PD-1抗体療法およびCAR-T細胞療法の両者と in vivo で相乗効果を示し、免疫療法抵抗性の克服に寄与する可能性がある。",
+   "ヒト化マウスモデルでの有効性が確認されており、臨床応用への翻訳可能性が示唆される。"
+  ],
+  "clinical_relevance": "免疫チェックポイント阻害薬の効果が限られる大腸癌患者において、ADV-PRKを用いた免疫微小環境のリモデリングは、抗PD-1療法やCAR-T療法との併用戦略として将来的な治療選択肢を拡大しうる。消化器腫瘍学・免疫療法を志向する専門医にとって、腫瘍溶解性ウイルスと既存免疫療法の合理的な組み合わせを理解する上で重要な基礎的知見となる。",
+  "study_type": "その他",
+  "tags": [
+   "大腸癌",
+   "腫瘍免疫",
+   "腫瘍溶解性ウイルス",
+   "免疫チェックポイント阻害薬"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42704427/",
+  "doi_url": "https://doi.org/10.1038/emboj.2011.497",
+  "pmc_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/3298003/"
+ },
+ {
   "date": "2026-09-07",
   "pmid": "42700275",
   "title": "Clinical practice guidelines for duodenal cancer 2025.",

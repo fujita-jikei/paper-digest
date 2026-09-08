@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-09-09",
+  "pmid": "42705698",
+  "title": "Excessive supragastric belching can be identified in up to one-fifth of patients with conclusive gastro-oesophageal reflux disease.",
+  "title_ja": "確定的な胃食道逆流症患者の最大5分の1に過剰な胃上部げっぷが認められる",
+  "journal": "Gut",
+  "year": "2026",
+  "authors": "Chan WW, Franz A, Garcia-Marmolejo JP ほか",
+  "summary": "本研究は、酸曝露時間（AET）>6%の確定的GERD患者580例を対象に、11施設の国際多施設横断研究として実施された。pH-インピーダンスモニタリングにより胃上部げっぷ（SGB）を評価した結果、107例（18.5%）に過剰なSGB（≥13回/24時間）が認められ、その割合は地域間で差がなかった（p=0.97）。過剰SGB関連GERDフェノタイプでは、総AETの24.6±2.2%がSGBに起因しており、総逆流エピソード数（TRE）が多く（p=0.0006）、SGB関連症状も多かった（p<0.0001）。ロジスティック回帰分析では高いTRE（OR 1.01）が過剰SGBの独立した予測因子であり、>115 TREまたは>56回の近位逆流エピソードが過剰SGBに対して90%以上の特異度を達成した。",
+  "key_points": [
+   "確定的GERD患者の約20%に過剰なSGBが存在し、そのAETの約25%がSGBに起因するため、SGBは病的逆流負荷に無視できない影響を与える。",
+   "TRE>115回または近位逆流エピソード>56回は過剰SGB関連GERDフェノタイプを90%以上の特異度で予測する臨床的指標となりうる。",
+   "胸焼けや胸痛といった知覚症状が主体の場合や遠位AETが高い場合は、過剰SGBの可能性が低い負の予測因子であることが示された。"
+  ],
+  "clinical_relevance": "pH-インピーダンスモニタリングの解析においてSGB由来の逆流を意識することで、難治性GERDの病態をより正確に把握し、行動療法や横隔膜呼吸トレーニングなどSGB特異的な治療選択につなげることができる。消化器内科専門医を目指す医師は、逆流エピソード数が多い症例ではSGBの関与を積極的に評価する習慣を身につけることが重要である。",
+  "study_type": "その他",
+  "tags": [
+   "GERD",
+   "胃上部げっぷ",
+   "pH-インピーダンスモニタリング",
+   "機能性消化管疾患"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42705698/",
+  "doi_url": "https://doi.org/10.1136/gutjnl-2026-339248",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-09-09",
+  "pmid": "42705697",
+  "title": "S1P-TREM2 axis protects immunosuppressive neutrophils from ferroptosis to promote tumour progression in hepatocellular carcinoma.",
+  "title_ja": "S1P-TREM2軸が免疫抑制性好中球をフェロトーシスから保護し、肝細胞癌の腫瘍進展を促進する",
+  "journal": "Gut",
+  "year": "2026",
+  "authors": "Ma J, Wu T, Chen D ほか",
+  "summary": "本研究は、肝細胞癌（HCC）腫瘍微小環境における腫瘍関連好中球（TANs）がフェロトーシス耐性を獲得するメカニズムを解明することを目的とした。ヒトHCC検体および複数のマウスHCCモデルを用いたマルチオミクス解析により、TANsは末梢好中球と比較して著明な脂質蓄積と酸化ストレスを示し、スフィンゴ脂質・不飽和脂肪酸代謝への再プログラムが生じることが明らかになった。腫瘍由来スフィンゴシン-1-リン酸（S1P）がTANsに選択的に発現するTREM2を活性化し、NRF2を介してGPX4およびSLC7A11の転写を誘導することでフェロトーシス耐性が維持され、CD8+T細胞機能が抑制されることが示された。TREM2の遺伝的欠失、腫瘍細胞SPHK1/2のCRISPR/Cas9ノックアウト、またはペプチドベースTREM2阻害薬がTANsをフェロトーシスに感受性にし、CD8+T細胞機能を回復させ、抗PD-1免疫療法の有効性を増強した。",
+  "key_points": [
+   "腫瘍微小環境においてGM-CSF-STAT3シグナルによって誘導されたTREM2がS1P刺激を受けNRF2-GPX4/SLC7A11軸を活性化し、TANsのフェロトーシス耐性と免疫抑制機能を維持するという新規のS1P-TREM2-NRF2回路が同定された。",
+   "臨床HCC検体においてTREM2陽性PMN-MDSCsは腫瘍内に濃縮され、SPHK1/2発現およびT細胞機能不全と相関し、患者予後不良と関連していた。",
+   "ペプチドベースのTREM2阻害薬はTANsを再プログラムしてCD8+T細胞機能を回復させ、抗PD-1免疫療法の有効性を増強することが示された。"
+  ],
+  "clinical_relevance": "免疫療法抵抗性が問題となっているHCC患者において、S1P-TREM2軸を標的とした治療戦略が抗PD-1療法との併用で新たな治療オプションとなり得る可能性を示しており、消化器内科医・肝臓専門医にとって今後の臨床応用を見据えた重要な基礎知見である。",
+  "study_type": "その他",
+  "tags": [
+   "肝細胞癌",
+   "腫瘍免疫",
+   "フェロトーシス",
+   "免疫療法"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42705697/",
+  "doi_url": "https://doi.org/10.1136/gutjnl-2025-337414",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-09-09",
+  "pmid": "42705693",
+  "title": "Blocking the gut-liver IgA axis attenuates macrophage-mediated inflammation and injury in alcohol-associated liver disease.",
+  "title_ja": "腸肝IgA軸の遮断はアルコール関連肝疾患におけるマクロファージ介在性炎症と肝障害を減弱させる",
+  "journal": "Gut",
+  "year": "2026",
+  "authors": "Kim MG, Tak KY, Seo DH ほか",
+  "summary": "本研究は、アルコール関連肝疾患（ALD）患者276例、慢性B型肝炎（CHB）患者177例、健常対照20例を対象とした単施設横断研究であり、循環IgAおよび肝臓内IgAと炎症・肝障害との関連を検討した。ALD患者の血清IgA中央値（323〜412 mg/dL）は健常者・CHB患者（194/211 mg/dL）より有意に高く（p<0.001）、血清IgAはCD68正規化IL1B転写量と相関した（ρ=0.383, p=0.008）。マウスモデルでは、免疫細胞トラフィッキング調節薬FTY720の投与により血清IgA（p<0.01）、IgA結合マクロファージ（p<0.001）、Il1b転写量（p<0.01）が低下し、エタノール誘発性肝障害（ALT/AST; p<0.05）が減弱した。さらに分泌型IgA（sIgA）とLPSで刺激した単球の上清はTNF-α/IL-1βがLPS単独より有意に高く（Δ+280/+798 pg/mL, p<0.01）、Huh7細胞のアポトーシスを増加させた（Δ+2.96%, p<0.01）。",
+  "key_points": [
+   "ALD患者では血清IgAが高値であり、肝臓内IgA沈着量と強く相関し（ρ=0.680, p<0.001）、肝内骨髄系細胞へのIgA結合がIL-1β関連炎症と関連していることが示された。",
+   "FTY720（フィンゴリモド）による免疫細胞トラフィッキングの薬理学的調節がIgA結合肝マクロファージの減少およびIL-1関連炎症の減弱と同時に認められ、ALDへの新たな治療標的となりうることが示唆された。",
+   "sIgAとLPSの共刺激はLPS単独に比べてTNF-αおよびIL-1βの産生を相加的に増強し、肝細胞アポトーシスを促進することがin vitroで確認された。"
+  ],
+  "clinical_relevance": "重症アルコール関連肝炎に対する有効な治療法が限られている現状において、腸肝IgA軸および肝骨髄系細胞のIgA結合が新たな治療標的となる可能性があり、消化器内科専門医として病態理解と今後の臨床試験の動向を把握しておくことが重要である。",
+  "study_type": "その他",
+  "tags": [
+   "アルコール関連肝疾患",
+   "肝臓免疫",
+   "IgA",
+   "マクロファージ"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42705693/",
+  "doi_url": "https://doi.org/10.1136/gutjnl-2026-338715",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-09-08",
   "pmid": "42704427",
   "title": "A PRK-armed oncolytic adenovirus drives calreticulin exposure for dendritic cell licensing to prime antitumor CD8⁺ T cells and synergizes with anti-PD-1 or CAR-T therapy in colorectal cancer.",

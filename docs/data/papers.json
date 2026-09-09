@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-09-10",
+  "pmid": "42710771",
+  "title": "Personalised prediction of the individual risk of liver-related events in MASLD using the dynamics of non-invasive tests.",
+  "title_ja": "非侵襲的検査の経時的変化を用いたMASLDにおける肝関連イベントの個別リスク予測",
+  "journal": "Clin Gastroenterol Hepatol",
+  "year": "2026",
+  "authors": "Moreau C, Roux M, Riou J ほか",
+  "summary": "本研究は、MASLD（代謝機能障害関連脂肪性肝疾患）患者における非侵襲的肝線維化検査の経時的変化を、肝関連イベント（LRE：肝硬変代償不全または肝細胞癌）の個別リスク予測に活用することを目的とした国際多施設コホート研究である。振動制御型瞬間エラストグラフィ（VCTE）による肝硬度測定（LSM）を受けたMASLD成人患者13,627例（追跡期間中央値4.0年、IQR：2.1〜5.9年）を対象に、238例のLREが発生した。Joint潜在クラスモデル（JLCM）を用いて、LSM軌跡・FIB-4・性別・年齢・血小板数を統合した動的予測を行った結果、統合AUROCはベースラインの88.2%から5年時点で92.2%まで向上し、各観察時点でLRE発生例の61〜80%が高リスクと同定された（LSMでは39〜56%、FIB-4では32〜60%）。JLCMは非侵襲的検査の経時変化を自動的に統合・解釈することで、組織学的代替指標の評価に留まらない、ハードアウトカムの個別リスク予測を可能にする。",
+  "key_points": [
+   "JLCMはLSM・FIB-4・性別・年齢・血小板数を統合した動的予測モデルであり、単独のLSMやFIB-4と比較してLRE高リスク患者の同定精度が大幅に向上した（LRE発生例の61〜80% vs LSM 39〜56% vs FIB-4 32〜60%）。",
+   "統合AUROCがベースライン88.2%から5年フォローアップ時点で92.2%へ上昇し、追跡期間が長くなるほど予測精度が向上するため、定期的な非侵襲的検査のフォローアップが重要である。",
+   "本モデルは組織学的代替指標（肝生検）ではなく、肝硬変代償不全・肝細胞癌というハードアウトカムを直接予測対象とすることで、臨床的に意義ある個別化リスク管理を実現する。"
+  ],
+  "clinical_relevance": "MASLDの日常診療においてLSMやFIB-4の経時変化をどう解釈するかは難しい課題であったが、本モデルを用いることで個々の患者のLRE発生リスクを定量的かつ個別化して予測でき、フォローアップ戦略や治療介入のタイミング決定に役立てられる可能性がある。消化器内科専攻医にとっても、非侵襲的検査の縦断的活用という新しい視点を学ぶ上で重要な知見である。",
+  "study_type": "コホート",
+  "tags": [
+   "MASLD",
+   "肝線維化",
+   "肝細胞癌",
+   "非侵襲的検査"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42710771/",
+  "doi_url": "https://doi.org/10.1016/j.cgh.2026.08.032",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-09-10",
+  "pmid": "42710770",
+  "title": "Influence of socioeconomic development on incidence and disease phenotype in inflammatory bowel disease: a population-based incident study across 16 regions.",
+  "title_ja": "社会経済的発展が炎症性腸疾患の罹患率および疾患表現型に与える影響：16地域を対象とした人口ベースの発症研究",
+  "journal": "Clin Gastroenterol Hepatol",
+  "year": "2026",
+  "authors": "Mak JWY, Ho AHY, Chan AKW ほか",
+  "summary": "本研究は、アフリカ・アジア・中南米・中東の16地域を対象に2021年10月から1年間実施した前向き人口ベースコホート研究であり、新興国におけるIBDの発症率・臨床的特徴と社会経済指標との関連を検討した。606例の新規発症例（CD 229例、UC 348例、IBD未分類29例）が登録され、粗年間発症率は香港が最高（IBD 7.43、CD 2.69、UC 3.44/10万人）、ベトナムが最低（0.13、0.04、0.08/10万人）であった。都市人口割合の10%増加ごとにIBD・CD・UCの発症率比はそれぞれ1.68・1.73・1.62と有意に上昇し、HDIおよびSDIはCD発症率と有意に相関（IRR各4.05・2.96）した一方、診断時の疾患活動性とは関連しなかった。またHDIおよびサブナショナルHDIが高い地域では肛門周囲病変を有するCDの頻度が有意に高く（調整OR各2.61・2.40）、地域の社会経済的発展との関連が示唆された。",
+  "key_points": [
+   "都市化率の上昇（10%増加ごと）はIBD・CD・UCすべての発症率比の増加と有意に関連しており、都市化がIBD発症の重要なリスク因子である可能性を示している。",
+   "HDIが高い地域ほど肛門周囲病変を伴うCDの頻度が高く（調整OR 2.61）、社会経済的発展が疾患表現型に影響する可能性がある。",
+   "社会経済指標はIBD発症率とは関連するが、診断時の疾患活動性や治療パターンとは有意な関連を認めず、発症後の疾患経過への影響は限定的である。"
+  ],
+  "clinical_relevance": "新興国・発展途上地域において都市化・経済発展に伴いIBD、特にCDの発症が増加することを示しており、地域特性に応じた早期診断戦略の構築が求められる。消化器内科専攻医は、IBDの疫学が地域の社会経済的背景と密接に関連することを念頭に置いて診療にあたることが重要である。",
+  "study_type": "コホート",
+  "tags": [
+   "IBD",
+   "クローン病",
+   "潰瘍性大腸炎",
+   "疫学"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42710770/",
+  "doi_url": "https://doi.org/10.1016/j.cgh.2026.08.031",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-09-10",
+  "pmid": "42710769",
+  "title": "Can Non-Invasive Test Dynamics Serve as Surrogate Endpoints for Histological Improvement in MASH? A Systematic Review and Bayesian Meta-Analysis.",
+  "title_ja": "MASHにおける非侵襲的検査の動態は組織学的改善の代替エンドポイントとなりうるか？系統的レビューとベイズメタ解析",
+  "journal": "Clin Gastroenterol Hepatol",
+  "year": "2026",
+  "authors": "Costa Passos PR, Costa Filho VO, de Faria Moraes B ほか",
+  "summary": "本研究は、代謝機能障害関連脂肪肝炎（MASH）の臨床試験において、肝硬度測定（LSM）、MRIによる肝脂肪含量（LFC）、FIB-4スコア、ELFスコアの変化が組織学的改善の代替エンドポイントとなりうるかを評価した系統的レビュー・ベイズメタ解析である。PubMedなど複数のデータベースから35件のRCTと3件の事後解析を対象に解析した結果、試験レベルのサロゲイシーとして、LFCのみがMASH消退（線維化悪化なし）に対して中等度の相関を示した（R²=62%、95%CrI 10%-95%）。一方、アウトカムレベルでは、LSMの30%低下が線維化改善（F4除外試験：OR 2.67、95%CrI 1.33-5.12）およびMASH消退（OR 2.46、95%CrI 1.16-4.66）と強く関連し、LFCの30%低下もMASH消退と有意に関連した（OR 1.92、95%CrI 1.14-3.20）。結論として、LFCとLSMの動態はアウトカムレベルで組織学的反応と関連するものの、試験レベルでの一貫したサロゲイシーは確立されておらず、非侵襲的検査の代替エンドポイントとしての利用には限界がある。",
+  "key_points": [
+   "MRIによる肝脂肪含量（LFC）は、MASH消退（線維化悪化なし）に対して試験レベルで中等度の代替指標性を示した唯一の非侵襲的検査であった（R²=62%）。",
+   "LSMの30%低下はアウトカムレベルで線維化改善およびMASH消退と強く関連したが、試験レベルでの代替指標性は限定的かつ不精確であった。",
+   "いずれの非侵襲的検査も一貫した試験レベルのサロゲイシーは確立されておらず、MASH臨床試験の主要エンドポイントとして肝生検を完全に代替するには現時点では不十分である。"
+  ],
+  "clinical_relevance": "MASH治療薬の開発・評価において非侵襲的検査の代替エンドポイントとしての活用が期待されているが、本研究はその限界を示しており、消化器内科医はNITの動態を補助的指標として活用しつつ、臨床試験では依然として肝生検が重要であることを認識する必要がある。",
+  "study_type": "メタ解析",
+  "tags": [
+   "MASH",
+   "非侵襲的検査",
+   "代替エンドポイント",
+   "肝線維化"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42710769/",
+  "doi_url": "https://doi.org/10.1016/j.cgh.2026.08.030",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-09-09",
   "pmid": "42705698",
   "title": "Excessive supragastric belching can be identified in up to one-fifth of patients with conclusive gastro-oesophageal reflux disease.",

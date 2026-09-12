@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-09-13",
+  "pmid": "42728030",
+  "title": "NCACC maps cross-sample spatial niches and reveals cIgG+ epithelial rare cells driving liver cancer invasion.",
+  "title_ja": "NCACCはサンプル横断的な空間ニッチをマッピングし、肝癌浸潤を駆動するcIgG陽性上皮希少細胞を同定する",
+  "journal": "Gut",
+  "year": "2026",
+  "authors": "Hai C, Hou Y, Yu S ほか",
+  "summary": "本研究では、異質な空間トランスクリプトーム데이터セット間で希少な悪性細胞集団を高精度に同定するための新規デュアルレイヤーフレームワーク「NCACC（Niche Cluster Atlas with Cellular Co-localisation）」を開発した。NCACCを包括的な肝癌トランスクリプトームアトラスに適用した結果、腫瘍浸潤前縁に富む癌由来IgG（cIgG）陽性上皮希少細胞集団が同定され、この細胞集団が増殖・浸潤能の亢進と疾患進行に関与することが示された。メカニズム解析により、STAT1依存性のcIgG-JAK-STATシグナル伝達軸がこの浸潤前縁表現型を維持し、cIgG陽性上皮細胞の攻撃的な振る舞いを促進することが明らかとなった。さらに、構造ベースのバーチャルスクリーニングと患者由来オルガノイドを用いた検証により、nordihydroguaiaretic acidとgallic aldehydeが治療候補化合物として同定された。",
+  "key_points": [
+   "NCACCは空間的組織構造と細胞組成を統合したフレームワークであり、単一サンプルに依存しない再現性の高いサンプル横断的なニッチモジュールの同定を可能にする。",
+   "肝癌の腫瘍浸潤前縁に局在するcIgG陽性上皮希少細胞はSTAT1依存性のJAK-STATシグナル軸を介して浸潤・進行を促進する治療標的として注目される。",
+   "患者由来オルガノイドを用いた検証により、nordihydroguaiaretic acidとgallic aldehydeがcIgG-JAK-STATシグナルの候補モジュレーターとして同定された。"
+  ],
+  "clinical_relevance": "肝癌における希少な浸潤促進細胞集団（cIgG陽性上皮細胞）とそのシグナル経路（JAK-STAT）が新たな治療標的として示されており、将来的な分子標的治療の開発や個別化医療につながる可能性がある。空間トランスクリプトミクスを活用した腫瘍微小環境の理解は、肝癌の治療抵抗性克服を目指す消化器内科医・腫瘍医にとって重要な視点を提供する。",
+  "study_type": "その他",
+  "tags": [
+   "肝細胞癌",
+   "空間トランスクリプトミクス",
+   "腫瘍微小環境",
+   "JAK-STAT"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42728030/",
+  "doi_url": "https://doi.org/10.1136/gutjnl-2026-338471",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-09-13",
+  "pmid": "42728029",
+  "title": "International expert panel review for the use of resmetirom and semaglutide in the management of MASH-related fibrosis: clinical practice update.",
+  "title_ja": "MASH関連線維化の管理におけるレスメチロムとセマグルチドの使用に関する国際専門家パネルレビュー：臨床実践アップデート",
+  "journal": "Gut",
+  "year": "2026",
+  "authors": "Mironova M, Ratziu V, Rinella ME ほか",
+  "summary": "本論文は、代謝機能障害関連脂肪性肝炎（MASH）に対して米国FDAが条件付き承認した2剤、レスメチロム（甲状腺ホルモン受容体β作動薬）とセマグルチド（GLP-1受容体作動薬）について、国際専門家パネルが臨床的枠組みを提示したレビューである。対象は有意な線維化を伴うMASH（F2〜F3、非代償性肝硬変なし）であり、これらは従来薬物療法が存在しなかった領域に初めて承認された治療薬である。本レビューは第III相試験データ・FDAラベル・臨床経験を統合し、非侵襲的検査による診断から治療選択・開始・モニタリング・治療反応評価までの全ケアパスを網羅する。また患者表現型に応じた治療個別化、すでにGLP-1 RAを使用中の患者への対応、効果不十分時の切り替えや併用基準についても実践的推奨を提示している。",
+  "key_points": [
+   "レスメチロムとセマグルチドは作用機序が相補的であり、MASHに対する初の薬物療法として有意な線維化（F2〜F3）を有する非肝硬変患者に条件付きFDA承認された。",
+   "本パネルは非侵襲的検査を用いた診断から治療反応評価・切り替え・併用判断までの包括的な臨床フレームワークを提示しており、患者表現型に応じた治療の個別化指針を含む。",
+   "本フレームワークは長期アウトカムデータの蓄積や新たなMASH治療薬の登場に伴い継続的に更新される予定である。"
+  ],
+  "clinical_relevance": "MASH関連線維化に対する薬物療法が臨床現場に導入される中、消化器内科医は非侵襲的診断・治療適応の判断・モニタリング戦略を習得する必要があり、本レビューはその実践的指針として直接活用できる。",
+  "study_type": "総説",
+  "tags": [
+   "MASH",
+   "肝線維化",
+   "GLP-1受容体作動薬",
+   "脂肪性肝疾患"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42728029/",
+  "doi_url": "https://doi.org/10.1136/gutjnl-2026-340031",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-09-13",
+  "pmid": "42728028",
+  "title": "Heterozygous germline mutations in MSH3, and probably MLH3, act as classical tumour suppressors, leading to excess somatic deletion mutations, signature ID4 and increased colorectal cancer risk.",
+  "title_ja": "MSH3およびMLH3のヘテロ接合型生殖細胞系列変異は古典的な腫瘍抑制因子として機能し、体細胞欠失変異の増加・シグネチャーID4・大腸癌リスク上昇をもたらす",
+  "journal": "Gut",
+  "year": "2026",
+  "authors": "Soriano I, Sherwood K, Ward JC ほか",
+  "summary": "本研究は、非典型的なDNAミスマッチ修復遺伝子であるMSH3およびMLH3の生殖細胞系列変異が大腸癌（CRC）リスクに与える影響を検討した。約12,000例のCRC・多発ポリープ症例と46万人の対照、さらに2,023例のがんゲノムシーケンスを解析した。その結果、MSH3ヘテロ接合体はCRCリスクが2.2倍（p=6.6×10⁻⁵）、MLH3ヘテロ接合体は1.6倍（p=0.028）に上昇しており、野生型アレルの体細胞性「セカンドヒット」による不活化が機序として同定された。MSH3またはMLH3の機能喪失を伴うCRCはマイクロサテライト安定（MSS）ながら高変異負荷を示し、2bp以上の欠失変異が約12倍に増加し、変異シグネチャーID4が高頻度で認められた（p<0.0001）。結論として、ヘテロ接合型MSH3/MLH3変異は不完全浸透性を持ちながらもPMS2変異型Lynch症候群に類似した表現型を呈し、古典的腫瘍抑制因子として機能することが示された。",
+  "key_points": [
+   "ヘテロ接合型MSH3生殖細胞系列変異はCRCリスクを2.2倍、MLH3変異は1.6倍に上昇させ、体細胞性セカンドヒットによる腫瘍形成機序はLynch症候群に類似する。",
+   "MSH3/MLH3欠損CRCはマイクロサテライト安定（MSS）でありながら高変異負荷・ID4変異シグネチャーを示すため、通常のMMR欠損検査では見逃される可能性がある。",
+   "単一のセカンドヒットがMSH3と隣接するAPC遺伝子を同時に不活化する例も認められ、腫瘍形成に対する複合的な影響が示唆された。"
+  ],
+  "clinical_relevance": "大腸癌・多発ポリープ症例の遺伝性素因評価において、従来のMMR遺伝子（MLH1, MSH2, MSH6, PMS2）に加えMSH3やMLH3のヘテロ接合型変異も検討対象とする必要があり、MSS高変異負荷腫瘍の病因解釈にも新たな視点を与える。",
+  "study_type": "症例対照",
+  "tags": [
+   "大腸癌",
+   "遺伝性大腸癌",
+   "DNAミスマッチ修復",
+   "Lynch症候群"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42728028/",
+  "doi_url": "https://doi.org/10.1136/gutjnl-2026-338390",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-09-12",
   "pmid": "42726107",
   "title": "The evolving landscape of chronic pancreatitis in Japan: findings from a nationwide epidemiological survey in 2021.",

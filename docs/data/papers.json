@@ -1,5 +1,57 @@
 [
  {
+  "date": "2026-09-16",
+  "pmid": "42742711",
+  "title": "NOTCH-mediated glial CXCL9:SPP1 polarization by GSK3β exacerbates postnatal enteric nervous system dysfunction in Hirschsprung disease.",
+  "title_ja": "GSK3βによるNOTCH介在性グリアCXCL9:SPP1極性化がヒルシュスプルング病における出生後腸管神経系機能障害を悪化させる",
+  "journal": "J Gastroenterol",
+  "year": "2026",
+  "authors": "Li Y, Wang Y, Tang C ほか",
+  "summary": "本研究は、先天性腸管疾患であるヒルシュスプルング病（HSCR）において異常高発現するグリコーゲン合成酵素キナーゼ3β（GSK3β）の病態における役割を解明することを目的とした。公開scRNA-seqデータの解析、臨床サンプルの組織病理学的観察、Ednrbノックアウトマウスモデルを用いたin vivo実験などを通じ、HSCRマウスサンプルでは腸管グリア細胞が著明に増加し、主にSPP1+サブポピュレーションとして存在し、そこでGSK3βが高発現しNOTCHシグナル経路が有意に濃縮されていることが示された。メカニズムとして、GSK3βはNOTCHシグナル経路を活性化することで腸管グリア細胞のCXCL9:SPP1（CS）極性化を促進し、腸管神経系（ENS）の発達異常を悪化させ、出生後のENS機能不全を増悪させることが明らかとなった。GSK3βのノックダウンはCS極性化を有意に抑制しNOTCHシグナルを遮断したことから、GSK3β–NOTCH軸がHSCR関連合併症の治療標的となりうることが示唆された。",
+  "key_points": [
+   "HSCRのマウスおよびヒト臨床サンプルにおいて、腸管グリア細胞はSPP1+サブポピュレーションとして著明に増加し、GSK3βの高発現およびNOTCHシグナルの有意な濃縮が認められた。",
+   "GSK3βはNOTCHシグナル経路を介してグリア細胞のCXCL9:SPP1極性化を促進し、ENSの発達異常を増悪させ、HSCR関連合併症（術後排便機能障害など）を悪化させる可能性がある。",
+   "GSK3βノックダウンはCS極性化を有意に抑制しNOTCHシグナルを遮断したことから、GSK3β–NOTCH軸が新たな治療標的として期待される。"
+  ],
+  "clinical_relevance": "ヒルシュスプルング病は外科的治療後も排便機能障害が頻発するが、本研究はGSK3β–NOTCHシグナル軸が術後合併症の病態に関与することを示しており、将来的な薬物療法開発の基盤となりうる。消化器内科医として小児腸管神経疾患の病態理解を深める上で重要な知見である。",
+  "study_type": "その他",
+  "tags": [
+   "ヒルシュスプルング病",
+   "腸管神経系",
+   "グリア細胞",
+   "NOTCHシグナル"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42742711/",
+  "doi_url": "https://doi.org/10.1016/j.ebiom.2025.105680",
+  "pmc_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/12002975/"
+ },
+ {
+  "date": "2026-09-16",
+  "pmid": "42735722",
+  "title": "Endoscopic ultrasound-guided gallbladder drainage with or without prior percutaneous transhepatic gallbladder drainage: a multicenter retrospective cohort study.",
+  "title_ja": "経皮経肝胆嚢ドレナージの有無にかかわらない超音波内視鏡ガイド下胆嚢ドレナージ：多施設後ろ向きコホート研究",
+  "journal": "Endoscopy",
+  "year": "2026",
+  "authors": "Kim SH, Park SW, Chon HK ほか",
+  "summary": "本研究は、手術不適応の急性胆嚢炎患者239例を対象に、一次的EUS-GBD（pEUS-GBD, n=180）とPTGBDからEUS-GBDへの変換（cEUS-GBD, n=59）という2つのアプローチの臨床成績を比較した多施設後ろ向きコホート研究である。手技的成功率は両群で高く（95.6% vs. 93.2%, P=0.50）、早期・後期有害事象および再発率にも有意差は認められなかった。一方、手技時間はpEUS-GBD群で有意に短かった（8.4分 vs. 12.9分, P<0.001）。傾向スコアによる重み付け後も同様の傾向が維持され、事前のPTGBDは後続のEUS-GBDの成績を損なわないことが示された。",
+  "key_points": [
+   "両アプローチとも手技的成功率は90%以上と高く、早期・後期有害事象や再発率に有意差はなく、いずれも有効な選択肢である。",
+   "pEUS-GBDはcEUS-GBDと比較して手技時間が有意に短いが（約8分 vs. 約13分）、これはワークフローの違いによるものとして解釈すべきである。",
+   "cEUS-GBDはPTGBD後の内在化（チューブ除去）戦略として妥当な選択肢となり得るため、最初のドレナージ方法は患者の臨床的安定性・解剖学的条件・内視鏡資源に応じて個別化すべきである。"
+  ],
+  "clinical_relevance": "手術不適応の急性胆嚢炎患者に対して、PTGBDを先行させた後にEUS-GBDへの変換を検討する際の根拠を提供する。消化器内科専門医としてEUS-GBDの適応判断や治療戦略の立案に直結する実践的エビデンスである。",
+  "study_type": "コホート",
+  "tags": [
+   "EUS-GBD",
+   "胆嚢ドレナージ",
+   "急性胆嚢炎",
+   "超音波内視鏡"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42735722/",
+  "doi_url": "https://doi.org/10.1055/a-2951-4600",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-09-14",
   "pmid": "42728026",
   "title": "Orchestrated cell death pathways in cholangiopathies.",

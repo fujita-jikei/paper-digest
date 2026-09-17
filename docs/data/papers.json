@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-09-18",
+  "pmid": "42748430",
+  "title": "Esophageal Cancer.",
+  "title_ja": "食道癌",
+  "journal": "N Engl J Med",
+  "year": "2026",
+  "authors": "Xie SH, Smyth E, Lagergren J",
+  "summary": "食道癌は世界で13番目に多い癌であり、癌関連死亡の第7位を占め、年間約50万人が死亡している。集団ベースの5年生存率は近年改善しているものの、20%を超えることはほとんどない。主要な組織型である腺癌と扁平上皮癌は異なる発生動向を示し、過去40年間で欧米諸国（特に白人男性）では食道腺癌が急増し扁平上皮癌は減少している一方、それ以外の多くの集団では扁平上皮癌が依然として主要な組織型である。本総説は食道癌の疫学的特徴・危険因子・予防・臨床管理における最新の知見を概説している。",
+  "key_points": [
+   "食道癌の5年生存率は改善傾向にあるものの依然として20%未満と予後不良であり、早期発見・介入の重要性が高い。",
+   "食道腺癌は欧米の白人男性を中心に急増しているのに対し、食道扁平上皮癌は日本を含む多くの非西洋諸国で依然として主要な組織型である。",
+   "組織型によって疫学・危険因子・臨床管理が異なるため、地域や患者背景に応じたアプローチが求められる。"
+  ],
+  "clinical_relevance": "日本では食道扁平上皮癌が主体であり、内視鏡診断や治療戦略を含む食道癌全般の最新知見を整理する上で本総説は専門研修の基盤となる。疫学や危険因子の理解はスクリーニング戦略や予防介入の実践にも直結する。",
+  "study_type": "総説",
+  "tags": [
+   "食道癌",
+   "消化管腫瘍",
+   "疫学",
+   "内視鏡"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42748430/",
+  "doi_url": "https://doi.org/10.1056/NEJMra2516631",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-09-18",
+  "pmid": "42750637",
+  "title": "Noninvasive Prediction of Clinically Significant Portal Hypertension in Hepatocellular Carcinoma: A Tumor-Adjusted Model.",
+  "title_ja": "肝細胞癌における臨床的に有意な門脈圧亢進症の非侵襲的予測：腫瘍調整モデルの開発",
+  "journal": "Am J Gastroenterol",
+  "year": "2026",
+  "authors": "Demirtas CO, Mezzacappa C, Sartoris R ほか",
+  "summary": "本研究は、代償性肝硬変を有する肝細胞癌（HCC）患者452例を対象とした多施設後ろ向きコホート研究であり、肝硬度測定（LSM）とHVPGの相関を評価し、腫瘍因子を考慮した新たなCSPH予測モデル（Baveno-HCC）を開発・検証した。LSMとHVPGの相関は中等度（r=0.593）であったが、右葉の大型腫瘍（>5cm）では精度が低下し、既存のBaveno VII基準はCSPHの除外には高い感度・陰性的中率（>90%）を示す一方、rule-inの精度は限定的であった。腫瘍負荷>5cmの患者において、Baveno-HCCモデル（LSM・血小板数・脾臓サイズ・腫瘍負荷を組み込み）はCSPHのrule-inにおける陽性的中率（PPV）を導出コホートで46.2%から84.6%へ、検証コホートで56.3%から100.0%へと大幅に改善した。腫瘍の大きさと局在がLSMに基づくCSPH評価に影響を与えることが示され、HCC患者におけるより正確なリスク層別化と臨床意思決定への貢献が期待される。",
+  "key_points": [
+   "既存のBaveno VII基準はHCC患者においてCSPHの除外には有用だが、特に大型腫瘍を有する患者ではrule-inの精度が不十分である。",
+   "LSM・血小板数・脾臓サイズ・腫瘍負荷を組み合わせたBaveno-HCCモデルは、腫瘍負荷>5cmの患者でCSPHのPPVを大幅に改善する。",
+   "右葉の大型腫瘍（>5cm）はLSMとHVPGの相関を低下させるため、腫瘍特性を考慮したCSPH評価が必要である。"
+  ],
+  "clinical_relevance": "HCC合併肝硬変患者において門脈圧亢進症を非侵襲的に評価する際、腫瘍因子を考慮したBaveno-HCCモデルの活用は、不要なHVPG測定を回避しつつ正確なリスク層別化に貢献できる可能性があり、消化器内科専攻医が治療方針決定を行う上で実践的な知識となる。",
+  "study_type": "コホート",
+  "tags": [
+   "肝細胞癌",
+   "門脈圧亢進症",
+   "肝硬変",
+   "非侵襲的診断"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42750637/",
+  "doi_url": "https://doi.org/10.14309/ajg.0000000000004204",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-09-18",
+  "pmid": "42749363",
+  "title": "Impact of non-enteric-coated pancreatic enzyme replacement therapy (NEPERT) on pain in patients with chronic pancreatitis: a double-blind, parallel-group, placebo-controlled, randomised trial.",
+  "title_ja": "慢性膵炎患者の疼痛に対する非腸溶性コーティング膵酵素補充療法（NEPERT）の効果：二重盲検・並行群間・プラセボ対照無作為化試験",
+  "journal": "Gut",
+  "year": "2026",
+  "authors": "Talukdar R, Rasheed A, Unnisa M ほか",
+  "summary": "本試験は、慢性膵炎（CP）による慢性腹痛を有する18〜60歳の成人107例（平均年齢34.4歳、男性71%、特発性66%）を対象に、NEPERTまたはプラセボを12週間投与する24週間の二重盲検無作為化比較試験である。主要評価項目であるベースラインから12週時点でのIzbicki疼痛スコアの群間差は−2.5（95%CI −9.3〜4.2、p=0.49）と統計的有意差を認めなかった。24週時点の二次評価項目（Izbicki・VASスコア、鎮痛薬使用、入院頻度、QOLなど）においても両群間に有意差はみられなかったが、12週時点でNEPERT群が有痛日数の割合が有意に高かった（群間差 −14.5、95%CI −26.0〜−3.0、p=0.02）。以上より、疼痛を伴うCP成人患者において、NEPERTはプラセボと比較して疼痛を改善しないことが示された。",
+  "key_points": [
+   "非腸溶性コーティング膵酵素補充療法（NEPERT）は、慢性膵炎に伴う慢性腹痛をプラセボと比較して有意に改善しなかった（Izbicki スコア群間差 −2.5、p=0.49）。",
+   "NEPERTの疼痛に対するキャリーオーバー効果も24週時点で確認されず、治療終了後も有益な持続効果は期待できない可能性がある。",
+   "有害事象は両群とも軽度かつ自然軽快するものであり、安全性プロファイルに差はなかった。"
+  ],
+  "clinical_relevance": "慢性膵炎の疼痛管理においてNEPERTは有効な選択肢とは言えず、疼痛コントロール目的でのPERT処方を再考する根拠となる重要なエビデンスである。消化器内科専攻医は、慢性膵炎患者の疼痛管理において膵外分泌不全への対処とは別に、多角的なアプローチが必要であることを認識しておく必要がある。",
+  "study_type": "RCT",
+  "tags": [
+   "慢性膵炎",
+   "膵酵素補充療法",
+   "腹痛管理",
+   "膵臓"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42749363/",
+  "doi_url": "https://doi.org/10.1136/gutjnl-2026-338802",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-09-17",
   "pmid": "42748427",
   "title": "Colonoscopy Intervals and Colorectal Cancer Incidence after Adenoma Removal.",

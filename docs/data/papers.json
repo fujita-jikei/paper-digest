@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-09-20",
+  "pmid": "42760118",
+  "title": "Eosinophilic gastritis: burden of disease, diagnostic challenges and unmet needs.",
+  "title_ja": "好酸球性胃炎：疾患負担、診断上の課題、および未充足ニーズ",
+  "journal": "Gut",
+  "year": "2026",
+  "authors": "Rothenberg ME, Chehade M, Dellon ES ほか",
+  "summary": "本論文は、好酸球性胃炎（EoG）に関するレビューである。EoGは胃の病的好酸球増多と消化器症状を特徴とする希少慢性疾患であり、その病態生理は食物抗原によって引き起こされ、インターロイキン4および13の上昇を伴う2型免疫異常が中心的な役割を担うことが示されている。診断は症状・内視鏡評価・胃生検による高度好酸球浸潤の確認に基づき、他の好酸球増多の原因を除外した上で行われる。現時点でEoGに対する承認治療薬は存在せず、食事療法や適応外使用のコルチコステロイドは長期使用に適さないか効果が不十分であるが、生物学的製剤の臨床試験が進行中であり、今後の治療に影響を与える可能性がある。",
+  "key_points": [
+   "EoGの病態はIL-4およびIL-13の上昇を伴う2型免疫異常が主体であり、食物抗原が誘因となる。",
+   "診断には症状・内視鏡所見・胃生検での高度好酸球浸潤の確認が必要であり、他の好酸球増多原因の除外が前提となる。",
+   "現在承認された治療薬はなく、既存の食事療法や適応外コルチコステロイドは長期使用に適さないため、生物学的製剤の開発が期待されている。"
+  ],
+  "clinical_relevance": "消化器内科専攻医はEoGを希少疾患として認識し、原因不明の胃症状に対して生検による好酸球浸潤の評価を鑑別診断に組み込む必要がある。また、現時点では確立された標準治療がないため、進行中の生物学的製剤の臨床試験の動向を把握しておくことが重要である。",
+  "study_type": "総説",
+  "tags": [
+   "好酸球性消化管疾患",
+   "好酸球性胃炎",
+   "生物学的製剤",
+   "消化管内視鏡"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42760118/",
+  "doi_url": "https://doi.org/10.1136/gutjnl-2025-337900",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-09-20",
+  "pmid": "42760117",
+  "title": "Coordinated cellular programmes distinguish responses to neoadjuvant PD-L1 blockade and potentiate combinatorial immunotherapy in ESCC.",
+  "title_ja": "食道扁平上皮癌における術前PD-L1阻害療法への反応を規定する協調的細胞プログラムと併用免疫療法の可能性",
+  "journal": "Gut",
+  "year": "2026",
+  "authors": "Li S, Guo J, Ma J ほか",
+  "summary": "本研究は、食道扁平上皮癌（ESCC）に対する術前（ネオアジュバント）PD-L1阻害療法の奏効・耐性メカニズムを解明するため、210,978細胞の単一細胞トランスクリプトームおよび20組織切片の空間トランスクリプトームを解析した。その結果、CXCL13+CD8+疲弊T細胞、TNFRSF9+CD4+制御性T細胞、非典型的記憶B細胞、APOE+マクロファージを中心とした「協調的細胞プログラム」が、治療開始前のベースラインにおいてPD-L1阻害療法への反応を規定することが同定された。治療後の非奏効例では、これらの細胞プログラムが免疫抑制表現型を呈し治療効果が得られない一方、LAG-3（lymphocyte activation gene 3）が新たな標的として同定され、この協調的細胞プログラムを撹乱することで治療反応性を増強できる可能性が示された。本研究の知見は、ESCC患者における個別化免疫療法戦略の優先順位付けに重要な示唆を与える。",
+  "key_points": [
+   "CXCL13+CD8+疲弊T細胞・TNFRSF9+CD4+制御性T細胞・非典型的記憶B細胞・APOE+マクロファージからなる「協調的細胞プログラム」が、術前PD-L1阻害療法の奏効をベースライン段階で規定する。",
+   "治療後の非奏効ESCCでは上記細胞プログラムが免疫抑制表現型へ移行しており、治療抵抗性のメカニズムとして重要である。",
+   "LAG-3が新たな治療標的として浮上し、PD-L1阻害療法との併用により奏効率を高める可能性が示された。"
+  ],
+  "clinical_relevance": "PD-L1阻害薬を用いた術前免疫療法が普及しつつある中、本研究はESCC患者の治療反応予測バイオマーカーとしての細胞プログラムの重要性を示しており、LAG-3を標的とした併用免疫療法の開発に向けた臨床試験設計の基礎となる知見を提供する。",
+  "study_type": "その他",
+  "tags": [
+   "食道扁平上皮癌",
+   "免疫チェックポイント阻害薬",
+   "ネオアジュバント療法",
+   "単一細胞解析"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42760117/",
+  "doi_url": "https://doi.org/10.1136/gutjnl-2026-339071",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-09-20",
+  "pmid": "42760116",
+  "title": "High rates of transition to immune active disease in a cohort of strictly defined immune tolerant patients with chronic hepatitis B: results from the RADICAL consortium.",
+  "title_ja": "厳密に定義された免疫寛容期慢性B型肝炎患者コホートにおける免疫活性期への高率な移行：RADICALコンソーシアムからの結果",
+  "journal": "Gut",
+  "year": "2026",
+  "authors": "van Velsen LM, Choi WM, Kilany M ほか",
+  "summary": "本研究はRADICALコンソーシアムによる国際多施設コホート研究で、厳密に定義された免疫寛容（IT）期慢性B型肝炎患者951例（中央値年齢33歳、追跡期間中央値13年）における免疫活性（IA）期への移行リスク、線維化進展、肝細胞癌（HCC）発症を検討した。IT期の定義はHBeAg陽性・ALT≦40 U/L・HBV DNA＞7 log10 IU/mL・線維化F0-1の持続とした。IA期（ALT≧50 U/L）への移行確率は5年で51%、10年で67%、15年で72%と高率であり、ALTが高正常値（20〜30 U/L）の患者では移行リスクが有意に増加した（sHR: 1.744、p＜0.001）。一方、有意な線維化（≧F2）への進展率は15年で6.3%、HCC発症率は15年で1.1%と低値であった。",
+  "key_points": [
+   "厳密に定義されたIT期慢性B型肝炎患者の過半数が5年以内にIA期へ移行しており、この時期が必ずしも良性経過とは言えないことが示された。",
+   "ALTが高正常値（＞30 U/L）の患者はIA期移行リスクが約3倍高く（sHR: 3.130、p＜0.001）、正常範囲内でもALT値がリスク層別化に有用である。",
+   "有意な線維化やHCC発症リスク自体は15年時点でそれぞれ6.3%・1.1%と低く、IT期における短期的な肝構造的障害リスクは限定的である。"
+  ],
+  "clinical_relevance": "IT期と判断したB型肝炎患者であっても、特にALTが高正常値の症例では5年以内にIA期へ移行する可能性が高く、より頻回な経過観察や先制的な抗ウイルス療法の導入を検討する根拠となりうる。日常診療においてIT期患者のフォロー間隔や治療開始基準を再考する際に重要なエビデンスとなる。",
+  "study_type": "コホート",
+  "tags": [
+   "B型肝炎",
+   "免疫寛容期",
+   "肝細胞癌",
+   "抗ウイルス療法"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42760116/",
+  "doi_url": "https://doi.org/10.1136/gutjnl-2026-338784",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-09-19",
   "pmid": "42757874",
   "title": "Alcohol-Use Trajectories and Major Adverse Liver Outcomes in MetALD: A Nationwide Longitudinal Cohort Study.",

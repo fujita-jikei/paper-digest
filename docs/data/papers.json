@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-09-27",
+  "pmid": "42790929",
+  "title": "EUropean consensus on the Resolution Of SympToms After oesophago-gastric Resection (EUROSTAR): Peri-Operative Quality Initiative (POQI) consensus statement.",
+  "title_ja": "食道・胃切除後の症状解消に関するEUROSTAR欧州コンセンサス：周術期クオリティイニシアティブ（POQI）コンセンサス声明",
+  "journal": "Gut",
+  "year": "2026",
+  "authors": "Barman S, Chevallay M, Gisbertz SS ほか",
+  "summary": "本研究は、上部消化管（UGI）癌手術後に高頻度で生じ、生活の質に大きく影響する術後症状の定義・評価・管理を標準化するため、欧州10カ国の多職種専門家パネルによる修正デルファイ法を用いたコンセンサス形成プロセスを実施したものである。1回の予備会議と2回のPOQI半構造化コンセンサス会議を経て、術後症状モニタリングおよびサービス提供に関する8つのステートメントと13の推奨事項が策定・合意された。さらに、UGI癌手術後に多く見られる術後病態に対する診断基準・検査経路・管理推奨事項が策定され、16の将来的研究優先課題も特定された。EUROSTARコンセンサスは、UGI癌手術後の症状モニタリング、サービス提供、術後病態の評価と管理に関する包括的なガイダンスを提供するものである。",
+  "key_points": [
+   "上部消化管癌手術後の術後症状はしばしば重複して出現し生活の質を著しく損なうが、その定義・検査・管理に関する標準化が従来不十分であった。",
+   "欧州10カ国の多職種専門家による修正デルファイ法を通じ、術後症状モニタリングと診療提供に関する8ステートメント・13推奨事項が合意された。",
+   "本コンセンサスは術後サバイバーシップケアの標準化および将来の研究推進に向けた重要な基盤を提供する。"
+  ],
+  "clinical_relevance": "食道・胃癌の術後管理に携わる消化器内科医にとって、術後症状の診断基準や管理アルゴリズムを標準化した本コンセンサスは、日常臨床における術後フォローアップの質向上に直接役立つ。また、サバイバーシップケアの体制整備や多職種連携の在り方を考える上でも重要な指針となる。",
+  "study_type": "ガイドライン",
+  "tags": [
+   "上部消化管癌",
+   "食道・胃切除術",
+   "術後管理",
+   "サバイバーシップ"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42790929/",
+  "doi_url": "https://doi.org/10.1136/gutjnl-2025-337109",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-09-27",
+  "pmid": "42790840",
+  "title": "Gastric and Duodenal Cancer in Lynch Syndrome: Incidence and Endoscopic Surveillance-Systematic Review and Meta-analysis.",
+  "title_ja": "リンチ症候群における胃癌・十二指腸癌：発生率と内視鏡サーベイランス―システマティックレビューとメタ解析",
+  "journal": "Clin Gastroenterol Hepatol",
+  "year": "2026",
+  "authors": "Ausina-Poüs V, Baile-Maxía S, Sáez-Rico M ほか",
+  "summary": "本研究は、リンチ症候群（LS）における胃癌（GC）および十二指腸癌（DC）の発生率とEGDサーベイランスの効果を評価するため、33,530例のLS患者を含む35研究を対象にメタ解析を実施した。GCの発生率は1,000人年あたり0.98（95%CI: 0.54–1.42）、DCは同1.93（95%CI: 0.71–3.15）であり、いずれも臨床的に無視できないリスクであった。MMR遺伝子別ではGC発生率がMLH1で0.44、MSH2で1.27、MSH6で0.03と大きく異なり、DCではMLH1で0.95、MSH2で0.46であった。EGDサーベイランスに関しては、2件の観察研究に基づく探索的解析でGCリスクの低下との関連が示された（RR 0.31; 95%CI: 0.14–0.69）が、DCリスクへの影響は認められず、現時点ではサーベイランスによる癌発生率や生存率への明確な有益性は確立されていない。",
+  "key_points": [
+   "リンチ症候群における胃癌・十二指腸癌の発生率はMMR遺伝子の種類によって大きく異なり、特にMSH2変異キャリアでGC発生率が高い（1,000人年あたり1.27）。",
+   "EGDサーベイランスは観察研究ベースの解析でGCリスク低下と関連していたが（RR 0.31）、エビデンスの質が低く因果関係の確立には至っていない。",
+   "現状のエビデンスはリスクに応じた上部消化管内視鏡サーベイランスのさらなる検討を支持するものの、癌発生率や生存への有益性を証明するには至っていない。"
+  ],
+  "clinical_relevance": "消化器内科医はリンチ症候群患者の上部消化管癌リスクをMMR遺伝子型に応じて個別に評価し、上部内視鏡サーベイランスの適応を検討することが求められる。現時点ではサーベイランスの有効性を示す高質なエビデンスが不足しており、今後のランダム化比較試験や前向きコホート研究の動向に注目する必要がある。",
+  "study_type": "メタ解析",
+  "tags": [
+   "リンチ症候群",
+   "胃癌",
+   "十二指腸癌",
+   "内視鏡サーベイランス"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42790840/",
+  "doi_url": "https://doi.org/10.1016/j.cgh.2026.09.027",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-09-27",
+  "pmid": "42790839",
+  "title": "IMPROVED SEVERITY AND QUALITY-OF-LIFE MEASURES FOR FECAL INCONTINENCE: DEVELOPMENT OF THE MINNESOTA (MiNi)-FISI AND MiNi-FI-QOL.",
+  "title_ja": "便失禁の重症度およびQOL評価指標の改良：Minnesota（MiNi）-FISIおよびMiNi-FI-QOLの開発",
+  "journal": "Clin Gastroenterol Hepatol",
+  "year": "2026",
+  "authors": "Oblizajek NR, Rockwood T, Lee JT ほか",
+  "summary": "本研究は、便失禁（FI）の重症度とQOLを評価する既存の指標を改良することを目的とし、多施設コホート・地域住民・骨盤底クリニック・臨床試験から計1082名を対象に解析を行った。既存のFISIスコアはFI-QoL分散の26%を説明するにとどまったが、「トイレ近くに留まる行動」を加えると説明率が60%に向上した（P<.001）。反復的な項目削減により開発された新11項目のMiNi-FI-QOLは、29項目版FI-QoLの分散の97%を捕捉し、SF-36とも相関した。また、改良7項目版MiNi-FISIは元のFISIより高いFI-QoL分散説明率（46% vs 36%）を示し、独立したバリデーション集団（n=260）でも有効性が確認された。",
+  "key_points": [
+   "既存のFISIに「トイレ近くに留まる行動」を組み込むことで、FI-QoL分散の説明率が26%から60%へと大幅に向上した。",
+   "新たに開発されたMiNi-FI-QOL（11項目）は、従来の29項目版の分散の97%を捕捉しており、大幅な項目削減ながら高い精度を保持している。",
+   "改良版MiNi-FISI（7項目）は元のFISIと比べてQOLとの相関が強く、多様なコホートでの有効性が示された。"
+  ],
+  "clinical_relevance": "消化器内科・骨盤底外来において、簡便かつ精度の高いMiNi-FISIおよびMiNi-FI-QOLを用いることで、便失禁患者の重症度評価とQOL把握の効率化が期待される。特に外来診療や臨床試験のアウトカム指標として有用であり、患者負担の軽減にも貢献しうる。",
+  "study_type": "コホート",
+  "tags": [
+   "便失禁",
+   "QOL評価",
+   "骨盤底疾患",
+   "患者報告アウトカム"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42790839/",
+  "doi_url": "https://doi.org/10.1016/j.cgh.2026.09.026",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-09-26",
   "pmid": "42785338",
   "title": "Faecal microbiota transplantation in irritable bowel syndrome (REFIT2): a randomised, double-blind, placebo-controlled, phase 3 trial.",

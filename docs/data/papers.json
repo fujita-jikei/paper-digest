@@ -1,5 +1,31 @@
 [
  {
+  "date": "2026-10-05",
+  "pmid": "42829018",
+  "title": "TREAT-TO-TARGET IN INFLAMMATORY BOWEL DISEASE: PROMISE, PERILS, AND THE PATH FORWARD.",
+  "title_ja": "炎症性腸疾患における治療目標達成戦略：その可能性・課題・今後の展望",
+  "journal": "Clin Gastroenterol Hepatol",
+  "year": "2026",
+  "authors": "Singh S, Nardone OM, Allocca M ほか",
+  "summary": "本総説は、炎症性腸疾患（IBD）管理の主流となっているtreat-to-target（T2T）戦略の両輪、すなわち「適切な治療目標の設定」と「目標達成に向けた治療の逐次的調整」を批判的に検討したレビューである。過去10年間で治療目標は症状寛解から内視鏡的・組織学的治癒、さらには経壁的・分子的エンドポイントへと深化したが、これらはいずれも長期アウトカムとの関連を示す観察データに基づくものであり、因果関係の確立には至っていない。一方、治療の逐次的調整（第二の柱）に関するランダム化試験は選択されていない患者集団で混在した結果を示しており、無症候性であるが残存炎症を有する患者に対する治療最適化・切り替えの有用性は依然として未解明である。現在進行中のQUOTIENT・VERDICT・VECTORSなどの試験が、第二の柱をより確固たる根拠に基づくものとする可能性がある。",
+  "key_points": [
+   "T2T戦略の「治療目標の設定」は深化してきた一方、「治療の逐次的調整」の有効性を支持するエビデンスは依然として限定的であり、選択されていない患者集団でのRCTは混在した結果を示している。",
+   "無症候性で残存炎症を有するIBD患者に対して、高度治療薬の最適化や切り替えが臨床的恩恵をもたらすかどうかという最も重要な臨床的疑問は未解決のままである。",
+   "T2T戦略の個別化には、疾患歴・炎症の推移・治療選択肢・患者の意向を統合したフレームワークの構築が提唱されている。"
+  ],
+  "clinical_relevance": "消化器内科専攻医はT2T戦略を実臨床に適用する際、その普及度の高さとは裏腹にエビデンスの限界を理解し、特に無症候性患者における治療最適化の判断を画一的に行わず個別化することが重要である。",
+  "study_type": "総説",
+  "tags": [
+   "IBD",
+   "treat-to-target",
+   "内視鏡的寛解",
+   "潰瘍性大腸炎・クローン病"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42829018/",
+  "doi_url": "https://doi.org/10.1016/j.cgh.2026.09.033",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-10-04",
   "pmid": "42826731",
   "title": "Impact of Repeated Endobiliary Radiofrequency Ablation on Survival in Unresectable Perihilar Cholangiocarcinoma.",

@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-10-11",
+  "pmid": "42855156",
+  "title": "Expired endoscopic devices remain sterile and functional: an international multicentre study challenging current shelf-life criteria.",
+  "title_ja": "期限切れ内視鏡デバイスは無菌性と機能性を保持する：現行の使用期限基準に疑問を呈する国際多施設研究",
+  "journal": "Endoscopy",
+  "year": "2026",
+  "authors": "Rodriguez de Santiago E, Villaescusa Arenas D, Gómez G de la Pedrosa E ほか",
+  "summary": "本研究は、欧州・カナダ・米国の25施設の内視鏡ユニットで2023年12月〜2025年5月にかけて実施された前向き多施設研究である。1週間の監査により1,448個の期限切れ内視鏡デバイスが確認され、その推定費用は約192,141ユーロに上った。微生物学的検査を実施した273個すべてで菌の発育は認められず（無菌率100%、95%CI 98.6–100）、機能評価を行った210個中209個が機能を保持しており（99.5%、95%CI 97.4–99.9）、物理機械的試験でも非期限切れ品との間に臨床的に有意な差は認められなかった。これらの結果は現行の使用期限の前提に疑問を呈するものであり、規制上の再評価を支持するが、期限切れデバイスの日常的な臨床使用を推奨するエビデンスとして解釈されるべきではないと結論づけられた。",
+  "key_points": [
+   "期限切れ内視鏡デバイスは1施設あたり中央値42個（範囲3〜262個）確認され、廃棄コストおよび環境負荷が大きな問題であることが示された。",
+   "評価された期限切れデバイスは微生物学的無菌性（100%）および機能性（99.5%）を保持しており、物理機械的特性においても非期限切れ品と同等であった。",
+   "在庫管理プロトコルを書面で整備していた施設はわずか24%、電子追跡システムを有する施設は12%にとどまり、多くの施設で在庫管理が不十分であることが明らかになった。"
+  ],
+  "clinical_relevance": "内視鏡ユニットにおける期限切れデバイスの管理体制の見直しと在庫管理の最適化が求められており、消化器内科専門医として資源の無駄を減らす取り組みに関心を持つことが重要である。また、本研究の結果は現行の使用期限規制の科学的根拠を問い直すものであり、今後の規制議論の動向を注視する必要がある。",
+  "study_type": "コホート",
+  "tags": [
+   "内視鏡",
+   "デバイス管理",
+   "医療経済",
+   "感染管理"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42855156/",
+  "doi_url": "https://doi.org/10.1055/a-2977-6099",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-10-11",
+  "pmid": "42854772",
+  "title": "Real-world hepatic safety of the potassium-competitive acid blocker: A RUCAM-adjudicated multicenter cohort study.",
+  "title_ja": "カリウム競合型アシッドブロッカーの実臨床における肝安全性：RUCAM判定を用いた多施設コホート研究",
+  "journal": "Clin Gastroenterol Hepatol",
+  "year": "2026",
+  "authors": "Chon HY, Yun HR, Jung DH ほか",
+  "summary": "本研究は、テゴプラザン（P-CAB）のプロトンポンプ阻害薬（PPI）およびヒスタミンH2受容体拮抗薬（H2RA）と比較した肝安全性を、RUCAM（Roussel Uclaf Causality Assessment Method）による判定を用いて評価した大規模多施設後ろ向きコホート研究である。累積30定義1日投与量以上の使用者363,340例をスクリーニングし、傾向スコアマッチング後に各群1,862例（計5,586例）を解析対象とした。RUCAM「possible」以上の薬剤性肝障害（DILI）イベントはテゴプラザン群3件（0.17/100人年）、PPI群2件（0.07/100人年）、H2RA群3件（0.15/100人年）と極めて稀であり、H2RAとの比較ではHR 0.98（95%CI: 0.20–4.95）、PPIとの比較ではHR 1.63（95%CI: 0.28–9.56）と、テゴプラザンにおける有意なDILIリスク増加は検出されなかった。イベント数が少ないため安全性の同等性を結論づけることはできないが、全ての酸分泌抑制薬においてRUCAM判定DILIが極めて稀であることが示された。",
+  "key_points": [
+   "テゴプラザンはPPIおよびH2RAと比較してRUCAM判定DILIリスクの有意な増加を示さなかったが、イベント数が少なく信頼区間が広いため、安全性の同等性を断言することはできない。",
+   "全群でDILIの重症度はRUCAM「possible」（スコア3以上）に留まり、それを超える症例は1件も認められなかった。",
+   "過去に報告されたP-CABの肝毒性シグナルは、RUCAM等の標準化された判定基準ではなく非特異的なアウトカム定義を用いたことによるアーティファクトである可能性が示唆された。"
+  ],
+  "clinical_relevance": "テゴプラザンを日常診療で使用する際、現時点のエビデンスではPPIやH2RAと比較して肝障害リスクが特に高いとは言えず、過度な懸念は不要と考えられる。ただし、実臨床でのDILI評価にはRUCAMなどの標準化手法の活用が重要であることを意識しておくべきである。",
+  "study_type": "コホート",
+  "tags": [
+   "P-CAB",
+   "薬剤性肝障害",
+   "酸分泌抑制薬",
+   "テゴプラザン"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42854772/",
+  "doi_url": "https://doi.org/10.1016/j.cgh.2026.09.045",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-10-11",
+  "pmid": "42854771",
+  "title": "Weight changes differentially impact MASLD incidence, progression and outcomes based on genetic and metabolic risk profiles.",
+  "title_ja": "体重変化はMASLDの発症・進展・アウトカムに対して遺伝的・代謝的リスクプロファイルに基づき異なる影響を与える",
+  "journal": "Clin Gastroenterol Hepatol",
+  "year": "2026",
+  "authors": "Chen L, Chieh Kow AW, Lv G ほか",
+  "summary": "本研究はUKバイオバンクのデータを用いて、体重変動がMASLDの発症・寛解・線維化リスク退縮・心血管疾患（CVD）に与える影響を、遺伝的サブグループ（肝型・全身型）および代謝リスクグループ別に解析したコホート研究である。MASLD未発症者11,882名を中央値4年間追跡したところ1,350名がMASLDを発症し、体重1%減少ごとにMASLD発症リスクが10%低下した（HR=0.90）。MASLD既存患者6,013名では体重1%減少ごとに寛解率が9%上昇し（HR=1.09）、体重減少はMASLD関連CVDリスクの低下とも関連した（HR=0.98）。MASLD予防・寛解・線維化リスク退縮に必要な体重減少の推奨閾値はリスクグループや性別によって大きく異なり、個別化した体重管理の重要性が示された。",
+  "key_points": [
+   "MASLD発症予防に推奨される体重減少率はリスクグループ・性別で異なり、例えば代謝リスク群では男性10.9%・女性14.4%が目安とされた。",
+   "MASLDの寛解に必要な体重減少の下限閾値も遺伝的・代謝的リスク群・性別によって異なり、肝型リスク群の女性では13.3%が必要と推定された一方、代謝リスク群では男女ともに約5〜6%程度と低かった。",
+   "線維化リスクの退縮については肝型リスク群では明確な閾値が同定されなかったが、代謝リスク群では男性7.7%・女性5.6%の体重減少が目安として推定された。"
+  ],
+  "clinical_relevance": "消化器内科医はMASLD患者に体重管理指導を行う際、一律の目標値を設定するのではなく、患者の遺伝的・代謝的リスクプロファイルおよび性別を考慮した個別化アプローチが重要であることを認識する必要がある。",
+  "study_type": "コホート",
+  "tags": [
+   "MASLD",
+   "NAFLD",
+   "体重管理",
+   "脂肪肝"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42854771/",
+  "doi_url": "https://doi.org/10.1016/j.cgh.2026.07.019",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-10-10",
   "pmid": "42849517",
   "title": "Cholangioscopy-guided lithotripsy versus mechanical lithotripsy for large common bile duct stones during balloon enteroscopy-assisted ERCP after gastrectomy with a native papilla.",

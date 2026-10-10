@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-10-10",
+  "pmid": "42849517",
+  "title": "Cholangioscopy-guided lithotripsy versus mechanical lithotripsy for large common bile duct stones during balloon enteroscopy-assisted ERCP after gastrectomy with a native papilla.",
+  "title_ja": "胃切除後の固有乳頭アクセス可能例における総胆管大結石に対するバルーン小腸鏡補助ERCP時の胆道鏡補助砕石術と機械的砕石術の比較",
+  "journal": "Endoscopy",
+  "year": "2026",
+  "authors": "Inoue T, Maruta A, Iwasa Y ほか",
+  "summary": "本研究は、胃切除後の外科的消化管再建患者における大型総胆管結石に対し、バルーン小腸鏡補助ERCP（BE-ERCP）施行時の経口胆道鏡補助砕石術（POCL）優先戦略と従来の機械的砕石術（ML）優先戦略を比較した日本国内7施設の後ろ向きコホート研究である。対象は計104例（POCL優先群39例、ML優先群65例）で、初回セッションでの完全結石除去率はPOCL優先群95%に対しMLT優先群62%と、POCL優先群で有意に高かった（リスク差33.3%、95%CI 17.3–46.0%）。また、最終的に完全除去を達成した患者のうち2セッション以上を要した割合もPOCL優先群で有意に低く（5% vs 32%）、有害事象発生率に有意差はなかった。以上より、胃切除後の固有乳頭アクセス可能例ではBE-ERCP時のPOCL優先戦略が初回セッションでの完全結石除去率向上に寄与するとして、前向き研究による検証が提唱された。",
+  "key_points": [
+   "POCL優先戦略はML優先戦略と比較して初回セッション完全結石除去率が有意に高く（95% vs 62%）、調整後リスク比は1.40（95%CI 1.08–1.83）であった。",
+   "POCL優先群では最終完全除去達成例における複数セッション施行の割合が低く（5% vs 32%）、治療の効率化に寄与する可能性がある。",
+   "両群間で有害事象発生率に有意差はなく、POCL優先戦略の安全性はML優先戦略と同等であることが示された。"
+  ],
+  "clinical_relevance": "胃切除後の外科的再建患者における大型総胆管結石管理は難易度が高く、本研究の知見はBE-ERCP施行時に胆道鏡補助砕石術を優先することで治療成績が向上する可能性を示すものであり、消化器内視鏡専門医にとって戦略選択の根拠となりうる。",
+  "study_type": "コホート",
+  "tags": [
+   "胆道内視鏡",
+   "総胆管結石",
+   "ERCP",
+   "外科的消化管再建"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42849517/",
+  "doi_url": "https://doi.org/10.1055/a-2975-5309",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-10-10",
+  "pmid": "42843802",
+  "title": "Aggressive hydration plus Nonsteroidal Anti-Inflammatory Drugs versus Nonsteroidal Anti-Inflammatory Drugs alone for preventing post-ERCP pancreatitis: a meta-analysis.",
+  "title_ja": "ERCP後膵炎予防における積極的輸液＋NSAIDsとNSAIDs単独の比較：メタ解析",
+  "journal": "Endoscopy",
+  "year": "2026",
+  "authors": "Balducci D, Valvano M, Montori M ほか",
+  "summary": "本研究は、ERCP後膵炎（PEP）予防を目的として、NSAIDs＋積極的静脈内輸液とNSAIDs単独を比較したランダム化比較試験（RCT）8件（計1,903例）のメタ解析である。PEPの発生率はNSAIDs＋積極的輸液群で2.8%、NSAIDs単独群で7.6%であり、併用療法はリスク比0.66（95%CI 0.40–1.08）と方向性としては有益であったが統計学的に有意差には至らなかった。プールされたリスク差は-3.8%（95%CI -6.3〜-1.4）と併用療法を支持するものであったが、Hartung-Knapp法による解析や試験逐次解析（TSA）においても必要情報量に達しておらず、結果は不確定のままであった。現時点では、NSAIDs単独と比較した積極的輸液の追加による優越性を確立するエビデンスは得られていない。",
+  "key_points": [
+   "NSAIDs＋積極的輸液の併用によりPEP発生率は数値上低下（2.8% vs 7.6%）するが、ランダム効果モデルによるリスク比は統計学的有意差に達しなかった（RR 0.66、95%CI 0.40–1.08）。",
+   "試験逐次解析では必要情報量（RIS）に到達しておらず、現在のエビデンスのみで積極的輸液追加の優越性を結論づけることはできない。",
+   "ガイドラインで推奨されている直腸内NSAIDs投与は引き続きPEP予防の基盤治療であり、積極的輸液の上乗せ効果を確認するためにはさらなる大規模RCTが必要である。"
+  ],
+  "clinical_relevance": "ERCPを日常的に施行する消化器内科医にとって、PEP予防戦略の最適化は重要課題であり、本メタ解析は積極的輸液の追加がエビデンスとして確立されていないことを示す点で、現行の診療方針を再考するうえで参考となる。専門研修中の医師は、NSAIDs単独でも十分なPEP予防効果が期待できる可能性を念頭に置きつつ、今後の大規模試験の結果を注視することが重要である。",
+  "study_type": "メタ解析",
+  "tags": [
+   "ERCP",
+   "ERCP後膵炎",
+   "NSAIDs",
+   "積極的輸液"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42843802/",
+  "doi_url": "https://doi.org/10.1055/a-2974-3642",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-10-10",
+  "pmid": "42843801",
+  "title": "Short- and Long-Term Outcomes of Underwater Versus Conventional Colorectal Endoscopic Submucosal Dissection: A Large Retrospective Real-World Cohort Study.",
+  "title_ja": "水中法と従来法による大腸内視鏡的粘膜下層剥離術の短期・長期アウトカムの比較：大規模後ろ向きリアルワールドコホート研究",
+  "journal": "Endoscopy",
+  "year": "2026",
+  "authors": "Murata S, Masunaga T, Sasaki M ほか",
+  "summary": "本研究は2010年5月〜2024年9月に単一の三次紹介施設で施行された大腸ESD 1,635病変（従来法914、水中法721）を対象とした後ろ向き観察研究であり、傾向スコアオーバーラップ重み付けを用いて両手技を比較した。主要結果として、水中法は従来法と比較して剥離速度が有意に高く（速度比1.23、95%CI 1.14–1.32、p<0.001）、ESD完遂失敗率も水中法で低かったが、手術時間・一括切除率・R0切除率・有害事象には明確な差は認められなかった。術中穿孔は56例に生じたが全例内視鏡的に閉鎖され、緊急手術例はなく、短期臨床転帰にも両群間で明確な差はなかった。長期フォローアップでは大腸癌関連死は両群ともに認めず、水中法の技術的優位性は示されたものの、その臨床的意義の確立には今後さらなる検討が必要とされる。",
+  "key_points": [
+   "水中ESDは従来法と比較して剥離速度が有意に速く（速度比1.23）、ESD完遂失敗も少なかったが、手術時間の短縮や一括切除率・R0切除率の改善には結びついていない。",
+   "術中穿孔56例は全例内視鏡的閉鎖で対応可能であり、緊急外科手術を要した症例はなく、両群で短期臨床転帰に明確な差は見られなかった。",
+   "観察期間中に大腸癌関連死は両群ともに認められず、長期予後の面でも両手技に明確な差は示されなかった。"
+  ],
+  "clinical_relevance": "水中ESDは剥離速度の向上やESD完遂失敗の低減という技術的利点が示唆されており、大腸ESDを習得・実践する消化器内科医にとって有用な選択肢となり得る。ただし手術時間や切除率・有害事象への明確な臨床的便益は現時点では確認されておらず、今後の前向き研究による検証が求められる。",
+  "study_type": "コホート",
+  "tags": [
+   "大腸ESD",
+   "内視鏡",
+   "水中手技",
+   "大腸腫瘍"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42843801/",
+  "doi_url": "https://doi.org/10.1055/a-2975-5095",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-10-09",
   "pmid": "42848339",
   "title": "Role of remimazolam in gastrointestinal endoscopy: American Society for Gastrointestinal Endoscopy clinical practice update.",

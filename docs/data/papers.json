@@ -1,5 +1,31 @@
 [
  {
+  "date": "2026-10-12",
+  "pmid": "42854770",
+  "title": "Avoidant/restrictive food intake across the gastrointestinal tract.",
+  "title_ja": "消化管全体にわたる回避・制限性食物摂取症（ARFID）の検討",
+  "journal": "Clin Gastroenterol Hepatol",
+  "year": "2026",
+  "authors": "Routhiaux K, Van den Houte K, Balsiger L ほか",
+  "summary": "本研究は、消化器疾患患者467名（IBS、機能性消化不良、便秘、逆流症、咽喉頭異物感、嚥下障害、アカラシア）と健常ボランティア92名を対象に、ARFID（回避・制限性食物摂取症）のスクリーニングおよびその特徴を評価した多施設横断研究である。ARFID陽性（ARFID+）の有病率は、非食道疾患群（IBS・機能性消化不良・便秘）が食道疾患群（逆流・咽喉頭異物感・嚥下障害・アカラシア）と比較して有意に高く（24% vs. 11%、OR=2.7、p<0.001）、健常ボランティアとの比較では便秘（OR=18.2）、IBS（OR=15.0）、機能性消化不良（OR=10.6）で特に強い関連が認められた。非食道疾患群では、抑うつ症状（OR=1.1）および食事関連腹痛（OR=1.2）がARFID+と独立して関連し、恐怖に基づく食物回避が疼痛関連の摂食制限の主要な寄与因子であることが示された（β=0.3、p<0.001）。以上より、ARFIDは消化器疾患、特に非食道疾患において重要な併存病態であることが明らかとなった。",
+  "key_points": [
+   "ARFIDはIBS・機能性消化不良・便秘などの非食道疾患で特に高頻度（24%）に認められ、食道疾患群（11%）と比較して有意に多い。",
+   "非食道疾患患者では、食事関連腹痛への恐怖に基づく食物回避がARFID+の主要な寄与因子であり、抑うつ症状との独立した関連も確認された。",
+   "咽喉頭異物感やアカラシアでは健常ボランティアと比較してARFID+との有意な関連は認められず、疾患によってARFIDリスクが異なる。"
+  ],
+  "clinical_relevance": "機能性消化管疾患（IBS・機能性消化不良・便秘）の診療においては、食事制限の背景にARFIDが存在する可能性を念頭に置き、スクリーニングと精神心理的介入を含む包括的なアプローチが重要である。",
+  "study_type": "コホート",
+  "tags": [
+   "機能性消化管疾患",
+   "ARFID",
+   "IBS",
+   "食行動障害"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42854770/",
+  "doi_url": "https://doi.org/10.1016/j.cgh.2026.09.046",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-10-11",
   "pmid": "42855156",
   "title": "Expired endoscopic devices remain sterile and functional: an international multicentre study challenging current shelf-life criteria.",

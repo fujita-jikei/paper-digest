@@ -1,5 +1,31 @@
 [
  {
+  "date": "2026-10-13",
+  "pmid": "42861971",
+  "title": "Dupilumab Improves Esophageal Distensibility in EoE: 24-Week Results From the REMODEL Randomized Trial.",
+  "title_ja": "デュピルマブは好酸球性食道炎における食道伸展性を改善する：REMODELランダム化試験の24週成績",
+  "journal": "Am J Gastroenterol",
+  "year": "2026",
+  "authors": "Dellon ES, Carlson DA, Greuter T ほか",
+  "summary": "本研究は、好酸球性食道炎（EoE）成人患者を対象としたフェーズ4のREMODELランダム化比較試験における24週時点の食道伸展性の評価である。デュピルマブ300mg週1回投与群（46例）とプラセボ群（23例）を2:1で無作為割り付けし、内腔機能的管腔イメージングプローブ（endoluminal functional lumen imaging probe）による食道伸展性プラトー（DP）径を主要評価項目とした。24週時点において、デュピルマブ群はプラセボ群と比較してDP径の最小二乗平均差が+1.30 mm（95%CI: 0.31〜2.29、P<0.05）と有意な改善を示し、ベースラインDP低値（<17mm）サブグループではさらに大きな改善（+2.21 mm、95%CI: 0.78〜3.63）が認められた。また、内視鏡スコア（EREFS）および組織学的スコア（EoEHSS）もデュピルマブ群で有意に改善し、新たな安全性シグナルは認められなかった。",
+  "key_points": [
+   "デュピルマブは24週時点でEoE患者の食道伸展性を有意に改善し、特にベースラインでDP径が低値（<17mm）のサブグループでより大きな改善効果（LSM差+2.21 mm）が得られた。",
+   "食道伸展性の改善に加え、内視鏡所見スコア（EREFS）の最小二乗平均差−4.96および組織学的スコア（EoEHSS grade/stage）もいずれも有意に改善（P<0.0001）し、炎症と線維化の両側面への効果が示された。",
+   "24週間の投与期間において新たな安全性シグナルは確認されず、既知の安全性プロファイルと一致していた。"
+  ],
+  "clinical_relevance": "デュピルマブはEoEの炎症制御のみならず食道リモデリングの改善にも寄与する可能性があり、狭窄傾向を有するEoE患者への早期介入の根拠となりうる。消化器内科専門医として、EoEの治療選択肢としてデュピルマブを評価する際に、伸展性の客観的評価（EndoFLIP）を活用することが今後重要となる。",
+  "study_type": "RCT",
+  "tags": [
+   "好酸球性食道炎",
+   "EoE",
+   "デュピルマブ",
+   "内視鏡"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42861971/",
+  "doi_url": "https://doi.org/10.14309/ajg.0000000000004227",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-10-12",
   "pmid": "42854770",
   "title": "Avoidant/restrictive food intake across the gastrointestinal tract.",

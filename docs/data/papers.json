@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-10-18",
+  "pmid": "42887557",
+  "title": "Predictors of clinical success in endoscopic ultrasound-guided drainage of postoperative pancreatic fluid collections.",
+  "title_ja": "術後膵液貯留に対するEUSガイド下ドレナージの臨床的成功予測因子",
+  "journal": "Endoscopy",
+  "year": "2026",
+  "authors": "Hellinckx H, Bronswijk M, Olsen GA ほか",
+  "summary": "本研究は、2014年〜2024年8月に3つの学術施設で膵手術後の術後膵液貯留（POPFC）に対してEUSガイド下ドレナージを施行した265例を対象とした後ろ向き多施設コホート研究である。主要評価項目は、経皮的または外科的なステップアップ介入を要さず、画像および臨床的に解消された「臨床的成功」と定義された。臨床的成功は194例（73%）で達成され、そのうち160例（60%）は単回手技のみで成功した一方、20例（7.6%）は経皮的または外科的介入を必要とした。膵頭十二指腸切除術と比較して、膵体尾部切除術は再介入率が高く（32% vs. 20%、p=0.02）、臨床的成功の独立した予測因子として有意に低いオッズ比（OR 0.53、95%CI 0.29-0.98、p=0.04）を示した。",
+  "key_points": [
+   "EUSガイド下ドレナージはPOPFCに対して有効であり、専門施設において73%という高い臨床的成功率が得られた。",
+   "膵体尾部切除術後のPOPFCは、膵頭十二指腸切除術後と比較して再介入率が高く（32% vs. 20%）、臨床的成功の独立した阻害因子であった。",
+   "外科的または経皮的なステップアップ介入を必要とした割合は7.6%にとどまり、安全性プロファイルは許容範囲内であった。"
+  ],
+  "clinical_relevance": "POPFCの管理においてEUSガイド下ドレナージを第一選択として積極的に活用する根拠となり、特に膵体尾部切除術後の症例では追加介入の必要性を念頭に置いた慎重な経過観察が求められる。",
+  "study_type": "コホート",
+  "tags": [
+   "膵疾患",
+   "EUS",
+   "内視鏡的ドレナージ",
+   "術後合併症"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42887557/",
+  "doi_url": "https://doi.org/10.1055/a-2975-4821",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-10-18",
+  "pmid": "42887540",
+  "title": "Rapid versus slow puncture in endoscopic ultrasound-guided liver biopsy: a multicenter randomized crossover trial.",
+  "title_ja": "超音波内視鏡ガイド下肝生検における迅速穿刺法と緩徐穿刺法の比較：多施設無作為化クロスオーバー試験",
+  "journal": "Endoscopy",
+  "year": "2026",
+  "authors": "Wu Y, Qu Y, Wen W ほか",
+  "summary": "本研究は、超音波内視鏡ガイド下肝生検（EUS-LB）における迅速穿刺法と緩徐穿刺法を比較した前向き多施設無作為化クロスオーバー試験である。同一セッション内で両手技を交互に施行し、計62検体を解析した。迅速穿刺法は緩徐穿刺法と比較して、完全門脈域数（CPT）を平均2.39増加させ（95%CI 1.50–3.27）、総検体長（TSL）を平均15.19mm延長し（95%CI 9.65–20.74）、診断適切性も有意に改善した（オッズ比16.27、95%CI 2.41–109.97）。重篤な有害事象は認められず、迅速穿刺法がEUS-LBにおける検体品質の向上に寄与することが示された。",
+  "key_points": [
+   "迅速穿刺法は緩徐穿刺法と比較して、完全門脈域数を平均2.39、総検体長を平均15.19mm有意に増加させた。",
+   "迅速穿刺法による診断適切性の改善は統計的に有意であり（OR 16.27）、安全性についても重篤な有害事象は報告されなかった。",
+   "クロスオーバーデザインにより同一患者内で両手技を比較しており、施設間差や時期の影響は有意でなかった。"
+  ],
+  "clinical_relevance": "EUS-LBを実施する消化器内科医にとって、迅速穿刺法は検体品質を向上させる簡便な手技改良として日常臨床への導入を検討できる可能性がある。ただし本研究の症例数は限られており、より大規模・多様な集団での検証が今後必要である。",
+  "study_type": "RCT",
+  "tags": [
+   "EUS-LB",
+   "肝生検",
+   "超音波内視鏡",
+   "組織採取"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42887540/",
+  "doi_url": "https://doi.org/10.1055/a-2957-0455",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-10-18",
+  "pmid": "42887539",
+  "title": "Serrated polyp detection rates beyond adenoma detection rate for postcolonoscopy colorectal cancer: findings from the SCREESCO trial.",
+  "title_ja": "大腸内視鏡後大腸癌に対するアデノーマ検出率を超えた鋸歯状ポリープ検出率の意義：SCREESCOトライアルからの知見",
+  "journal": "Endoscopy",
+  "year": "2026",
+  "authors": "Sekiguchi M, Westerberg M, Andreasson A ほか",
+  "summary": "本研究はスウェーデンのSCREESCOトライアルのデータを用い、大腸内視鏡後大腸癌（PCCRC）の発生率および特徴を分析し、近位鋸歯状ポリープ検出率（PSPDR）とアデノーマ検出率（ADR）のPCCRCとの関連を検討したコホート研究である。大腸内視鏡群9,982例・FIT群5,875例を解析した結果、PCCRCは前者で20例・後者で17例に認められ、スクリーニング発見癌と比較してPCCRCは右側結腸・進行期の割合が高かった。PSPDRが低い内視鏡医（<10%）と高い内視鏡医（≥10%）でPCCRCの5年累積発生率はそれぞれ0.16%と0.06%であり、ADRが高い内視鏡医の中でもPSPDRが低群vs高群で0.13% vs 0.06%と差が認められ、PSPDRの1ポイント上昇ごとにハザード比0.90（95%CI 0.82–1.00、P=0.04）とPCCRC発生率の低下が示された。PSPDRはADRに加えてPCCRCリスクの高い内視鏡検査を同定するための補完的情報を提供する可能性が示唆された。",
+  "key_points": [
+   "PCCRCはスクリーニング発見癌と比較して右側結腸や進行期に多く、鋸歯状病変の見逃しが関与している可能性がある。",
+   "ADRが高い内視鏡医の中でも、PSPDRが低い群ではPCCRCの5年累積発生率が高く（0.13% vs 0.06%）、ADRだけでは内視鏡の質を十分に評価できない可能性がある。",
+   "PSPDRが1ポイント上昇するごとにPCCRCのリスクが約10%低下し（HR 0.90）、PSPDRが内視鏡品質指標として臨床的に有用である可能性が示された。"
+  ],
+  "clinical_relevance": "消化器内視鏡医にとって、ADRに加えてPSPDRを内視鏡品質指標として意識・管理することが、特に見逃されやすい右側結腸の鋸歯状病変を拾い上げ、大腸内視鏡後大腸癌を減少させるうえで重要である。専門研修においても、鋸歯状ポリープの体系的な検索・認識スキルの習得が求められる。",
+  "study_type": "コホート",
+  "tags": [
+   "大腸内視鏡",
+   "大腸癌スクリーニング",
+   "鋸歯状ポリープ",
+   "内視鏡品質指標"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42887539/",
+  "doi_url": "https://doi.org/10.1055/a-2955-8529",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-10-17",
   "pmid": "42880653",
   "title": "Optimal Incidence Threshold for Cost-Effective Hepatocellular Carcinoma Surveillance in Alcohol-Associated Cirrhosis.",

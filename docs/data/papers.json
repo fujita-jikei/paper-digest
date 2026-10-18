@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-10-19",
+  "pmid": "42892545",
+  "title": "Bicentric comparison of 3-year clinical outcomes between endoscopic ultrasound-guided embolization with coil and hemostatic adjunct versus balloon-occluded retrograde transvenous obliteration for treatment of bleeding gastric varices: A propensity-score matched study.",
+  "title_ja": "出血性胃静脈瘤治療におけるEUS誘導下コイル塞栓術とバルーン閉塞下逆行性経静脈的塞栓術の3年臨床転帰の二施設比較：傾向スコアマッチング研究",
+  "journal": "Gastrointest Endosc",
+  "year": "2026",
+  "authors": "Siranart N, Wang TJ, Konyn P ほか",
+  "summary": "本研究は、2009〜2024年に2つの三次医療センターで出血性胃静脈瘤に対してEUS誘導下コイル注入術（EUS-COIL）またはバルーン閉塞下逆行性経静脈的塞栓術（BRTO）を施行した計94例（EUS-COIL 48例、BRTO 46例）を対象とした後ろ向きコホート研究である。傾向スコアマッチング後の肝硬変患者コホート（各群30例）において、技術的成功率は両群ともに100%であった一方、有害事象の発生率はEUS-COIL群で有意に低く（3% vs 37%、p=0.003）、再介入までの期間もEUS-COIL群で有意に長かった（65±52日 vs 10±9.6日、p=0.022）。さらに、肝機能のさらなる非代償化の発生率もEUS-COIL群で有意に低く（10% vs 40%、p=0.007）、ハザード比0.28（95%CI: 0.08-0.984）であった。これらの結果から、EUS-COILはBRTOと比較して有害事象が少なく肝予備能の悪化を抑制する可能性があり、出血性胃静脈瘤に対するステップアップ戦略における第一選択治療となりうると結論付けられた。",
+  "key_points": [
+   "傾向スコアマッチング後の肝硬変患者において、EUS-COILはBRTOと比べて有害事象発生率が有意に低く（3% vs 37%）、長期的な安全性に優れていた。",
+   "EUS-COIL群ではBRTO群と比較して肝機能のさらなる非代償化（食道静脈瘤出血・新規腹水・新規肝性脳症）の発生率が有意に低く（10% vs 40%）、肝予備能の温存に有利である可能性が示された。",
+   "マッチング前の全体コホートでは、技術的成功率（100% vs 80%、p=0.001）および臨床的成功率（100% vs 89%、p=0.03）ともにEUS-COILが有意に優れていた。"
+  ],
+  "clinical_relevance": "消化器内科専攻医にとって、胃静脈瘤出血の治療選択においてEUS-COILがBRTOに比べて安全性・有効性ともに優れている可能性を示す重要なデータであり、EUSを用いた血管内治療の習得が臨床上の強みとなりうる。ただし、本研究は後ろ向き研究であり、より大規模な前向き研究による検証が求められる。",
+  "study_type": "コホート",
+  "tags": [
+   "胃静脈瘤",
+   "EUS",
+   "肝硬変",
+   "消化管出血"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42892545/",
+  "doi_url": "https://doi.org/10.1016/j.gie.2026.10.010",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-10-19",
+  "pmid": "42892386",
+  "title": "EsoEinstein: A Multimodal AI System Integrating EGD and FLIP for Esophageal Motility Assessment.",
+  "title_ja": "EsoEinstein：上部消化管内視鏡とFLIPを統合した食道運動評価のためのマルチモーダルAIシステム",
+  "journal": "Clin Gastroenterol Hepatol",
+  "year": "2026",
+  "authors": "Kaklamanos E, Kristinsdottir K, Soni P ほか",
+  "summary": "本研究は、食道アカラシアの診断においてシカゴ分類v4.0を参照基準とし、上部消化管内視鏡（EGD）動画・機能的管腔内インピーダンス測定（FLIP）ヒートマップ画像・両者を統合したマルチモーダルAIモデルを開発・検証した後ろ向き研究である。対象は高解像度食道内圧検査（HRM）とEGDおよび/またはFLIPデータが利用可能な成人患者1,802例で、それぞれトレーニング・バリデーション・テストセットに分割された。テストセットにおいて、EGDモデルは感度0.724・特異度0.974・AUC 0.908、FLIPモデルは感度0.862・特異度0.821・AUC 0.931を示し、両者を統合したマルチモーダルモデルが最も優れた性能（感度0.931・特異度0.846・AUC 0.969）を達成した。マルチモーダルAIはエキスパートレベルの精度を有し、HRMを要しない低侵襲なアカラシア診断の補助ツールとなる可能性が示された。",
+  "key_points": [
+   "EGDとFLIPを統合したマルチモーダルAIモデルはAUC 0.969と最高の診断精度を示し、単一モダリティのモデルを上回った。",
+   "侵襲的で患者負担の大きいHRMに代わる、低侵襲なアカラシア診断ワークフローの構築に貢献しうる技術的枠組みを提示した。",
+   "モデル間の差異はCochranのQ検定で統計的有意差がなく、実臨床への適用には今後の前向き・外部検証が必要である。"
+  ],
+  "clinical_relevance": "HRMへのアクセスが限られた施設や患者負担軽減の観点から、内視鏡検査とFLIPデータを活用したAI診断支援はアカラシア診断の効率化に寄与する可能性があり、消化器内科専攻医にとって食道機能疾患診断の新たなアプローチとして注目すべき技術である。",
+  "study_type": "コホート",
+  "tags": [
+   "食道アカラシア",
+   "AI診断支援",
+   "食道運動障害",
+   "内視鏡"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42892386/",
+  "doi_url": "https://doi.org/10.1016/j.cgh.2026.09.051",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-10-19",
+  "pmid": "42887516",
+  "title": "Thyroid hormone receptor-β agonist simedeutirom (HSK31679) for Chinese patients with metabolic dysfunction-associated steatohepatitis: a 52-week, multicentre, randomised, double-blind, placebo-controlled, phase 2b trial.",
+  "title_ja": "中国人の代謝機能障害関連脂肪性肝炎患者に対する甲状腺ホルモン受容体β作動薬シメデウティロム（HSK31679）の有効性と安全性：52週間、多施設共同、無作為化、二重盲検、プラセボ対照、第2b相試験",
+  "journal": "Lancet Gastroenterol Hepatol",
+  "year": "2026",
+  "authors": "Xue F, Liu J, Chen J ほか",
+  "summary": "本試験は、中国42施設において生検確認済みのMASH（F2またはF3線維化）を有する成人患者186例を対象に、甲状腺ホルモン受容体β選択的作動薬シメデウティロム80mg、160mg、またはプラセボを52週間1日1回投与する無作為化二重盲検試験である。主要エンドポイントである「線維化悪化を伴わないMASH改善」の達成率は、80mg群37%、160mg群30%に対しプラセボ群では10%であり、プラセボとのオッズ比はそれぞれ4.87（95%CI 1.76–13.48、p=0.0023）および5.24（95%CI 1.74–15.72、p=0.0032）と有意な改善を示した。安全性については、グレード3の治療関連有害事象は各群で5〜8%に認められたものの、グレード4〜5の有害事象や死亡、治療中止に至る有害事象は認められず、忍容性は良好であった。以上の結果から、シメデウティロムはMASHに対する有望な治療薬であり、第3相試験での検証が正当化される。",
+  "key_points": [
+   "シメデウティロム80mgおよび160mgはいずれも、プラセボと比較して線維化悪化を伴わないMASH改善においてプラセボ差がそれぞれ27.3ポイント、20.0ポイントと統計学的に有意な改善を示した。",
+   "52週間の投与を通じてグレード4〜5の有害事象・死亡・治療中止例は認められず、シメデウティロムの安全性プロファイルはプラセボと同程度であった。",
+   "本試験はアジア人（中国人）患者を対象としており、MASHの病態や治療反応性に人種差がある可能性を踏まえた上で結果を解釈する必要がある。"
+  ],
+  "clinical_relevance": "MASH（代謝機能障害関連脂肪性肝炎）に対する承認薬が限られる現状において、甲状腺ホルモン受容体β作動薬という新規作用機序の治療選択肢として臨床的注目度が高く、消化器内科・肝臓内科専門医はその作用機序と有効性エビデンスを把握しておく必要がある。",
+  "study_type": "RCT",
+  "tags": [
+   "MASH",
+   "脂肪性肝疾患",
+   "肝線維化",
+   "甲状腺ホルモン受容体"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42887516/",
+  "doi_url": "https://doi.org/10.1016/S2468-1253(26)00243-8",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-10-18",
   "pmid": "42887557",
   "title": "Predictors of clinical success in endoscopic ultrasound-guided drainage of postoperative pancreatic fluid collections.",

@@ -1,5 +1,57 @@
 [
  {
+  "date": "2026-10-20",
+  "pmid": "42895849",
+  "title": "Integrating Non-Invasive Liver Assessment into Screening Colonoscopy: A Prospective Cross-Sectional Study.",
+  "title_ja": "大腸がん検診のための大腸内視鏡検査に非侵襲的肝評価を統合する：前向き横断研究",
+  "journal": "Am J Gastroenterol",
+  "year": "2026",
+  "authors": "Qasem M, Bednář O, Procházka V ほか",
+  "summary": "本研究は、大腸がん検診目的の大腸内視鏡検査の機会に非侵襲的肝評価を組み込む feasibility・受容性・診断収率を検討した前向き横断研究である。50歳以上の検診受診者610名を対象に肝臓超音波検査およびpoint shear wave elastographyを実施したところ、88.2%の参加率・94.9%の信頼性ある肝硬度測定取得率が得られた。超音波による脂肪肝は55.5%に認められ、肝硬度が1.50 m/s（有意線維化相当）以上の参加者は9.0%、1.70 m/s（代償性進行慢性肝疾患相当）以上は5.0%に達した。リスク因子基準はLSM≥1.50 m/sの参加者の76.6%を同定したが、FIB-4は同閾値での鑑別能が中程度（AUROC 0.682）にとどまり、大腸内視鏡検査への肝評価統合は未診断の肝疾患発見に有効であると結論された。",
+  "key_points": [
+   "大腸がん検診受診者の55.5%に脂肪肝が認められ、9.0%が有意線維化相当（LSM≥1.50 m/s）、5.0%が代償性進行慢性肝疾患相当（LSM≥1.70 m/s）であり、スクリーニング機会を通じた肝疾患の検出意義は大きい。",
+   "FIB-4はLSM≥1.50 m/sに対する鑑別能がAUROC 0.682と中程度であり、年齢調整閾値を用いると感度がさらに低下（0.706→0.529）するため、単独での肝線維化スクリーニングには限界がある。",
+   "リスク因子基準ベースのcase-findingはLSM≥1.50 m/sの参加者の76.6%しか捕捉できず、リスク因子を有さない患者にも有意な肝疾患が存在しうることが示された。"
+  ],
+  "clinical_relevance": "検診目的で大腸内視鏡検査を受ける患者は予防意識の高い集団であり、その受診機会を利用した肝臓超音波・shear wave elastographyの実施は、未診断の脂肪性肝疾患や肝線維化を効率的に発見できる可能性がある。消化器内科医は大腸内視鏡検査に肝評価を組み込む「機会的スクリーニング」戦略を今後の診療設計において考慮する価値がある。",
+  "study_type": "その他",
+  "tags": [
+   "脂肪性肝疾患",
+   "肝線維化",
+   "大腸内視鏡",
+   "非侵襲的検査"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42895849/",
+  "doi_url": "https://doi.org/10.14309/ajg.0000000000004236",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-10-20",
+  "pmid": "42895834",
+  "title": "Implementation of Programmatic Mailed Fecal Immunochemical Testing for Colorectal Cancer Screening in the Veterans Health Administration.",
+  "title_ja": "退役軍人保健局における大腸癌スクリーニングのための郵送便潜血免疫学的検査（FIT）プログラムの導入と初期成果",
+  "journal": "Am J Gastroenterol",
+  "year": "2026",
+  "authors": "Dominitz JA, Robertson DJ, Patil A ほか",
+  "summary": "本研究は、COVID-19パンデミックを契機に米国退役軍人保健局（VA）が導入した郵送便FIT（便潜血免疫学的検査）による大腸癌スクリーニングプログラムの開発・実施・初期成果を報告した実装研究である。2022年12月から2025年9月の間に643,933件のFITが発送され、返送率は40.2%、検査可能割合は89.1%であった。異常結果は7.4%に認められ、そのうち大腸内視鏡が完了したのは54.4%にとどまったが、内視鏡施行例では腺腫検出率68.0%、腺癌検出率2.3%という高い陽性的中率が示された。郵送FIT導入率とスクリーニング最新状態の維持率との間には有意な正の相関（r=0.65, p=0.003）が認められ、集団レベルの大腸癌スクリーニング向上に貢献することが示された。",
+  "key_points": [
+   "郵送FITプログラムは対象施設の89.5%に導入され、643,933件の発送に対して返送率40.2%、異常率7.4%という実臨床レベルの成果が得られた。",
+   "FIT陽性後の大腸内視鏡完了率は54.4%にとどまっており、フォローアップの強化が今後の課題として浮き彫りになっている。",
+   "郵送FIT採用率の向上はスクリーニング最新維持率と有意に相関（r=0.65, p=0.003）しており、アウトリーチ型スクリーニングの集団医療的意義が示された。"
+  ],
+  "clinical_relevance": "郵送FITによる集団アウトリーチは大腸癌スクリーニング率を改善する有効な手段であり、消化器内科医としてFIT陽性後の内視鏡フォローアップ体制の構築や、地域・施設単位のスクリーニングプログラム設計に関与する際の参考となる。",
+  "study_type": "その他",
+  "tags": [
+   "大腸癌スクリーニング",
+   "FIT",
+   "集団医療",
+   "大腸内視鏡"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42895834/",
+  "doi_url": "https://doi.org/10.14309/ajg.0000000000004235",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-10-19",
   "pmid": "42892545",
   "title": "Bicentric comparison of 3-year clinical outcomes between endoscopic ultrasound-guided embolization with coil and hemostatic adjunct versus balloon-occluded retrograde transvenous obliteration for treatment of bleeding gastric varices: A propensity-score matched study.",

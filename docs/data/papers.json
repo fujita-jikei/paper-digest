@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-10-21",
+  "pmid": "42900361",
+  "title": "Risk factors for non-closure of diverting loop ileostomy after rectal cancer surgery: a multicenter prospective study conducted by the Clinical Study Group of Osaka University, Colorectal Group.",
+  "title_ja": "直腸癌術後の回腸双孔式ストーマ閉鎖不能の危険因子：大阪大学大腸グループ臨床研究会による多施設前向き研究",
+  "journal": "J Gastroenterol",
+  "year": "2026",
+  "authors": "Miyo M, Uemura M, Ozato Y ほか",
+  "summary": "本研究は、直腸癌術後に造設された回腸双孔式ストーマの閉鎖率・閉鎖不能の理由・関連する術前因子を評価した多施設前向き研究のサブ解析である。24施設で腹腔鏡またはロボット支援下低位前方切除術・括約筋間直腸切除術を施行した直腸腺癌患者320例を対象とし、術後1年以内に閉鎖されなかった場合を「閉鎖不能」と定義した。閉鎖不能は22例（6.9%）に認められ、その理由は術後合併症（9例）、癌再発（6例）、患者希望（5例）、死亡（2例）であった。閉鎖不能群では閉鎖群と比較して、ASA-PS≥2（86.4% vs. 63.8%）、stage III-IV（68.2% vs. 38.9%）、血清アルブミン<3.5 g/dL（31.8% vs. 7.4%）の頻度が有意に高く、これらの因子が術前カウンセリングに有用である可能性が示された。",
+  "key_points": [
+   "直腸癌術後に造設された回腸双孔式ストーマの閉鎖不能率は6.9%（320例中22例）であり、その最多原因は術後合併症（9例）であった。",
+   "閉鎖不能群ではASA-PS≥2、臨床病期III-IV、血清アルブミン<3.5 g/dLの割合がいずれも有意に高く、これらが閉鎖不能の関連因子として同定された。",
+   "術前にこれらのリスク因子を把握することで、永久ストーマとなる可能性を念頭に置いた患者への術前インフォームドコンセントに役立てることができる。"
+  ],
+  "clinical_relevance": "直腸癌手術を担当する消化器内科・外科医にとって、ストーマ閉鎖不能のリスクを術前に評価し患者へ適切に説明するための具体的な指標（ASA-PS、病期、血清アルブミン値）として活用できる。また、術前栄養状態の改善介入を検討する根拠としても参考になる。",
+  "study_type": "コホート",
+  "tags": [
+   "直腸癌",
+   "ストーマ",
+   "大腸外科",
+   "術後合併症"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42900361/",
+  "doi_url": "https://doi.org/10.1016/j.ejso.2021.01.030",
+  "pmc_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11076370/"
+ },
+ {
+  "date": "2026-10-21",
+  "pmid": "42896763",
+  "title": "Meta-analysis of single session versus two-stage endoscopic ultrasound directed transgastric ERCP (EDGE) in gastric bypass patients.",
+  "title_ja": "胃バイパス術後患者における単セッションERCP（SS EDGE）と二段階EDGEのメタ解析",
+  "journal": "Gastrointest Endosc",
+  "year": "2026",
+  "authors": "Singh S, Sapkota B, Peleg N ほか",
+  "summary": "本研究は、胃バイパス術後患者に対する超音波内視鏡ガイド下経胃的ERCP（EDGE）において、単セッション（SS EDGE）と二段階アプローチを比較したメタ解析である。7件の観察研究・計346例（SS EDGE 47%、二段階EDGE 53%）を対象とし、技術的成功率、臨床的成功率、ステント逸脱/移動、有害事象、持続瘻孔、体重増加を主要アウトカムとして検討した。技術的成功（OR 0.34, 95%CI 0.03–3.53, p=0.37）、臨床的成功（OR 1.88, 95%CI 0.38–9.17, p=0.44）、ステント逸脱/移動（OR 1.70, 95%CI 0.88–3.31, p=0.12）、全有害事象（OR 1.45, 95%CI 0.38–5.48, p=0.58）、持続瘻孔（OR 1.00, 95%CI 0.32–3.09, p=0.99）、体重増加（OR 1.25, 95%CI 0.32–4.84, p=0.75）のいずれにおいても両群間に有意差は認めなかった。結論として、SS EDGEと二段階EDGEは有効性・安全性において同等であることが示された。",
+  "key_points": [
+   "SS EDGEと二段階EDGEは、技術的成功・臨床的成功・有害事象・持続瘻孔・体重増加のすべての評価項目で統計的に有意な差を認めなかった。",
+   "EDGE手技の約80%は胆道疾患を適応としており、残りは膵疾患を対象としていた。",
+   "本メタ解析は観察研究7件・346例に基づいており、エビデンスレベルの限界に留意が必要である。"
+  ],
+  "clinical_relevance": "胃バイパス術後でERCPが必要な患者に対してEDGEを実施する際、単セッションと二段階アプローチのいずれを選択しても有効性・安全性に差がないことが示されており、患者の状態や施設体制に応じた柔軟な戦略選択が可能であることを示唆する。消化器内視鏡専攻医にとって、外科既往のある特殊解剖症例へのアプローチを学ぶ上で重要なエビデンスである。",
+  "study_type": "メタ解析",
+  "tags": [
+   "ERCP",
+   "内視鏡",
+   "肥満外科",
+   "胆膵"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42896763/",
+  "doi_url": "https://doi.org/10.1016/j.gie.2026.10.011",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-10-21",
+  "pmid": "42896564",
+  "title": "Updated treatment targets in inflammatory bowel disease (STRIDE-III): an initiative of the International Organization for the Study of IBD.",
+  "title_ja": "炎症性腸疾患における治療目標の更新（STRIDE-III）：IBD国際研究機構によるイニシアチブ",
+  "journal": "Lancet Gastroenterol Hepatol",
+  "year": "2026",
+  "authors": "Turner D, Ricciuto A, Yuval Bar-Asher S ほか",
+  "summary": "本研究は、STRIDE-II以降に蓄積された新たなエビデンスをもとに、クローン病および潰瘍性大腸炎における治療目標を更新することを目的とした系統的レビューおよびデルファイ法を用いたコンセンサス形成研究である。MEDLINE・Embase・Cochrane CENTRALから特定された13,071件の文献のうち1,018件が採択され、IOIBD消化器内科医60名および小児消化器科医23名が調査に参加した。STRIDE-IIIでは治療目標を「実行可能目標（臨床的反応・寛解、CRP正常化、便中カルプロテクチン目標範囲内、内視鏡的寛解）」「補助的目標（便意切迫感、組織学的寛解、壁貫通性寛解、成長）」「患者中心目標（障害・疲労・QOL）」の3カテゴリーに概念的に区別し、それぞれに対応する行動指針を定めた。本フレームワークは、治療クラスの変更を要する目標とモニタリング最適化を主目的とする目標を明確に区別し、エビデンスに基づいたtreat-to-target診療の一貫した実践を支援する。",
+  "key_points": [
+   "STRIDE-IIIは治療目標を「実行可能目標」「補助的目標」「患者中心目標」の3カテゴリーに概念的に分類し、それぞれが治療変更・最適化・患者との共同意思決定のいずれを促すかを明確に定義した。",
+   "便中カルプロテクチンの新たな目標閾値が設定されるとともに、治療薬ごとの目標達成までの時期区分（即時・短期・中期・長期）が規定された。",
+   "リソースが限られた医療環境への対応策も盛り込まれており、国際的な多様な診療状況への適用可能性が考慮されている。"
+  ],
+  "clinical_relevance": "IBDの治療戦略の根幹であるtreat-to-targetアプローチの最新指針として、日常臨床における治療変更や治療最適化のタイミングの判断に直接役立つ。消化器内科専門医を目指す医師にとって、STRIDE-IIIの目標分類と時期区分を習得することは、クローン病・潰瘍性大腸炎の標準的管理に不可欠な知識となる。",
+  "study_type": "ガイドライン",
+  "tags": [
+   "IBD",
+   "クローン病",
+   "潰瘍性大腸炎",
+   "treat-to-target"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42896564/",
+  "doi_url": "https://doi.org/10.1016/S2468-1253(26)00292-X",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-10-20",
   "pmid": "42895849",
   "title": "Integrating Non-Invasive Liver Assessment into Screening Colonoscopy: A Prospective Cross-Sectional Study.",

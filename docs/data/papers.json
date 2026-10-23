@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-10-24",
+  "pmid": "42906088",
+  "title": "Helicobacter pylori Infection - Advances, Challenges, and the Road Ahead.",
+  "title_ja": "ヘリコバクター・ピロリ感染症――進歩、課題、そして今後の展望",
+  "journal": "N Engl J Med",
+  "year": "2026",
+  "authors": "Li H, Megraud F, Marshall BJ",
+  "summary": "本論文は、ヘリコバクター・ピロリ（H. pylori）感染症に関するNEJM掲載の総説であり、発見から40年間の研究の歴史と主要なマイルストーンを包括的にまとめている。H. pyloriの発見は、胃炎・消化性潰瘍・胃癌の予防と治療に革命をもたらしたが、ワクチンの不在および世界的な抗菌薬耐性の増加により、感染の予防・治療における課題は依然として大きい。本総説は、病態発生機序と世界的疾患負担の最新知見、胃癌一次予防のためのスクリーニング戦略、およびH. pylori感染管理における新興トレンドについて詳述している。具体的な数値データは抄録内には記載されていないが、臨床・基礎研究双方の視点から今後の方向性が示されている。",
+  "key_points": [
+   "H. pyloriの発見は胃炎・消化性潰瘍・胃癌の予防・治療に革命をもたらし、40年間で臨床・基礎研究において著しい進歩が達成された。",
+   "有効なH. pyloriワクチンが存在しないこと、および世界的な抗菌薬耐性の増大が、感染予防・治療における主要な課題となっている。",
+   "胃癌の一次予防を目的としたスクリーニング戦略の重要性と、H. pylori感染管理における新たなトレンドが強調されている。"
+  ],
+  "clinical_relevance": "消化器内科研修医にとって、H. pylori感染の病態理解・除菌治療戦略・抗菌薬耐性への対応は日常診療の根幹であり、本総説は胃癌予防を含む最新の管理方針を体系的に学ぶ上で重要な参考文献となる。",
+  "study_type": "総説",
+  "tags": [
+   "ヘリコバクター・ピロリ",
+   "胃癌",
+   "抗菌薬耐性",
+   "消化性潰瘍"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42906088/",
+  "doi_url": "https://doi.org/10.1056/NEJMra2414530",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-10-24",
+  "pmid": "42909608",
+  "title": "Claims-based frailty and short-term adverse events after esophageal or gastric endoscopic submucosal dissection in older adults.",
+  "title_ja": "高齢者における食道・胃ESD後の短期有害事象と請求データに基づくフレイルの関連",
+  "journal": "J Gastroenterol",
+  "year": "2026",
+  "authors": "Hisada H, Tsuji Y, Kakushima N ほか",
+  "summary": "本研究は、日本の全国規模の診療報酬請求データベースを用いて、75歳以上で初回食道または胃ESDを施行された15,184例を対象としたコホート研究である。フレイルはHospital Frailty Risk Score（HFRS）を用いて定義し、1:1傾向スコアマッチング後に4,970ペアを比較した。フレイル群では短期有害事象の複合アウトカム（穿孔・腹膜炎、遅発性出血、血栓塞栓症、誤嚥性肺炎、30日全死亡）が有意に高く（調整オッズ比1.35、95%信頼区間1.19–1.53）、特に穿孔・腹膜炎と遅発性出血が主な寄与因子であった。また、フレイル群は追跡期間中の全生存率が低かったが、入院期間の中央値は両群で同一であった。",
+  "key_points": [
+   "HFRSで定義されたフレイルは、高齢者の食道・胃ESD後の短期有害事象複合アウトカムと有意に関連し（調整OR 1.35）、特に穿孔・腹膜炎および遅発性出血のリスク増加が主な要因であった。",
+   "30日死亡率、血栓塞栓症、誤嚥性肺炎については、フレイル群と非フレイル群の間で有意差は認められなかった。",
+   "ルーティンで収集される診療報酬請求データからフレイルを算出することで、周術期により密な観察が必要な脆弱な患者を術前に同定できる可能性がある。"
+  ],
+  "clinical_relevance": "消化器内科医にとって、ESD前のリスク層別化において年齢や併存疾患だけでなく請求データを活用したフレイル評価を取り入れることで、周術期管理の強化が必要な高齢患者を事前に特定する手がかりとなる。特に遅発性出血や穿孔への対策として、フレイル患者への術後モニタリング強化を検討する根拠となり得る。",
+  "study_type": "コホート",
+  "tags": [
+   "ESD",
+   "フレイル",
+   "高齢者",
+   "内視鏡"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42909608/",
+  "doi_url": "https://doi.org/10.1186/s12877-024-04939-w",
+  "pmc_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11025141/"
+ },
+ {
+  "date": "2026-10-24",
+  "pmid": "42906873",
+  "title": "Personalized Prehabilitation: A Pathway to Improved Frailty Metrics and Survival in Liver Transplant Candidates.",
+  "title_ja": "個別化プレハビリテーション：肝移植候補者におけるフレイル指標と生存率改善への道筋",
+  "journal": "Clin Gastroenterol Hepatol",
+  "year": "2026",
+  "authors": "Lin FP, Bloomer PM, Dunn MA ほか",
+  "summary": "本研究は、外来での個別化プレハビリテーションが肝移植（LT）候補者のフレイルおよび生存率に与える影響を検討した前向き・後向き混合コホート研究である。1275名のLT候補者を対象に、専任の理学療法士による個別プログラムを実施し、Liver Frailty Index（LFI）・6分間歩行試験（6MWT）・歩行速度試験（GST）で評価した。2回以上の受診を完了した355名では、LFIが中央値−0.39改善し、6MWTが平均54m延長したが、GSTの改善は半数未満にとどまった。LFIが0.4以上改善した群では死亡リスクが約50%低下（HR=0.56, p=0.037）し、LFI 0.4の改善が最小臨床的重要差（MCID）として提案された。",
+  "key_points": [
+   "LFIが0.4以上改善することは、競合リスクモデルを含む多変量解析において死亡リスクの約50%低下と有意に関連し、フレイル介入におけるMCIDとして位置づけられる。",
+   "6MWTは有意な改善を示したものの（平均+54m）、生存優位性とは関連しなかった一方、LFIは生存転帰を予測する上でより有用な指標であることが示唆された。",
+   "個別化された外来プレハビリテーションプログラムにより、ベースラインで23〜29%がフレイルと評価された肝移植候補者集団において、身体機能の有意な改善が得られた。"
+  ],
+  "clinical_relevance": "肝移植待機患者に対して、理学療法士と連携した個別化プレハビリテーションの導入が移植前管理の重要な戦略となり得る。LFI 0.4の改善をターゲットとした介入効果の評価が、日常の移植外来における実践的な指標となる。",
+  "study_type": "コホート",
+  "tags": [
+   "肝移植",
+   "フレイル",
+   "プレハビリテーション",
+   "肝硬変"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42906873/",
+  "doi_url": "https://doi.org/10.1016/j.cgh.2026.09.044",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-10-21",
   "pmid": "42900361",
   "title": "Risk factors for non-closure of diverting loop ileostomy after rectal cancer surgery: a multicenter prospective study conducted by the Clinical Study Group of Osaka University, Colorectal Group.",

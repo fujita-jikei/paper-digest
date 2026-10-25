@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-10-26",
+  "pmid": "42925880",
+  "title": "14-day versus 28-day trifluridine-tipiracil plus bevacizumab for refractory metastatic colorectal cancer (PRABITAS): a pragmatic, multicentre, open-label, randomised, phase 3, non-inferiority trial in Japan.",
+  "title_ja": "難治性転移性大腸癌に対するトリフルリジン・チピラシル＋ベバシズマブの14日スケジュール対28日スケジュール（PRABITAS）：日本における実用的・多施設・非盲検・無作為化・第3相非劣性試験",
+  "journal": "Lancet",
+  "year": "2026",
+  "authors": "Sakakida T, Taniguchi H, Asayama M ほか",
+  "summary": "本試験（PRABITAS）は、難治性転移性大腸癌患者970例を対象に、FTD-TPI＋ベバシズマブの14日スケジュール（各サイクルでFTD-TPI 1〜5日目、ベバシズマブ1日目）が従来の28日スケジール（FTD-TPI 1〜5日・8〜12日目、ベバシズマブ1・15日目）に対して全生存期間で非劣性かを検証した日本の第3相無作為化試験である。中央値追跡期間17.9ヶ月において、全生存期間の中央値は28日群10.3ヶ月に対し14日群11.3ヶ月（層別ハザード比0.93、95%CI 0.80〜1.08）であり、事前規定の非劣性マージン1.25を満たした。さらに、グレード3以上の好中球減少症の発現率は14日群で有意に低く（13% vs 39%）、グレード2以上の食欲不振も14日群で減少した（15% vs 26%）。以上より、14日スケジュールは全生存期間において非劣性を示しつつ毒性を軽減し、新たな標準レジメンとなりうることが示された。",
+  "key_points": [
+   "14日スケジュールは28日スケジュールに対して全生存期間で非劣性を達成し（層別HR 0.93、95%CI 0.80〜1.08）、12ヶ月全生存率はそれぞれ47.5%対44.0%であった。",
+   "グレード3以上の好中球減少症が14日群で大幅に減少し（13% vs 39%、絶対差25ポイント）、骨髄毒性・消化器毒性ともに軽減された。",
+   "本試験は178施設・972例という大規模な実臨床に即したプラグマティック試験設計であり、結果の一般化可能性が高い。"
+  ],
+  "clinical_relevance": "難治性転移性大腸癌に対するFTD-TPI＋ベバシズマブ療法において、14日スケジュールは生存を損なわずに毒性を軽減できる新たな標準レジメンとして今後の日常臨床に直結する知見であり、消化器内科専攻医は投与スケジュール変更の根拠として本試験を理解しておく必要がある。",
+  "study_type": "RCT",
+  "tags": [
+   "大腸癌",
+   "化学療法",
+   "転移性大腸癌",
+   "FTD-TPI"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42925880/",
+  "doi_url": "https://doi.org/10.1016/S0140-6736(26)01782-4",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-10-26",
+  "pmid": "42913703",
+  "title": "Endoscopic ultrasound in hepatology: A European Society of Gastrointestinal Endoscopy (ESGE) Technical and Technology Review.",
+  "title_ja": "肝臓病学における超音波内視鏡：欧州消化器内視鏡学会（ESGE）技術・テクノロジーレビュー",
+  "journal": "Endoscopy",
+  "year": "2026",
+  "authors": "Fabbri C, Binda C, Iglesias Garcia J ほか",
+  "summary": "本論文は、肝疾患および門脈圧亢進症におけるEUS（超音波内視鏡）ガイド下技術に関するESGEの技術・テクノロジーレビューである。2026年4月までの文献を系統的に検索し、GRADEフレームワークを用いて8つのESGEステートメントが作成された。EUSガイド下剪断波エラストグラフィや造影EUSは補助的技術として、EUSガイド下肝生検・門脈圧較差測定は選択された患者および専門施設での補完的アプローチとして、EUSガイド下胃静脈瘤治療は適切な専門性が確保できる施設での有効な代替手段として支持される一方、門脈サンプリングはいまだ研究的段階にある。全体的に、小規模試験・手技の異質性・前向き比較データの不足により、エビデンスの質は限定的である。",
+  "key_points": [
+   "EUSガイド下肝生検および門脈圧較差測定は、選択された患者と専門施設において既存手技を補完するアプローチとして位置付けられる。",
+   "EUSガイド下胃静脈瘤治療は、十分な専門技術が確保できる施設では直接内視鏡的注入療法の有効な代替手段となりうる。",
+   "門脈サンプリング（リキッドバイオプシー応用）はいまだ研究段階であり、標準化された手技・アウトカム定義・前向き比較試験が今後の普及に不可欠である。"
+  ],
+  "clinical_relevance": "消化器内科医にとって、EUS技術が肝疾患・門脈圧亢進症の診断・治療においてどのように活用できるかを体系的に整理した実践的な参照資料となる。ただし多くの適応で専門施設での施行が前提とされており、研修プログラムの整備と技術の標準化が課題となる。",
+  "study_type": "総説",
+  "tags": [
+   "超音波内視鏡",
+   "門脈圧亢進症",
+   "肝疾患",
+   "EUS"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42913703/",
+  "doi_url": "https://doi.org/10.1055/a-2964-7886",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-10-26",
+  "pmid": "42913702",
+  "title": "Cold versus hot snare endoscopic mucosal resection for 10-19-mm nonpedunculated colorectal polyps: a multicenter randomized trial.",
+  "title_ja": "10〜19mmの非有茎性大腸ポリープに対するコールドスネアEMRとホットスネアEMRの比較：多施設ランダム化試験",
+  "journal": "Endoscopy",
+  "year": "2026",
+  "authors": "Jiang Q, An X, Yan X ほか",
+  "summary": "本研究は、10〜19mmの非有茎性大腸ポリープを対象に、コールドスネアEMR（CS-EMR）とホットスネアEMR（HS-EMR）を比較する15施設共同のランダム化比較試験である。233病変（CS-EMR 116例、HS-EMR 117例）を解析した結果、modified ITT解析における組織学的完全切除率はCS-EMR群90.4%、HS-EMR群93.2%（差：-2.7%、95%CI -9.8〜4.3）であり、非劣性マージン-10%を満たしCS-EMRの非劣性が示された。サブグループ解析では10〜14mmポリープではCS-EMRの非劣性が確認されたが、15〜19mmポリープではCS-EMR 78.6% vs. HS-EMR 90.9%（95%CI -30.4〜5.8）と非劣性は示されなかった。手技中出血はCS-EMR群で有意に多く（19.1% vs. 3.4%）、遅発性出血は両群ともまれであり、穿孔は認められなかった。",
+  "key_points": [
+   "CS-EMRは10〜19mmの非有茎性大腸ポリープ全体において組織学的完全切除率でHS-EMRに対する非劣性を示したが、15〜19mmの病変への適応については不確実性が残る。",
+   "手技中出血はCS-EMR群で有意に多かった（19.1% vs. 3.4%）が、遅発性出血はきわめてまれであり、両群で穿孔は発生しなかった。",
+   "一括切除率および切除時間は両群間で同等であった。"
+  ],
+  "clinical_relevance": "10〜14mmの非有茎性大腸ポリープに対してはCS-EMRが安全かつ有効な選択肢となりうるが、15〜19mmの病変に対してはHS-EMRの優位性を否定できず、治療方針の選択に際して病変サイズを考慮する必要がある。",
+  "study_type": "RCT",
+  "tags": [
+   "大腸内視鏡",
+   "EMR",
+   "大腸ポリープ",
+   "コールドスネア"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42913702/",
+  "doi_url": "https://doi.org/10.1055/a-2955-8772",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-10-25",
   "pmid": "42914292",
   "title": "AGA/AASLD Clinical Practice Guideline on Management of Primary Biliary Cholangitis.",

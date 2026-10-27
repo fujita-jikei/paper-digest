@@ -1,5 +1,57 @@
 [
  {
+  "date": "2026-10-28",
+  "pmid": "42937528",
+  "title": "Prevention and Management of Electrocautery-enhanced Lumen-apposing Metal Stent (EC-LAMS) Complications.",
+  "title_ja": "電気焼灼強化型内腔対向金属ステント（EC-LAMS）合併症の予防と管理",
+  "journal": "Am J Gastroenterol",
+  "year": "2026",
+  "authors": "Ansari Z, Medina-Morales E, Shah TU ほか",
+  "summary": "本論文は、電気焼灼強化型内腔対向金属ステント（EC-LAMS）の合併症に関するナラティブレビューである。EC-LAMSはEUS下の膵仮性嚢胞ドレナージを皮切りに、膵壊死組織除去術、胆嚢・胆管ドレナージ、内視鏡的胃腸吻合術、Roux-en-Y胃バイパス術後患者への除外胃経由ERCP等へと適応が拡大している。一方で、最大5人に1人（約20%）の患者で有害事象（AE）が発生するという高い合併症率が、高次施設以外での普及における大きな障壁となっている。本レビューでは、誤展開・出血・腹腔内リーク・ステント閉塞・ステント逸脱といった主要なAEのリスク因子を整理し、術式別の予防策および合併症発生時の対処法を解説している。",
+  "key_points": [
+   "EC-LAMSは膵仮性嚢胞ドレナージから胃腸吻合術・胆道ドレナージ等まで幅広い治療的EUSに応用されているが、有害事象は最大20%の患者に生じる。",
+   "特に「誤展開（misdeployment）」は最も危惧される合併症であり、その他に出血・腹腔内リーク・ステント閉塞・ステント逸脱が主要なAEとして挙げられる。",
+   "合併症の予防には術式別のリスク因子の把握が重要であり、AE発生時には適切な内視鏡的対処技術の習得が求められる。"
+  ],
+  "clinical_relevance": "EC-LAMSを用いたEUS関連手技を安全に実施するために、合併症のリスク因子・予防策・管理法を体系的に理解することは、消化器内科専門医の研修および実臨床において不可欠である。",
+  "study_type": "総説",
+  "tags": [
+   "EUS",
+   "内視鏡",
+   "膵疾患",
+   "胆道ドレナージ"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42937528/",
+  "doi_url": "https://doi.org/10.14309/ajg.0000000000004237",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-10-28",
+  "pmid": "42933673",
+  "title": "TASTY AND HEALTHY DIET REDUCES FECAL CALPROTECTIN IN HIGH-RISK FIRST-DEGREE RELATIVES OF PATIENTS WITH CROHN'S DISEASE: PIONIR RANDOMIZED CROSSOVER TRIAL.",
+  "title_ja": "クローン病患者の高リスク第一度近親者における美味しく健康的な食事による便中カルプロテクチン低下：PIONIR無作為化クロスオーバー試験",
+  "journal": "Gastroenterology",
+  "year": "2026",
+  "authors": "Turner D, Kenigsberg S, Plotkin L ほか",
+  "summary": "本研究（PIONIR試験）は、クローン病（CD）患者の第一度近親者（FDR）のうち便中カルプロテクチン（FC）が持続的に高値（>70μg/g）であり、内視鏡的にはCD診断基準を満たさない29名を対象に、「Tasty&Healthy（T&H）食」と通常食（HD）を比較した2期間クロスオーバーRCTである。8週時点でのFC中央値はT&H群64μg/g対HD群112μg/g（P=.022）と有意に低く、FCが50%以上低下した割合はT&H群71%対HD群27%（RR=2.68、95%CI 1.09–6.60、P=.016）であった。両クロスオーバー期間を通じた推定周辺平均FCの低下率はT&H群で61%（185→72μg/g）、HD群で38%（185→114μg/g）であり、T&H食による全体的な37%の低下が示された（P<0.001）。この結果は、CD診断基準を満たさない高リスクFDRにおける低度腸管炎症が食事介入で修飾可能であることを示し、長期的な食事によるIBD予防試験の根拠を支持するものである。",
+  "key_points": [
+   "T&H食は通常食と比較して8週時点でFCを有意に低下させ（64 vs 112μg/g、P=.022）、FC50%以上低下の達成率も2.68倍高かった（71% vs 27%）。",
+   "T&H食への受容性・アドヒアランスは良好で、8週時点で79%が「受け入れ可能」と評価し、83%が良好または完全なアドヒアランスを示した。",
+   "腸内細菌叢においても両食事間で6菌種の有意な差異が認められ、食事が腸内環境に影響を与える可能性が示唆された。"
+  ],
+  "clinical_relevance": "IBDの発症前段階にある高リスクFDRに対して食事介入が腸管炎症マーカーを改善し得ることは、IBD一次予防戦略としての食事療法の有用性を示す重要なエビデンスとなる。消化器内科医としてIBD患者家族へのスクリーニングや生活習慣指導を行う際の参考になる。",
+  "study_type": "RCT",
+  "tags": [
+   "IBD",
+   "クローン病",
+   "食事療法",
+   "便中カルプロテクチン"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42933673/",
+  "doi_url": "https://doi.org/10.1053/j.gastro.2026.10.376",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-10-26",
   "pmid": "42925880",
   "title": "14-day versus 28-day trifluridine-tipiracil plus bevacizumab for refractory metastatic colorectal cancer (PRABITAS): a pragmatic, multicentre, open-label, randomised, phase 3, non-inferiority trial in Japan.",

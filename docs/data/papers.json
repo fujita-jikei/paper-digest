@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-10-30",
+  "pmid": "42955353",
+  "title": "Erythrocyte phosphatidylserine externalization shows greater discriminatory performance than red cell distribution width for early recurrence or progression in hepatocellular carcinoma.",
+  "title_ja": "赤血球フォスファチジルセリン外部化は、肝細胞癌の早期再発・進行に対してRDWよりも優れた識別能を示す",
+  "journal": "J Gastroenterol",
+  "year": "2026",
+  "authors": "Tan M, Dai W, Cai D ほか",
+  "summary": "本研究は、新規診断された肝細胞癌（HCC）97例および健常者・慢性肝炎・肝硬変患者を対照とした前向き2施設臨床研究である。フローサイトメトリー・メタボロミクス・プロテオミクスを用いて赤血球障害表現型を解析した結果、HCC患者では赤血球フォスファチジルセリン（PS）の外部化が上昇し、腫瘍径・多発性・転移・BCLCステージと相関していた。PSの高値は、最大腫瘍径・腫瘍数・リンパ節/遠隔転移を調整後も6か月以内の早期再発・進行と独立して関連し（OR=1.382、95%CI 1.112–1.717、P=0.004）、AUC 0.804とRDW-CV（AUC 0.642）を有意に上回った（DeLong P=0.003）。実験的検討では、HCC細胞との共培養によりグルタチオン枯渇と酸化的膜障害が誘発され、N-アセチルシステインで抑制されることが示された。",
+  "key_points": [
+   "赤血球PS外部化はHCC患者で慢性肝炎・肝硬変対照より高値を示し、腫瘍進展度と相関するHCC特異的な赤血球障害マーカーである。",
+   "PS外部化は6か月以内の早期再発・進行の予測においてAUC 0.804を示し、従来用いられてきたRDW-CV（AUC 0.642）より有意に優れた識別能を持つ。",
+   "オルソトピックHCCマウスモデルでPS外部化はRDW上昇に先行して生じ、グルタチオン枯渇を介した酸化的膜障害というメカニズムが実験的に支持された。"
+  ],
+  "clinical_relevance": "肝細胞癌患者において、赤血球PS外部化は早期再発・進行リスクを層別化するための新規候補バイオマーカーとなり得るため、今後の臨床応用を見据えた知識として消化器内科専攻医が押さえておくべき知見である。",
+  "study_type": "コホート",
+  "tags": [
+   "肝細胞癌",
+   "バイオマーカー",
+   "赤血球障害",
+   "腫瘍再発"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42955353/",
+  "doi_url": "https://doi.org/10.1111/jcmm.16010",
+  "pmc_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/7754070/"
+ },
+ {
+  "date": "2026-10-30",
+  "pmid": "42955352",
+  "title": "Columnar-lined esophagus measuring less than 1 cm as a risk factor for esophageal squamous cell carcinoma in Japanese men.",
+  "title_ja": "日本人男性において1cm未満の円柱上皮化生食道は食道扁平上皮癌のリスク因子である",
+  "journal": "J Gastroenterol",
+  "year": "2026",
+  "authors": "Watanabe K, Fukuda S, Kubota D ほか",
+  "summary": "本研究は、超短節バレット食道（USSBE；1cm未満の円柱上皮化生食道）と食道扁平上皮癌（ESCC）発症との関連を検討した全国多施設後ろ向きコホート研究である。2013〜2017年に日本の17施設で内視鏡検査を受けた男性20,402名を対象とし、116,483.1人年の追跡期間中に73例のESCCが発症した。多変量解析の結果、USSBEはESCC発症と独立して有意に関連し（調整HR 1.82、95%CI 1.03〜3.24）、ESCC発症率はUSSBEを有する群で最も高かった（0.0946%/年）。探索的サブグループ解析では、広範な胃萎縮を有する群においてUSSBEとESCCの関連がより強く認められた（調整HR 2.40、95%CI 1.13〜5.13）。",
+  "key_points": [
+   "1cm未満の超短節バレット食道（USSBE）が食道扁平上皮癌の独立したリスク因子であることを示した初めての研究である。",
+   "対象男性の35.1%（7,161名）にUSSBEが認められ、広範な胃萎縮を有する群ではUSSBEによるESCCリスクがさらに高い可能性が示された（調整HR 2.40）。",
+   "胃萎縮の有無によるサブグループ解析の結果は探索的なものであり、交互作用のp値は0.369と有意ではなく、今後の検証が必要である。"
+  ],
+  "clinical_relevance": "内視鏡検査でUSSBEを認めた場合、特に広範な胃萎縮を伴う症例ではESCCのハイリスク群として認識し、より慎重な内視鏡フォローアップを検討する根拠となりうる。消化器内科専門研修において、バレット食道の長さ計測と胃萎縮評価を組み合わせたリスク層別化の重要性を再認識させる知見である。",
+  "study_type": "コホート",
+  "tags": [
+   "バレット食道",
+   "食道扁平上皮癌",
+   "内視鏡",
+   "胃萎縮"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42955352/",
+  "doi_url": "https://doi.org/10.1002/ijc.27824",
+  "pmc_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/1774939/"
+ },
+ {
+  "date": "2026-10-30",
+  "pmid": "42954597",
+  "title": "Metachronous Advanced Neoplasia in Early Onset Colorectal Cancer.",
+  "title_ja": "若年発症大腸癌における術後異時性進行腫瘍の発生リスク",
+  "journal": "Am J Gastroenterol",
+  "year": "2026",
+  "authors": "Naseem Z, Singh K, Hendren J ほか",
+  "summary": "本研究は、若年発症大腸癌（EOCRC：50歳未満）と平均発症大腸癌（AOCRC：50歳以上）の術後異時性進行腫瘍（MAN）の発生率を比較した後ろ向きコホート研究である。2011〜2021年に術後サーベイランス下部消化管内視鏡を1回以上施行したEOCRC 230例（中央値44歳）とAOCRC 504例（中央値66歳）を対象とした。MAN全体の発生率はEOCRCとAOCRCで有意差はなく（13% vs. 16.1%、p=0.342）、ただしAOCRC患者はMAN非発症生存率が有意に低かった。高齢、喫煙歴、遠位大腸（下行結腸・S状結腸）に位置する原発癌が、MANの独立した関連因子として同定され、年齢層別のサーベイランス戦略を支持するに十分なEOCRCにおけるMAN負荷の増加は認められなかった。",
+  "key_points": [
+   "EOCRCとAOCRCにおける術後MANの総発生率は統計学的に有意差がなく（13% vs. 16.1%、p=0.342）、若年発症であることが術後サーベイランス強化の根拠にはならない可能性がある。",
+   "高齢、喫煙歴、遠位大腸（下行結腸・S状結腸）に位置する原発癌がMAN発生の独立した関連因子であり、特に喫煙は回避すべきリスク因子として位置づけられる。",
+   "現行の術後サーベイランスガイドラインはAOCRCコホートを中心に策定されているが、本研究ではEOCRCに特化した年齢層別戦略を支持するエビデンスは得られなかった。"
+  ],
+  "clinical_relevance": "術後大腸癌サーベイランスの間隔設定において、患者の発症年齢よりも喫煙歴や原発腫瘍の部位などの個別リスク因子を考慮することが重要であることを示唆する。消化器内科専攻医は術後サーベイランス計画立案時にこれらの因子を評価する習慣を身につけるべきである。",
+  "study_type": "コホート",
+  "tags": [
+   "大腸癌",
+   "内視鏡",
+   "術後サーベイランス",
+   "若年発症大腸癌"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42954597/",
+  "doi_url": "https://doi.org/10.14309/ajg.0000000000004246",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-10-29",
   "pmid": "42949032",
   "title": "Preventing Clostridioides difficile Infection and Recurrence: Practical Strategies for Clinical Practice.",

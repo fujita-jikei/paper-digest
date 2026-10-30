@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-10-31",
+  "pmid": "42956772",
+  "title": "Non-invasive tests in metabolic dysfunction-associated steatotic liver disease: the LITMUS prospective multicentre diagnostic accuracy study.",
+  "title_ja": "代謝機能障害関連脂肪性肝疾患における非侵襲的検査：LITMUS前向き多施設診断精度研究",
+  "journal": "Lancet",
+  "year": "2026",
+  "authors": "Vali Y, Wonders K, Lee J ほか",
+  "summary": "本研究は、MASLDを有する成人1590例（欧州・米国13か国）を対象とした前向き多施設診断精度研究であり、12種の単一マーカーと18種のマルチマーカーパネルの診断性能を肝生検組織所見を参照基準として評価した。at-risk MASH（MASH＋線維化F≥2）の検出においてはSomaSignalが最高のAUC 0.83（95%CI 0.80–0.85）を示し、生検代替の最低許容基準（AUC>0.80）を唯一超えた。進行線維化（F≥3）ではSomaSignalがAUC 0.92と最高性能を示し、FibroMeter-VCTE（AUC 0.87）、Agile 3+およびTSP2（ともにAUC 0.84）、NIS4（AUC 0.82）が続いた。肝硬変（F4）ではFibroMeter-VCTEがAUC 0.94と最高性能を示し、γ-GTPを第一段階検査とした二段階逐次アプローチも進行線維化・at-risk MASHの双方で基準を満たした。",
+  "key_points": [
+   "プロテオミクスパネルであるSomaSignalは、at-risk MASHおよび進行線維化の検出においていずれも最高のAUCを示し、非侵襲的バイオマーカーとして高い可能性を持つ。",
+   "単一マーカーはMASH単独の検出においてAUC>0.80の最低許容基準を満たすものがなく、マルチマーカーパネルの優位性が示された。",
+   "γ-GTPを初回検査とした二段階逐次アプローチは進行線維化とat-risk MASHの両者で診断基準を達成し、実臨床への応用が期待される。"
+  ],
+  "clinical_relevance": "MASLDに対する薬物療法の承認が進む中、本研究の結果は非侵襲的検査を用いた治療対象患者の選定・臨床試験への組み入れ基準策定・将来のガイドライン改訂に直結する重要なエビデンスとなる。消化器内科専門医として非侵襲的線維化評価マーカーの使い分けや逐次的診断戦略を理解しておくことが求められる。",
+  "study_type": "コホート",
+  "tags": [
+   "MASLD",
+   "MASH",
+   "非侵襲的バイオマーカー",
+   "肝線維化"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42956772/",
+  "doi_url": "https://doi.org/10.1016/S0140-6736(26)01145-1",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-10-31",
+  "pmid": "42950934",
+  "title": "Endoscopic Balloon Dilation Versus Endoscopic Stricturotomy for Short Crohn's Disease Strictures: The BEST-CD Randomized Trial.",
+  "title_ja": "クローン病短狭窄に対する内視鏡的バルーン拡張術vs内視鏡的狭窄切開術：BEST-CDランダム化試験",
+  "journal": "Clin Gastroenterol Hepatol",
+  "year": "2026",
+  "authors": "Pal P, Pooja K, Naaz SM ほか",
+  "summary": "本研究は、症状を有するクローン病（CD）の短狭窄（＜3cm）を対象に、内視鏡的バルーン拡張術（EBD）と内視鏡的狭窄切開術（ES）を比較したランダム化比較試験（RCT）である。18〜65歳の患者106例をEBD群（53例）とES群（53例）に1:1で割り付け、主要評価項目である1年時点の臨床的再発率はES群30.1%に対しEBD群54.7%と有意にES群で低かった（p=0.01）。再介入率（24.5% vs 49.1%、p=0.01）、救急受診率（18.9% vs 50.9%、p=0.001）、入院率（15.1% vs 34%、p=0.02）もES群で有意に低く、12ヶ月のtime-to-event解析でもEBDは臨床的再発（HR 2.27）および再介入（HR 2.40）のリスクが高かった。有害事象の発生率に有意差はなく（13.2% vs 22.6%、p=0.30）、ESはエキスパートセンターにおける有望な内視鏡的治療戦略として支持されるが、多施設試験での検証が必要である。",
+  "key_points": [
+   "内視鏡的狭窄切開術（ES）はバルーン拡張術（EBD）と比較して、1年時点の臨床的再発率を約半減させた（30.1% vs 54.7%）。",
+   "ESは再介入率・救急受診率・入院率においても有意な改善を示したが、外科手術率には有意差がなかった（1.9% vs 11.3%、p=0.11）。",
+   "30日時点の有害事象発生率は両群間で有意差なく（13.2% vs 22.6%）、ESの安全性プロファイルはEBDと同等であった。"
+  ],
+  "clinical_relevance": "CD短狭窄に対して、従来の標準治療であるEBDに代わりESが再発・再介入を抑制する有効な選択肢となり得るため、内視鏡的治療の技術習得が今後の消化器専門研修において重要性を増す可能性がある。ただし、本試験はエキスパートセンター単施設での結果であり、多施設での検証が普及への前提条件となる。",
+  "study_type": "RCT",
+  "tags": [
+   "IBD",
+   "クローン病",
+   "内視鏡",
+   "消化管狭窄"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42950934/",
+  "doi_url": "https://doi.org/10.1016/j.cgh.2026.10.012",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-10-31",
+  "pmid": "42950933",
+  "title": "Real-time Voice-Guided Artificial Intelligence Improves Biliopancreatic Endosonography Quality: A Randomized Trial.",
+  "title_ja": "リアルタイム音声ガイドAIによる胆膵超音波内視鏡検査の質向上：無作為化試験",
+  "journal": "Clin Gastroenterol Hepatol",
+  "year": "2026",
+  "authors": "Wang R, Tian L, Chen X ほか",
+  "summary": "本研究では、AIを活用したリアルタイムEUSナビゲーション・品質管理システム「EUS-GUIDEQ」を開発し、その臨床的有用性を無作為化対照試験で検証した。189例から得られた27,072枚の注釈付き画像で開発されたモデルは、内部データで94.2%、外部多施設データで78.8%の精度でステーション分類を達成した。266例を対象としたRCTでは、AI支援群（n=132）は対照群（n=134）と比較してガイドライン推奨の標準的スキャンステーションの完遂率が有意に高く（中央値1.00 vs 0.81、P<0.001）、手技時間はAI支援群で有意に延長した（12.70±3.23分 vs 10.55±3.62分、P<0.001）。重篤な手技関連有害事象は認めず、音声ガイドAIによるリアルタイムナビゲーションが胆膵EUS検査の質を改善することが示されたが、多施設・多機器での更なる検証が必要とされている。",
+  "key_points": [
+   "AI支援（EUS-GUIDEQ）により、胆膵EUSのガイドライン推奨スキャンステーションの完遂率が対照群と比較して有意に向上した（中央値1.00 vs 0.81、P<0.001）。",
+   "AI支援群では手技時間が約2分延長（12.70分 vs 10.55分）しており、有用性と効率性のトレードオフを考慮する必要がある。",
+   "外部多施設データでのステーション分類精度は78.8%にとどまり、汎化性能の向上と多施設前向き検証が今後の課題である。"
+  ],
+  "clinical_relevance": "EUS検査の質は術者依存性が高く、標準的スキャンの遵守率が低いことが問題となっているが、本システムは特にトレーニング中の内視鏡医や検査標準化を目指す施設において、検査品質の均てん化に貢献できる可能性がある。",
+  "study_type": "RCT",
+  "tags": [
+   "EUS",
+   "人工知能",
+   "胆膵疾患",
+   "内視鏡品質管理"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42950933/",
+  "doi_url": "https://doi.org/10.1016/j.cgh.2026.10.008",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-10-30",
   "pmid": "42955353",
   "title": "Erythrocyte phosphatidylserine externalization shows greater discriminatory performance than red cell distribution width for early recurrence or progression in hepatocellular carcinoma.",

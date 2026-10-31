@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-11-01",
+  "pmid": "42962728",
+  "title": "Comparative Effectiveness of Two Novel Anti-Migration Strategies in Fully Covered Self-Expandable Metal Stents for Biliary Strictures: A Multicenter Propensity-Matched Study.",
+  "title_ja": "胆管狭窄に対する完全被覆型自己拡張型金属ステントにおける2種類の新規逸脱防止戦略の比較効果：多施設傾向スコアマッチング研究",
+  "journal": "Gastrointest Endosc",
+  "year": "2026",
+  "authors": "Ramai D, Fuller A, Bria A ほか",
+  "summary": "本研究は、胆管狭窄に対して使用される完全被覆型自己拡張型金属ステント（FCSEMS）の2種類の逸脱防止デザイン——アンカーフィン付きステント（FCSEMS-AF：Viabil）とアンカーバンプ・拡大遠位フレア付きステント（FCSEMS-AB：WallFlex Plus）——を比較した多施設後ろ向きコホート研究である。3施設で228例（FCSEMS-AF 143例、FCSEMS-AB 85例）を対象とし、傾向スコアマッチング後に64ペアを解析した。主要結果として、FCSEMS-ABはFCSEMS-AFと比較してステント逸脱リスクが有意に高く（調整済みOR 5.25、95%CI 1.58–17.49、p=0.007；調整済みHR 6.26、95%CI 2.01–19.55、p=0.002）、一方でステント閉塞リスクは低い傾向を示した（調整済みOR 0.27、95%CI 0.10–0.78、p=0.015）。死亡率には両群間で有意差は認められなかった。",
+  "key_points": [
+   "FCSEMS-AB（WallFlex Plus）はFCSEMS-AF（Viabil）と比較して、ステント逸脱リスクが約5〜6倍高く、逸脱防止性能に明確な差がある。",
+   "一方でFCSEMS-ABはステント閉塞率が低い傾向を示しており（aOR 0.27）、逸脱抵抗性とステント開存性の間にトレードオフが存在する。",
+   "いずれのデザインも死亡率に差はなく、ステント選択は患者背景や臨床目標（逸脱防止優先か開存性優先か）に応じた個別化が重要である。"
+  ],
+  "clinical_relevance": "胆管狭窄に対するFCSEMS選択の際、逸脱リスクが高い症例（例：短い狭窄や解剖学的に固定が困難な部位）ではFCSEMS-AFを優先する根拠となる。消化器内視鏡専攻医にとって、ステントデザインの違いが臨床転帰に与える影響を理解する上で実践的な知見を提供する。",
+  "study_type": "コホート",
+  "tags": [
+   "胆管狭窄",
+   "内視鏡",
+   "金属ステント",
+   "ERCP"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42962728/",
+  "doi_url": "https://doi.org/10.1016/j.gie.2026.10.022",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-11-01",
+  "pmid": "42962727",
+  "title": "A Modified Single-Step Peroral Cholangioscopy Technique for Gallbladder Stone Removal.",
+  "title_ja": "胆嚢結石除去のための改良型シングルステップ経口胆道鏡技術",
+  "journal": "Gastrointest Endosc",
+  "year": "2026",
+  "authors": "Li LY, Liu S, Fu X ほか",
+  "summary": "本研究は、胆嚢結石と総胆管結石を併存する患者を対象に、ERCP・経口胆道鏡（POCS）を組み合わせたシングルステップ手技（ステント留置・バルーン拡張・即時結石除去を1セッションで実施）の有効性を評価した前向き研究である。2025年3月から11月に14例が登録され、技術的成功率および完全結石除去率はいずれも14/14例（100%）であった。有害事象として6例に高アミラーゼ血症が認められたが膵炎は発症せず、1例に胆嚢穿孔が生じたが保存的治療で軽快した。本手技は胆嚢摘出術を希望しない患者に対して、低侵襲な代替治療として有望であると結論付けられた。",
+  "key_points": [
+   "従来のERCPベースの胆嚢結石除去は2回の手技が必要であったが、本手技ではステント留置・バルーン拡張・結石除去を1セッションで完結させることが可能である。",
+   "14例全例で技術的成功と完全結石除去を達成したが、6例の高アミラーゼ血症および1例の胆嚢穿孔（保存的治療で改善）という有害事象が認められた。",
+   "胆嚢摘出術を回避したい総胆管結石合併胆嚢結石患者に対する低侵襲な内視鏡的選択肢として今後の発展が期待される。"
+  ],
+  "clinical_relevance": "手術リスクの高い患者や胆嚢摘出術を希望しない患者への内視鏡的アプローチの選択肢が広がる可能性があり、高度内視鏡技術を習得する上で注目すべき新規手技である。ただし症例数が少なく、安全性・長期成績の検証には今後の大規模研究が必要である。",
+  "study_type": "その他",
+  "tags": [
+   "胆道内視鏡",
+   "ERCP",
+   "胆嚢結石",
+   "経口胆道鏡（POCS）"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42962727/",
+  "doi_url": "https://doi.org/10.1016/j.gie.2026.10.024",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-11-01",
+  "pmid": "42962726",
+  "title": "Prospective multicenter evaluation of aceto-electronic chromoendoscopy added to Narrow-Band Imaging for real-time identification of deep submucosal invasion in colorectal polyps.",
+  "title_ja": "大腸ポリープにおける深部粘膜下層浸潤のリアルタイム同定を目的とした、狭帯域光観察に酢酸電子色素内視鏡を追加した場合の有用性に関する前向き多施設評価",
+  "journal": "Gastrointest Endosc",
+  "year": "2026",
+  "authors": "Yamamoto S, Ito N, Yamaguchi S ほか",
+  "summary": "本研究は、大腸腫瘍における深部粘膜下層浸潤（T1b）の光学的診断精度向上を目的とした前向き多施設研究であり、日本国内11施設で10mm以上の大腸ポリープを対象に、拡大NBI（M-NBI）に酢酸電子色素内視鏡（AEC）を追加した場合の診断上乗せ効果を評価した。M-NBI＋AECによるT1b予測の総合診断精度は89.3%、感度78.1%、特異度95.8%であり、陽性尤度比18.6・陰性尤度比0.23と良好な診断性能を示した。AECを追加することで、特異度は56.9%から74.5%へ、総合精度は60.3%から77.6%へと有意に改善し（P＜0.0001）、過剰診断の軽減と有意な再分類効果が確認された。以上より、M-NBIへのAEC追加が大腸腫瘍における深部粘膜下層浸潤のリアルタイム光学診断を有意に改善すると結論づけられた。",
+  "key_points": [
+   "M-NBIにAECを追加することで、T1b予測の特異度が56.9%から74.5%、総合精度が60.3%から77.6%へと統計的に有意に向上し、過剰診断の減少に寄与した。",
+   "光学診断陽性時のT1b事前確率は21%であったが、診断後には約83%まで上昇し、AECの臨床的な判別能の高さが示された。",
+   "本研究はリアルタイム診断での評価を前向き多施設デザインで実施しており、実臨床への適用可能性が高い成果である。"
+  ],
+  "clinical_relevance": "T1b大腸癌の正確な光学診断は内視鏡切除か外科手術かの治療方針選択に直結するため、M-NBIへのAEC追加という手技は日常の大腸内視鏡診療において過剰な外科介入を回避するための実践的な選択肢となり得る。消化器内科専攻医にとって、拡大内視鏡診断の精度向上に貢献するAECの手技習得は重要なトレーニング課題となるだろう。",
+  "study_type": "コホート",
+  "tags": [
+   "大腸内視鏡",
+   "NBI",
+   "大腸ポリープ",
+   "光学的診断"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42962726/",
+  "doi_url": "https://doi.org/10.1016/j.gie.2026.10.023",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-10-31",
   "pmid": "42956772",
   "title": "Non-invasive tests in metabolic dysfunction-associated steatotic liver disease: the LITMUS prospective multicentre diagnostic accuracy study.",

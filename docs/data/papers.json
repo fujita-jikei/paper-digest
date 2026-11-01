@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-11-02",
+  "pmid": "42966459",
+  "title": "Safety of Janus kinase inhibitors, ustekinumab, and anti-interleukin-23 in older patients with immune-mediated diseases.",
+  "title_ja": "高齢患者における免疫介在性疾患に対するJAK阻害薬、ウステキヌマブ、抗IL-23薬の安全性",
+  "journal": "Clin Gastroenterol Hepatol",
+  "year": "2026",
+  "authors": "Le Cosquer G, Ranjan MK, Kochar B ほか",
+  "summary": "本研究は、免疫介在性炎症性疾患（IMID）を有する高齢患者における抗IL-12/23・抗IL-23薬およびJAK阻害薬（JAKi）の安全性を評価した系統的レビュー・メタ解析で、PubMed/MEDLINEおよびEmbaseより79件の研究が対象となった。他の生物学的製剤と比較してJAKiは感染症リスク（OR 1.38; 95% CI 1.22–1.55）および重篤な感染症リスク（OR 1.27; 95% CI 1.06–1.52）の増加と関連していた。60歳超のリウマチ疾患コホートではJAKiによる静脈血栓塞栓症（VTE）リスクの増加が認められた（OR 3.28; 95% CI 1.16–9.27）が、IBDコホートでは認められず（OR 0.99; 95% CI 0.58–1.70）、両者間に有意差があった（p=0.045）。抗TNF薬と比較して抗IL-12/23・抗IL-23薬は重篤な感染症リスクが低く（OR 0.76; 95% CI 0.68–0.84）、高齢IMIDの治療選択において同薬が有利である可能性が示された。",
+  "key_points": [
+   "高齢IMID患者において、JAKiは他の生物学的製剤と比較して感染症および重篤な感染症のリスクが有意に高い。",
+   "JAKiによるVTEリスク増加は60歳超のリウマチ疾患コホートで認められたが、IBDコホートでは認められず、疾患種別による差異が示唆された。",
+   "抗IL-12/23・抗IL-23薬は抗TNF薬と比較して重篤な感染症リスクが低く、高齢患者における安全性上の優位性が示された。"
+  ],
+  "clinical_relevance": "高齢のIBD患者に対する薬剤選択において、JAKiの感染リスクを念頭に置きつつ、抗IL-12/23・抗IL-23薬の相対的安全性を考慮することが重要である。また、VTEリスクはIBDとリウマチ疾患で異なる可能性があり、患者背景を踏まえた個別化医療の観点からも本データは臨床判断に有用である。",
+  "study_type": "メタ解析",
+  "tags": [
+   "IBD",
+   "JAK阻害薬",
+   "生物学的製剤",
+   "高齢者"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42966459/",
+  "doi_url": "https://doi.org/10.1016/j.cgh.2026.10.017",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-11-02",
+  "pmid": "42966458",
+  "title": "Development and validation of the OpENS model for upper gastrointestinal cancer screening across diverse regions in China.",
+  "title_ja": "中国の多様な地域における上部消化管癌スクリーニングのためのOpENSモデルの開発と検証",
+  "journal": "Clin Gastroenterol Hepatol",
+  "year": "2026",
+  "authors": "Sun K, Zheng R, Dou L ほか",
+  "summary": "本研究は、中国全土386施設から673,126名を対象に、食道・噴門部・非噴門部胃領域（NCGR）における上部消化管癌の個別化スクリーニングのためのリスク層別化モデル（OpENS）を開発・検証したコホート研究である。上部消化管進行腫瘍は17,688例（2.63%）に確認され、多変量モデルのAUCは食道・噴門部で0.850超、NCGRで0.750超を達成した。個人リスクスコアの最適閾値はスコア8点で、スクリーニング効率が2.3倍向上し、地域のリスクレベル（高・中・低）および受診歴（初回・再診）に応じた閾値設定により、それぞれ1.02倍・1.19倍・2.07倍の効率改善が得られた。本モデルは地域特性や個人リスクに応じた機会的スクリーニングの効率化に実用的に活用できると結論付けられた。",
+  "key_points": [
+   "食道・噴門部のリスク予測モデルはAUC 0.850超と高い識別能を示し、個人リスクスコア閾値8点の採用によりスクリーニング効率が2.3倍向上する。",
+   "地域の上部消化管癌罹患率に基づいて高・中・低リスク地域を分類し、初回受診者と再診者それぞれに異なる最適スコア閾値を設定することで、地域に応じた効率的なスクリーニング戦略が可能となる。",
+   "低リスク地域では初回受診者スコア6、再診者スコア8を閾値とすることで2.07倍の効率改善が得られ、医療資源の少ない地域ほど効率化の恩恵が大きい。"
+  ],
+  "clinical_relevance": "上部消化管癌の機会的スクリーニングにおいて、患者個人のリスク因子と地域の癌罹患率を組み合わせた層別化戦略は、内視鏡検査の適応判断や優先度決定に直接応用できる実践的ツールとなりうる。消化器内科専門研修において、リスクモデルを用いた個別化スクリーニングの概念を習得する上で有益な知見である。",
+  "study_type": "コホート",
+  "tags": [
+   "上部消化管癌",
+   "内視鏡スクリーニング",
+   "リスク層別化",
+   "食道癌・胃癌"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42966458/",
+  "doi_url": "https://doi.org/10.1016/j.cgh.2026.10.018",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-11-02",
+  "pmid": "42962725",
+  "title": "Outcomes of polyglycolic acid sheet shielding after gastric endoscopic submucosal dissection in patients receiving anticoagulants or dual antiplatelet therapy: a prospective multicenter study.",
+  "title_ja": "抗凝固薬または抗血小板薬2剤併用療法を受けている患者における胃ESD後のポリグリコール酸シートによるシールディングの成績：前向き多施設研究",
+  "journal": "Gastrointest Endosc",
+  "year": "2026",
+  "authors": "Tsuji Y, Mizutani H, Hirasawa K ほか",
+  "summary": "本研究は、抗凝固薬または抗血小板薬2剤併用療法（DAPT）を継続したまま胃ESDを受けた患者を対象に、ポリグリコール酸（PGA）シートとフィブリン糊による潰瘍床シールディングの後出血予防効果を評価した前向き多施設単群試験（日本国内13施設）である。125例が解析対象となり、28日以内の遅発性出血は13例（10.4%、95%CI：5.7〜17.1%）に発生し、事前設定の有効性閾値である15%を統計学的に下回ることは示されなかった（p=0.09）。DAPT群の出血率は28.6%と抗凝固薬群の9.3%より高く、輸血を要した症例は5.6%、血栓塞栓イベントは0.8%であった。事前設定の有効性基準は達成されず、この高リスク集団においてPGAシールディングが臨床的有益性をもたらすかどうかを明らかにするためには、さらなる対照試験が必要とされる。",
+  "key_points": [
+   "抗凝固薬またはDAPT継続下での胃ESD後にPGAシートとフィブリン糊を用いたシールディングを行っても、遅発性出血率は10.4%であり、事前設定の有効性閾値（15%）を有意に下回ることは示せなかった。",
+   "DAPT群における遅発性出血率（28.6%）は抗凝固薬群（9.3%）と比較して著しく高く、DAPTが特に高リスクなサブグループであることが示唆された。",
+   "血栓塞栓イベントの発生率は0.8%と低く、抗血栓薬を継続したままESDを施行する戦略における安全性の一端が示された。"
+  ],
+  "clinical_relevance": "抗血栓療法継続下での胃ESD後出血は依然として重要な臨床課題であり、PGAシールディングの有効性はこの高リスク集団では現時点で確立されていないため、日常診療において対策の選択に注意が必要である。消化器内科専攻医は、抗血栓薬の種類（特にDAPT）によって出血リスクが大きく異なることを念頭に置き、個別のリスク評価と管理を習得することが求められる。",
+  "study_type": "コホート",
+  "tags": [
+   "胃ESD",
+   "内視鏡",
+   "抗血栓療法",
+   "後出血予防"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42962725/",
+  "doi_url": "https://doi.org/10.1016/j.gie.2026.10.021",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-11-01",
   "pmid": "42962728",
   "title": "Comparative Effectiveness of Two Novel Anti-Migration Strategies in Fully Covered Self-Expandable Metal Stents for Biliary Strictures: A Multicenter Propensity-Matched Study.",

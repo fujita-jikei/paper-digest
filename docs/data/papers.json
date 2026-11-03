@@ -1,5 +1,31 @@
 [
  {
+  "date": "2026-11-03",
+  "pmid": "42970107",
+  "title": "Salvage esophagectomy versus photodynamic therapy for localized residual or recurrent esophageal squamous cell carcinoma after definitive chemoradiotherapy or radiotherapy: a single-center comparative study.",
+  "title_ja": "根治的化学放射線療法または放射線療法後の局所遺残・再発食道扁平上皮癌に対するサルベージ食道切除術と光線力学療法の単施設比較研究",
+  "journal": "J Gastroenterol",
+  "year": "2026",
+  "authors": "Ujiie N, Sato C, Taniyama Y ほか",
+  "summary": "本研究は、根治的化学放射線療法（CRT）または放射線療法（RT）後に局所遺残・再発した食道扁平上皮癌（ESCC）患者91例（cT1-2N0M0）を対象に、サルベージ食道切除術（33例）と光線力学療法（PDT）（58例）の治療成績を後方視的に比較した単施設研究である。サルベージ食道切除術ではR0切除率94.0%が達成された一方、48.5%に重篤な術後合併症が生じ、1例の治療関連死が認められた。PDT群では初回局所完全奏効率74.1%、Grade 3有害事象は1例のみで治療関連死はなく、両群間でOS（p=0.597）およびDSS（p=0.670）に有意差は認められなかった。本研究はPDTの非劣性・同等性を証明するものではないが、PDTは安全性プロファイルに優れ、手術困難な患者への臓器温存的サルベージ治療の選択肢となりうる。",
+  "key_points": [
+   "サルベージ食道切除術はR0切除率94.0%と高い根治性を示す一方、48.5%という高率の重篤な術後合併症が問題であり、治療関連死も1例認められた。",
+   "PDTは初回局所完全奏効率74.1%、重篤有害事象は1例のみで治療関連死がなく、高齢・高合併症リスク患者に対する低侵襲なサルベージ治療として注目される。",
+   "両群間で全生存期間・疾患特異的生存期間に有意差はなかったが、PDT群は有意に高齢かつ併存疾患負担が大きく、単純な比較には注意が必要である。"
+  ],
+  "clinical_relevance": "根治的CRT/RT後の局所遺残・再発ESCCに対して、手術リスクが高い患者へのPDTという選択肢を消化器内科医が認識しておくことは、集学的治療方針の立案において重要である。サルベージ治療の適応検討に際し、患者の年齢・合併症・手術耐容能を踏まえた個別化アプローチが求められる。",
+  "study_type": "コホート",
+  "tags": [
+   "食道癌",
+   "光線力学療法",
+   "化学放射線療法",
+   "サルベージ治療"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42970107/",
+  "doi_url": "https://doi.org/10.1186/s13014-016-0604-z",
+  "pmc_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/4769588/"
+ },
+ {
   "date": "2026-11-02",
   "pmid": "42966459",
   "title": "Safety of Janus kinase inhibitors, ustekinumab, and anti-interleukin-23 in older patients with immune-mediated diseases.",

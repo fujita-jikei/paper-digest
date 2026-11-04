@@ -1,5 +1,57 @@
 [
  {
+  "date": "2026-11-04",
+  "pmid": "42972072",
+  "title": "Modeling intestinal fibrosis in inflammatory bowel disease: translational animal models and ex vivo platforms.",
+  "title_ja": "炎症性腸疾患における腸管線維化のモデル化：トランスレーショナル動物モデルとex vivoプラットフォーム",
+  "journal": "J Gastroenterol",
+  "year": "2026",
+  "authors": "Yan R, Ghozati A, Chen H ほか",
+  "summary": "腸管線維化は炎症性腸疾患（IBD）、特にクローン病（CD）において頻度が高く患者の日常生活を著しく障害する合併症であり、潰瘍性大腸炎（UC）においても線維性リモデリングが生じうる。本総説では、化学誘発モデル、微生物・生物学的モデル、免疫細胞介在モデル、機械的損傷修復モデル、遺伝的感受性・サイトカイン駆動モデル、さらに放射線誘発モデルやオルガノイドモデルといった革新的モデルを含む複数カテゴリーの動物モデルを検討した。各モデルについて、ECMリモデリング、線維芽細胞活性化、慢性炎症、組織硬化、固有筋層リモデリング、管腔狭窄・線維性狭窄の再現性という観点から有用性と限界を評価した。その結果、各モデルを最適な研究用途と結びつける実践的・応用志向のフレームワークを提示し、IBD関連線維化および線維狭窄に対する病態生理学的根拠に基づく治療戦略の開発を支援することを目的としている。",
+  "key_points": [
+   "IBD関連腸管線維化に対する承認済み抗線維化療法は現時点で存在せず、その主因は線維化メカニズムの不完全な理解と有効なトランスレーショナルモデルの欠如にある。",
+   "化学誘発・免疫細胞介在・遺伝的感受性・オルガノイドモデルなど多様な実験系が存在し、それぞれ線維化IBDの異なる特徴を再現する強みと限界を持つ。",
+   "各動物モデル・ex vivoプラットフォームの特性を研究目的に対応付けることで、より標的化された治療開発への橋渡しが期待される。"
+  ],
+  "clinical_relevance": "消化器内科専門医を目指す医師にとって、腸管線維化・線維狭窄の病態理解と将来的な抗線維化療法開発の基盤となる実験モデルの全体像を把握することは、IBD診療の最前線を理解する上で重要である。",
+  "study_type": "総説",
+  "tags": [
+   "IBD",
+   "腸管線維化",
+   "クローン病",
+   "動物モデル"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42972072/",
+  "doi_url": "https://doi.org/10.1148/radiol.13121775",
+  "pmc_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/10341577/"
+ },
+ {
+  "date": "2026-11-04",
+  "pmid": "42971247",
+  "title": "Efficacy of Endoscopic Hand Suturing for Prevention of Adverse Events After Gastric Endoscopic Submucosal Dissection: A Multicenter Propensity Score-Matched Study.",
+  "title_ja": "胃ESD後有害事象予防における内視鏡的手縫い縫合の有効性：多施設傾向スコアマッチング研究",
+  "journal": "Endoscopy",
+  "year": "2026",
+  "authors": "Minoda Y, Nagasue T, Morita T ほか",
+  "summary": "本研究は、胃ESD後潰瘍に対する内視鏡的手縫い縫合（EHS）の有効性と安全性を評価した多施設後ろ向き研究であり、傾向スコアマッチング（1:3比）を用いてEHS群（n=123）と非EHS群（n=369）を比較した。ESD後有害事象の発生率はEHS群で有意に低く（1.6% vs. 8.9%、P<0.01）、特に遅発性出血の減少が顕著であった（1.6% vs. 8.4%、P<0.01）。BEST-J分類の高リスク・超高リスク群では絶対リスク減少がそれぞれ21.5%・40.0%と大きく、EHSの完全閉鎖成功率は94.7%（131例中124例）、中央値縫合時間は52.5分であった。術後5日目の縫合解離率は27%であったが遅発性出血リスクの増加とは関連せず、約25症例の経験で完全閉鎖率がほぼ100%に達する学習曲線が示された。",
+  "key_points": [
+   "EHSはESD後有害事象（特に遅発性出血）を有意に減少させ、BEST-J分類の高リスク・超高リスク群でその恩恵がより大きい可能性がある。",
+   "EHSの完全閉鎖成功率は94.7%と高く、術後5日目の縫合解離（27%）は遅発性出血リスクと関連しなかった。",
+   "学習曲線解析により、約25症例の経験で完全閉鎖率がほぼ100%に達することが示され、習得可能な技術であることが示唆された。"
+  ],
+  "clinical_relevance": "胃ESD後の遅発性出血リスクが高い症例（BEST-J高リスク・超高リスク群など）に対して、EHSは有用な予防的介入となりうる。消化器内科専門医を目指す医師にとって、EHSは習得すべき内視鏡的縫合技術として今後の研修カリキュラムに位置づけられる可能性がある。",
+  "study_type": "コホート",
+  "tags": [
+   "ESD",
+   "内視鏡",
+   "胃癌",
+   "遅発性出血"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42971247/",
+  "doi_url": "https://doi.org/10.1055/a-2994-5054",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-11-03",
   "pmid": "42970107",
   "title": "Salvage esophagectomy versus photodynamic therapy for localized residual or recurrent esophageal squamous cell carcinoma after definitive chemoradiotherapy or radiotherapy: a single-center comparative study.",

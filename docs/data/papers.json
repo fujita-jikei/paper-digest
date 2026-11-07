@@ -1,5 +1,31 @@
 [
  {
+  "date": "2026-11-08",
+  "pmid": "42988025",
+  "title": "Latent Class Analysis May Predict Patients with Irritable Bowel Syndrome Who Respond to Amitriptyline: Post Hoc Analyses from ATLANTIS.",
+  "title_ja": "潜在クラス分析によるアミトリプチリンに反応するIBS患者の予測：ATLANTISの事後解析",
+  "journal": "Clin Gastroenterol Hepatol",
+  "year": "2026",
+  "authors": "Black CJ, Wright-Hughes A, Ow PL ほか",
+  "summary": "本研究はATLANTIS試験の事後解析として、消化器症状と心理的症状の組み合わせがアミトリプチリンへの治療反応に影響するかを検討した。401名の参加者を潜在クラス分析により4つのクラスター（①消化器・心理症状とも軽度、②消化器症状優位・心理症状軽度、③心理症状優位・消化器症状軽度、④消化器・心理症状とも重度）に分類した。クラスター3（心理症状優位群）では、アミトリプチリン群のIBS-SSS変化量がプラセボ群と比較して有意に大きく（-103.44 vs -61.89、p=0.045）、治療反応が認められた一方、クラスター4（症状重度群）では試験薬の早期中止率が有意に高く（p=0.0023）、副作用スコアも最も高かった。これらの探索的解析から、消化器・心理症状のプロファイルがアミトリプチリンの効果と忍容性を予測しうることが示された。",
+  "key_points": [
+   "心理症状が優位で消化器症状が比較的軽度なIBS患者（クラスター3）では、低用量アミトリプチリンがプラセボより有意にIBS-SSSを改善した（平均差 -103.44 vs -61.89、p=0.045）。",
+   "消化器・心理症状がともに重度なIBS患者（クラスター4）では、6か月以前の試験薬中止率が有意に高く（p=0.0023）、副作用負担も最も大きかった。",
+   "治療効果のクラスター間交互作用は全体として有意ではなく（p=0.76）、今回の知見はあくまで探索的解析に基づくものであり解釈に注意が必要である。"
+  ],
+  "clinical_relevance": "IBS患者に低用量アミトリプチリンを処方する際、心理症状が前景に立つ患者では特に効果が期待できる一方、身体・心理症状がともに重篤な患者では忍容性に注意が必要であり、症状プロファイルに基づく患者選択が治療成績向上につながる可能性がある。",
+  "study_type": "RCT",
+  "tags": [
+   "IBS",
+   "過敏性腸症候群",
+   "三環系抗うつ薬",
+   "脳腸相関"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42988025/",
+  "doi_url": "https://doi.org/10.1016/j.cgh.2026.10.027",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-11-07",
   "pmid": "42993576",
   "title": "3% Sucralfate-Containing Topical Formulation Versus 0.2% Topical Nitroglycerin for Chronic Anal Fissure: A Double-Blind Randomized Controlled Trial.",

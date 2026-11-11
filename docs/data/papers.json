@@ -1,5 +1,31 @@
 [
  {
+  "date": "2026-11-11",
+  "pmid": "43003118",
+  "title": "Mucosal abnormalities as key predictive factors of colorectal cancer in ulcerative colitis.",
+  "title_ja": "潰瘍性大腸炎における大腸癌の主要な予測因子としての粘膜異常",
+  "journal": "Endoscopy",
+  "year": "2026",
+  "authors": "Högdén A, Perrin V, Adami HO ほか",
+  "summary": "本研究は、スカンジナビアにおける人口ベースの潰瘍性大腸炎（UC）コホート（実質的に90,780例に相当）を対象としたケースコホート研究であり、中央値15年の追跡期間でCRC発症例566例と対照720例を解析した。大腸炎の範囲（全大腸炎vs直腸炎でHR 2.3）よりも、低異型度異形成（3倍超のリスク）や腺腫（HR 9.8、95%CI 5.2–18.6）といった粘膜異常がCRCの最も強力な予測因子であった。一方、重度の肉眼的・顕微鏡的炎症や生物学的製剤・免疫調節薬による薬物療法はCRCリスクの有意な低減と関連しなかった。これらの知見は、炎症の重症度よりも粘膜異常の有無を重視した内視鏡サーベイランス戦略の再考を促すものである。",
+  "key_points": [
+   "腺腫の存在はCRCリスクをほぼ10倍（HR 9.8）に高める最強の予測因子であり、低異型度異形成も3倍超のリスクと関連した。",
+   "重度の肉眼的・顕微鏡的炎症はCRCリスクと有意な関連を示さず、炎症制御（生物学的製剤・免疫調節薬）によるCRスク低減効果も確認されなかった。",
+   "現行の内視鏡サーベイランスガイドラインは炎症の程度や罹患範囲を重視しているが、本研究の結果はその推奨を支持しない可能性がある。"
+  ],
+  "clinical_relevance": "UCのCRCサーベイランスにおいて、炎症活動性や罹患範囲よりも粘膜異常（異形成・腺腫）の検出を優先する戦略の重要性を示唆しており、内視鏡サーベイランスの適応・間隔設定に関わる日常臨床判断に影響を与えうる知見である。",
+  "study_type": "コホート",
+  "tags": [
+   "IBD",
+   "潰瘍性大腸炎",
+   "大腸癌",
+   "内視鏡サーベイランス"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43003118/",
+  "doi_url": "https://doi.org/10.1055/a-2974-2972",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-11-08",
   "pmid": "42988025",
   "title": "Latent Class Analysis May Predict Patients with Irritable Bowel Syndrome Who Respond to Amitriptyline: Post Hoc Analyses from ATLANTIS.",

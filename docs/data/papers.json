@@ -1,5 +1,57 @@
 [
  {
+  "date": "2026-11-12",
+  "pmid": "43008993",
+  "title": "A pragmatic endoscopic/histological classification of immune checkpoint inhibitor-induced colitis: clinical and transcriptomic correlates.",
+  "title_ja": "免疫チェックポイント阻害剤誘発性大腸炎の実践的な内視鏡・組織学的分類：臨床的・トランスクリプトーム的相関",
+  "journal": "Clin Gastroenterol Hepatol",
+  "year": "2026",
+  "authors": "Ibraheim H, Davide d'Arienzo P, James Dean N ほか",
+  "summary": "本研究は英国2施設250例のICI誘発性大腸炎患者を後ろ向きに解析し、Mayo内視鏡スコア（MES）に基づく内視鏡・組織学的分類を提案した。患者はGroup 1（軽症炎症、MES 0-1）とGroup 2（中等症〜重症、MES 2-3、20%）に分類され、Group 2は血便・抗CTLA-4療法・抗PD-(L)1＋化学療法が独立した予測因子（AUC 0.79）であり、入院・ステロイド抵抗性・手術と関連した。一方、Group 1（特にGroup 1b：顕微鏡的大腸炎、10.5%）は抗PD-1(L1)療法に関連し最も軽症であり、Group 1全体では経口第2世代コルチコステロイドで80%以上の寛解が得られた。ICI再投与後の再発率は約37%であり、重症群ではVEGFシグナル・細胞外マトリックスリモデリング・上皮間葉転換の経路が特異的に濃縮されていた。",
+  "key_points": [
+   "ICI誘発性大腸炎を内視鏡・組織所見で2グループに分類することで、臨床転帰（入院・ステロイド抵抗性・手術）と生物学的特性（トランスクリプトームプロファイル）の双方を反映した層別化が可能となる。",
+   "血便・抗CTLA-4療法・抗PD-(L)1＋化学療法の組み合わせが重症（Group 2）を予測し（AUC 0.79）、早期の積極的介入を検討するうえで重要な指標となる。",
+   "軽症群（Group 1）では経口第2世代コルチコステロイドで80%以上が寛解に至り、ステロイド節約アプローチの実践的根拠を提供している。"
+  ],
+  "clinical_relevance": "消化器内科医として、ICI誘発性大腸炎の重症度をCTCAE下痢グレードのみに依存せず、内視鏡・組織所見および臨床特徴を組み合わせた分類を用いることで、より適切な治療戦略（早期介入 vs ステロイド節約）の選択が可能となる。ICI再投与時の再燃リスク（約37%）についても患者に適切なインフォームドコンセントを行う際の具体的エビデンスとして活用できる。",
+  "study_type": "コホート",
+  "tags": [
+   "免疫チェックポイント阻害剤",
+   "ICI誘発性大腸炎",
+   "内視鏡",
+   "免疫関連有害事象"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43008993/",
+  "doi_url": "https://doi.org/10.1016/j.cgh.2026.10.032",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-11-12",
+  "pmid": "43008794",
+  "title": "Phase I Trial of Liquid Nitrogen Spray Cryotherapy concurrent with neoadjuvant chemoradiation for Locally Advanced Esophageal Cancer: Dose Escalation and Long-Term Overall Survival.",
+  "title_ja": "局所進行食道癌に対する術前化学放射線療法と同時施行する液体窒素スプレー凍結療法のフェーズI試験：用量漸増および長期全生存率",
+  "journal": "Endoscopy",
+  "year": "2026",
+  "authors": "Shah T, Shah T, Spataro J ほか",
+  "summary": "本試験は、局所進行食道癌において液体窒素スプレー凍結療法（LNSC）を術前化学放射線療法（CRT）と同時に施行する安全性を評価した「3+3」デザインのフェーズI用量漸増試験である。対象13例において、CRT前またはCRT中にLNSCを施行した際、治療関連のグレード2・3有害事象は認められず、最大耐用量はCRT前2回・CRT中1回の計3セッションと決定された。完全臨床奏効率（cCR）は70%、中央値36ヶ月のフォローアップにおける全生存率は40%であり、QoLスコアも第1・第2セッション後に有意な改善（p=0.002、p=0.004）が認められた。これらの結果はフェーズII試験への移行を支持するものである。",
+  "key_points": [
+   "LNSCをCRT前後に最大3セッション施行しても用量制限毒性は認められず、化学放射線療法との同時施行の安全性が確認された。",
+   "LNSC＋CRT併用による完全臨床奏効率は70%と高く、免疫原性細胞死の指標であるHMGB1が30日以内に25%以上低下した症例が38%に認められた。",
+   "QoLスコアはベースラインの37から第1・第2セッション後にそれぞれ31・29へと有意に改善し、患者の生活の質への悪影響が少ないことが示された。"
+  ],
+  "clinical_relevance": "食道癌の内視鏡治療・集学的治療を学ぶ消化器内科専攻医にとって、凍結療法が化学放射線療法の効果増強や免疫賦活に寄与する可能性を示す新興の治療戦略として注目すべき知見である。今後のフェーズII試験の結果次第では、局所進行食道癌の標準治療に新たな選択肢が加わる可能性がある。",
+  "study_type": "その他",
+  "tags": [
+   "食道癌",
+   "凍結療法",
+   "内視鏡",
+   "化学放射線療法"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43008794/",
+  "doi_url": "https://doi.org/10.1055/a-2999-9638",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-11-11",
   "pmid": "43003118",
   "title": "Mucosal abnormalities as key predictive factors of colorectal cancer in ulcerative colitis.",

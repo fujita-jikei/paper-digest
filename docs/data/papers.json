@@ -1,5 +1,83 @@
 [
  {
+  "date": "2026-11-15",
+  "pmid": "43025768",
+  "title": "Depletion of Endogenous IL-18 Suppresses Pancreatic Cancer Progression, Reprograms the Tumor Microenvironment, and Enhances KRAS Inhibitor Efficacy.",
+  "title_ja": "内因性IL-18の枯渇は膵癌の進行を抑制し、腫瘍微小環境を再プログラムし、KRAS阻害剤の有効性を増強する",
+  "journal": "Gastroenterology",
+  "year": "2026",
+  "authors": "Sun X, Ma Y, Wang L ほか",
+  "summary": "本研究では、膵管腺癌（PDAC）においてIL-18が患者の予後不良と相関することを示し、遺伝子操作マウスモデルを用いてIL-18の機能的役割を検討した。IL-18を遺伝的に欠損させたマウスでは自然発症PDACの進行が有意に抑制され、生存期間の延長が認められた。機序として、IL-18はSTAT1依存性にCD47発現を誘導することでマクロファージによる癌細胞の貪食を障害し、また腫瘍免疫微小環境をMHCIIおよびCD11c発現が亢進した抗原提示・貪食能の高いマクロファージ表現型へと再編することが示された。さらに、KRAS阻害剤（KRASi）治療によりPDAC細胞でのIL-18発現が増加し、IL-18の枯渇はKRASi処理後の癌細胞のマクロファージ依存的な排除を促進して治療効果を改善した。",
+  "key_points": [
+   "IL-18はSTAT1-CD47シグナル軸を介して癌細胞を「eat-me not」シグナルで保護し、マクロファージによる貪食から逃避させることで免疫回避を促進する。",
+   "IL-18の枯渇は腫瘍内マクロファージを抗原提示・貪食能の高い表現型へと再プログラムし、抗腫瘍免疫を強化する。",
+   "KRAS阻害剤がPDAC細胞のIL-18発現を上昇させるという知見は、IL-18標的療法がKRASi耐性克服の併用戦略となりうることを示唆する。"
+  ],
+  "clinical_relevance": "現在KRAS阻害剤が膵癌治療の新たな選択肢として注目される中、IL-18を標的とした併用療法が薬剤耐性を克服し治療効果を高める可能性があり、消化器内科医として今後の臨床試験動向を注視する必要がある。",
+  "study_type": "その他",
+  "tags": [
+   "膵癌",
+   "腫瘍免疫",
+   "KRAS阻害剤",
+   "腫瘍微小環境"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43025768/",
+  "doi_url": "https://doi.org/10.1053/j.gastro.2026.10.383",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-11-15",
+  "pmid": "43025725",
+  "title": "Pre-Liver Transplant Immunotherapy and Post-Transplant Outcomes in HCC: Global LIFT-HCC-1 Study.",
+  "title_ja": "肝細胞癌に対する肝移植前免疫療法と移植後アウトカム：国際多施設研究 LIFT-HCC-1",
+  "journal": "Clin Gastroenterol Hepatol",
+  "year": "2026",
+  "authors": "Rezaee-Zavareh MS, Wang T ほか",
+  "summary": "本研究は2015〜2025年に免疫チェックポイント阻害薬（ICI）治療後に肝移植（LT）を受けたHCC患者408例を対象とした国際後ろ向きコホート研究である。LT後中央値21.2ヶ月の追跡期間中、拒絶反応19%・HCC再発26%・死亡21%が認められた。拒絶リスクは非HBV病因（HCV：aSHR=3.86、非ウイルス性：aSHR=2.55）・irAEs既往（aSHR=1.87）で高く、ICI洗い出し期間90日超（aSHR=0.49）で低下した。移植時のAFP≥20（aSHR=2.14）およびMilan基準超（aSHR=2.17）はHCC再発と関連し、ダウンステージング成功例と常にMilan基準内であった例の3年OS（80.8% vs 86.9%、p=0.92）・RFS（83.8% vs 86.5%、p=0.88）は同等であった。",
+  "key_points": [
+   "ICI洗い出し期間を90日超とすることで移植後の拒絶リスクが約半減（aSHR=0.49）するため、移植前のICI投与タイミングの管理が重要である。",
+   "移植時の腫瘍負荷（Milan基準超）とAFP≥20はHCC再発の独立した予測因子であり、移植適応選択の基準として腫瘍マーカーと画像評価が不可欠である。",
+   "ICI治療によりダウンステージングに成功した症例は、常にMilan基準内であった症例と移植後生存率・無再発生存率で有意差がなく、適切な症例選択のもとでICI+LT戦略の有効性が示唆された。"
+  ],
+  "clinical_relevance": "肝細胞癌に対してICIを使用した後に肝移植を検討する際、洗い出し期間・ウイルス性肝炎の病因・irAEs歴・移植時の腫瘍負荷とAFPを総合的に評価することが、移植後の拒絶や再発リスク管理において重要な臨床的示唆を与える。消化器内科医・肝臓専門医として、ICIと移植の橋渡し戦略を議論する上で本データは参考になる。",
+  "study_type": "コホート",
+  "tags": [
+   "肝細胞癌",
+   "免疫チェックポイント阻害薬",
+   "肝移植",
+   "腫瘍学"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43025725/",
+  "doi_url": "https://doi.org/10.1016/j.cgh.2026.09.058",
+  "pmc_url": ""
+ },
+ {
+  "date": "2026-11-15",
+  "pmid": "43025472",
+  "title": "Cryoballoon Ablation for Eradication of Sporadic and Familial Non-Ampullary Proximal Duodenal Adenomas (with video).",
+  "title_ja": "孤発性および家族性非乳頭部近位十二指腸腺腫の根絶に対するクライオバルーンアブレーション（動画付き）",
+  "journal": "Gastrointest Endosc",
+  "year": "2026",
+  "authors": "Canto MI, Khara HS, Diehl DL ほか",
+  "summary": "本研究は、良性の家族性・孤発性非乳頭部十二指腸腺腫（サイズ1〜5cm、厚さ<4mm）を対象に、クライオバルーンアブレーション（CBA）の安全性と有効性を評価した前向き多施設非ランダム化試験である。31例（FAP 5例、非FAP 26例）の43病変を対象とし、中央値2回の処置（1病変あたり約2.6分）で治療した結果、患者ベースの完全根絶率（CE）は87%（27/31例）、病変ベースでは79%（34/43病変）であり、孤発性とFAP間で差は認められなかった。2cm未満の病変はすべて根絶され、病変サイズがCEの唯一の独立予測因子であった。出血や穿孔を含む治療関連重篤有害事象は認められず、術後疼痛の発生率は6.1%と軽度であった。",
+  "key_points": [
+   "CBAは近位十二指腸の非乳頭部腺腫に対して高い技術的成功率（97%）と良好な完全根絶率（患者ベース87%、病変ベース79%）を示した。",
+   "2cm未満の腺腫はすべて完全根絶されており、病変サイズがCEの唯一の独立予測因子であることが示された。",
+   "FAP患者においてもSpigelman分類のダウンステージが3例で確認され、孤発性病変と同等の有効性が示唆された。"
+  ],
+  "clinical_relevance": "十二指腸腺腫は内視鏡的切除が技術的に難易度が高く合併症リスクも高いため、CBAは特に小型病変に対する低侵襲な代替治療オプションとして消化器内科専門研修において重要な知識となりうる。",
+  "study_type": "コホート",
+  "tags": [
+   "十二指腸腺腫",
+   "内視鏡",
+   "アブレーション",
+   "FAP"
+  ],
+  "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43025472/",
+  "doi_url": "https://doi.org/10.1016/j.gie.2026.11.015",
+  "pmc_url": ""
+ },
+ {
   "date": "2026-11-14",
   "pmid": "43020140",
   "title": "Effect of Dose Interval on Split-dose Bowel Preparation: A Multicenter Noninferiority Randomized Controlled Trial.",
